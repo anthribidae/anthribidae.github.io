@@ -93,7 +93,7 @@ Tribes names according to [Bouchard _el al._ (2011)](https://zookeys.pensoft.net
 ## [_Phaenithon_ Schoenherr, 1826: 37](https://anthribidae.github.io/anthribidae/anthribinae/basitropini/phaenithon/)
 (65 species)
 
-| [<img src="https://media01.symbiota.org/media/ecdysis/ASU_ASUCOB/ASUCOB0014/ASUCOB0014482_lateral_edited_1627430202.jpg" alt="Phaenithon curvipes" width="320" height="213.4">](https://media01.symbiota.org/media/ecdysis/collections/individual/index.php?occid=616665) [<img src="https://media01.symbiota.org/media/ecdysis/ASU_ASUCOB/ASUCOB0014/ASUCOB0014482_dorsal_edited_1627430805.jpg" alt="Phaenithon curvipes" width="320" height="213.4">](https://ecdysis.org/collections/individual/index.php?occid=616665) | 
+| [<img src="https://media01.symbiota.org/media/ecdysis/ASU_ASUCOB/ASUCOB0014/ASUCOB0014482_lateral_edited_1627430202.jpg" alt="Phaenithon curvipes" width="320" height="213.4">](https:/ecdysis.org/collections/individual/index.php?occid=616665) [<img src="https://media01.symbiota.org/media/ecdysis/ASU_ASUCOB/ASUCOB0014/ASUCOB0014482_dorsal_edited_1627430805.jpg" alt="Phaenithon curvipes" width="320" height="213.4">](https://ecdysis.org/collections/individual/index.php?occid=616665) | 
 |:--:| 
 |_Phaenithon curvipes_ (Germar): 1.) lateral view. 2.) dorsal view. Specimen deposited at Arizona State University Biocollections (ASUCOB, ASUHIC). Images and data available at [ecdysis](https://ecdysis.org) portal and [GBIF](https://gbif.org). Images: Samanta Orellana.|
 
