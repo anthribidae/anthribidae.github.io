@@ -24,9 +24,9 @@ Tribes names according to [Bouchard _el al._ (2011)](https://zookeys.pensoft.net
 
 ---
 
-| [<img src="https://serv.biokic.asu.edu/imglib/storage/portals/scan/misc/201505/ASUHIC007903_habitus_lateral_1_1432931363_web.jpg" alt="Acanthothorax mniszechi" width="320" height="213.4">](https://serv.biokic.asu.edu/ecdysis/collections/individual/index.php?occid=349345) | 
+| [<img src="https://media01.symbiota.org/media/storage/portals/scan/misc/201505/ASUHIC007903_habitus_lateral_1_1432931363_web.jpg" alt="Acanthothorax mniszechi" width="320" height="213.4">](https://ecdysis.org/collections/individual/index.php?occid=349345) | 
 |:--:| 
-|**Diversity of Mecocerini.** 1.) *Acanthothorax mnizechi* Thomson, lateral view. Specimens deposited at Arizona State University Biocollections (ASUCOB, ASUHIC). Images and data available at [ecdysis](https://serv.biokic.asu.edu/ecdysis/index.php) portal and [GBIF](https://gbif.org). Images: ASUHIC.|
+|**Diversity of Mecocerini.** 1.) *Acanthothorax mnizechi* Thomson, lateral view. Specimens deposited at Arizona State University Biocollections (ASUCOB, ASUHIC). Images and data available at [ecdysis](https://ecdysis.org) portal and [GBIF](https://gbif.org). Images: ASUHIC.|
 
 ---
 
@@ -34,9 +34,9 @@ Tribes names according to [Bouchard _el al._ (2011)](https://zookeys.pensoft.net
 =_Mecocerus_ Schoenherr, 1833:31
 (54 species)
 
-| [<img src="https://serv.biokic.asu.edu/imglib/storage/portals/scan/misc/201505/ASUHIC007903_habitus_lateral_1_1432931363_web.jpg" alt="Acanthothorax mniszechi" width="320" height="213.4">](https://serv.biokic.asu.edu/ecdysis/collections/individual/index.php?occid=349345) [<img src="https://serv.biokic.asu.edu/imglib/storage/portals/scan/misc/201505/ASUHIC0079303_habitus_dorsal_1_1432931362_web.jpg" width="320" height="213.4">](https://serv.biokic.asu.edu/ecdysis/collections/individual/index.php?occid=349345)   | 
+| [<img src="https://media01.symbiota.org/media/storage/portals/scan/misc/201505/ASUHIC007903_habitus_lateral_1_1432931363_web.jpg" alt="Acanthothorax mniszechi" width="320" height="213.4">](https://ecdysis.org/collections/individual/index.php?occid=349345) [<img src="https://media01.symbiota.org/media/storage/portals/scan/misc/201505/ASUHIC0079303_habitus_dorsal_1_1432931362_web.jpg" width="320" height="213.4">](https://ecdysis.org/collections/individual/index.php?occid=349345)   | 
 |:--:| 
-|_Basitropis nitidicutis_ Jekel: 1.) lateral view. Specimen deposited at Arizona State University Biocollections (ASUCOB, ASUHIC). Images and data available at [ecdysis](https://serv.biokic.asu.edu/ecdysis/index.php) portal and [GBIF](https://gbif.org). Images: Samanta Orellana.|
+|_Basitropis nitidicutis_ Jekel: 1.) lateral view. Specimen deposited at Arizona State University Biocollections (ASUCOB, ASUHIC). Images and data available at [ecdysis](https://ecdysis.org) portal and [GBIF](https://gbif.org). Images: Samanta Orellana.|
 
 |<img src="https://www.simplemappr.net/map/19885" alt="" />| 
 |:--:| 
