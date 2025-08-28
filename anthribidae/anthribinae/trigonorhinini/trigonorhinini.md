@@ -23,18 +23,18 @@ Tribes names according to [Bouchard _el al._ (2011)](https://zookeys.pensoft.net
 
 ---
 
-| [<img src="https://serv.biokic.asu.edu/imglib/storage/portals/scan/ASU/201302/ASUHIC0000515_Habitus_lat.jpg" alt="Trigonorhinus griseus" width="320" height="213.4">](https://serv.biokic.asu.edu/ecdysis/collections/individual/index.php?occid=386837) 
+| [<img src="https://media01.symbiota.org/media/storage/portals/scan/ASU/201302/ASUHIC0000515_Habitus_lat.jpg" alt="Trigonorhinus griseus" width="320" height="213.4">](https://ecdysis.org/collections/individual/index.php?occid=386837) 
 |:--:| 
-|**Diversity of Trigonorhinini.** 1.) *Trigonorhinus griseus* (LeConte), lateral view. Specimens deposited at Arizona State University Biocollections (ASUCOB, ASUHIC). Images and data available at [ecdysis](https://serv.biokic.asu.edu/ecdysis/index.php) portal and [GBIF](https://gbif.org). Images: ASUHIC. |
+|**Diversity of Trigonorhinini.** 1.) *Trigonorhinus griseus* (LeConte), lateral view. Specimens deposited at Arizona State University Biocollections (ASUCOB, ASUHIC). Images and data available at [ecdysis](https://ecdysis.org) portal and [GBIF](https://gbif.org). Images: ASUHIC. |
 
 ---
 
 ## _Trigonorhinus_ Wollaston, 1861: 102
 (16 species)
 
-| [<img src="https://serv.biokic.asu.edu/imglib/storage/portals/scan/ASU/201302/ASUHIC0000515_Habitus_lat.jpg" alt="Trigonorhinus griseus" width="320" height="213.4">](https://serv.biokic.asu.edu/ecdysis/collections/individual/index.php?occid=386837) [<img src="https://serv.biokic.asu.edu/imglib/storage/portals/scan/ASU/201302/ASUHIC0000515_Habitus_dor.jpg" alt="Trigonorhinus griseus" width="320" height="213.4">](https://serv.biokic.asu.edu/ecdysis/collections/individual/index.php?occid=386837)    
+| [<img src="https://media01.symbiota.org/media/storage/portals/scan/ASU/201302/ASUHIC0000515_Habitus_lat.jpg" alt="Trigonorhinus griseus" width="320" height="213.4">](https://ecdysis.org/collections/individual/index.php?occid=386837) [<img src="https://media01.symbiota.org/media/storage/portals/scan/ASU/201302/ASUHIC0000515_Habitus_dor.jpg" alt="Trigonorhinus griseus" width="320" height="213.4">](https://ecdysis.org/collections/individual/index.php?occid=386837)    
 |:--:| 
-|_Trigonorhinus griseus_ (LeConte): 1.) lateral view, 2.) dorsal view. Specimen deposited at Arizona State University Biocollections (ASUCOB, ASUHIC). Images and data available at [ecdysis](https://serv.biokic.asu.edu/ecdysis/index.php) portal and [GBIF](https://gbif.org). Images: ASUHIC.|
+|_Trigonorhinus griseus_ (LeConte): 1.) lateral view, 2.) dorsal view. Specimen deposited at Arizona State University Biocollections (ASUCOB, ASUHIC). Images and data available at [ecdysis](https://ecdysis/.org) portal and [GBIF](https://gbif.org). Images: ASUHIC.|
 
 |<img src="https://www.simplemappr.net/map/19126" alt="" />| 
 |:--:| 
