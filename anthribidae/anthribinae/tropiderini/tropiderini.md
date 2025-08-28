@@ -23,9 +23,9 @@ Tribes names according to [Bouchard _el al._ (2011)](https://zookeys.pensoft.net
 
 ---
 
-| [<img src="https://serv.biokic.asu.edu/imglib/storage/portals/scan/misc/201511/ASUHIC0071008_habitus_lateral__1446498501_web.jpg" alt="Eurymycter tricarinatus" width="320" height="213.4">](https://serv.biokic.asu.edu/ecdysis/collections/individual/index.php?occid=342750) [<img src="https://serv.biokic.asu.edu/imglib/ecdysis/ASU_ASUCOB/ASUCOB0015/ASUCOB0015734_lateral_edited_1663349948.jpg" alt="Gonotropis gibbosus" width="320" height="213.4">](https://serv.biokic.asu.edu/ecdysis/collections/individual/index.php?occid=705646)
+| [<img src="https://media01.symbiota.org/media/storage/portals/scan/misc/201511/ASUHIC0071008_habitus_lateral__1446498501_web.jpg" alt="Eurymycter tricarinatus" width="320" height="213.4">](https://ecdysis.org/collections/individual/index.php?occid=342750) [<img src="https://media01.symbiota.org/media/ecdysis/ASU_ASUCOB/ASUCOB0015/ASUCOB0015734_lateral_edited_1663349948.jpg" alt="Gonotropis gibbosus" width="320" height="213.4">](https://ecdysis.org/collections/individual/index.php?occid=705646)
 |:--:| 
-|**Diversity of Tropiderini.** 1.) *Eurymycter tricarinatus* LeConte, lateral view. 2.) *Gonotropis gibbosus* LeConte, lateral. Specimens deposited at Arizona State University Biocollections (ASUCOB, ASUHIC). Images and data available at [ecdysis](https://serv.biokic.asu.edu/ecdysis/index.php) portal and [GBIF](https://gbif.org). Images: Samanta Orellana and ASUHIC. |
+|**Diversity of Tropiderini.** 1.) *Eurymycter tricarinatus* LeConte, lateral view. 2.) *Gonotropis gibbosus* LeConte, lateral. Specimens deposited at Arizona State University Biocollections (ASUCOB, ASUHIC). Images and data available at [ecdysis](https://ecdysis.org/index.php) portal and [GBIF](https://gbif.org). Images: Samanta Orellana and ASUHIC. |
 
 ---
 
@@ -41,9 +41,9 @@ Tribes names according to [Bouchard _el al._ (2011)](https://zookeys.pensoft.net
 ## _Eurymycter_ LeConte, 1876:394
 (4 species)
 
-| [<img src="https://serv.biokic.asu.edu/imglib/storage/portals/scan/misc/201511/ASUHIC0071008_habitus_lateral__1446498501_web.jpg" alt="Eurymycter tricarinatus" width="320" height="213.4">](https://serv.biokic.asu.edu/ecdysis/collections/individual/index.php?occid=342750) [<img src="https://serv.biokic.asu.edu/imglib/storage/portals/scan/misc/201511/ASUHIC0071008_habitus_dorsal_1_1446498500_web.jpg" alt="Eurymycter tricarinatus" width="320" height="213.4">](https://serv.biokic.asu.edu/ecdysis/collections/individual/index.php?occid=342750)    
+| [<img src="https://media01.symbiota.org/media/storage/portals/scan/misc/201511/ASUHIC0071008_habitus_lateral__1446498501_web.jpg" alt="Eurymycter tricarinatus" width="320" height="213.4">](https://ecdysis.org/collections/individual/index.php?occid=342750) [<img src="https://media01.symbiota.org/media/storage/portals/scan/misc/201511/ASUHIC0071008_habitus_dorsal_1_1446498500_web.jpg" alt="Eurymycter tricarinatus" width="320" height="213.4">](https://ecdysis.org/collections/individual/index.php?occid=342750)    
 |:--:| 
-|_Eurymycter tricarinatus_ Pierce: 1.) lateral view, 2. dorsal view. Specimen deposited at Arizona State University Biocollections (ASUCOB, ASUHIC). Images and data available at [ecdysis](https://serv.biokic.asu.edu/ecdysis/index.php) portal and [GBIF](https://gbif.org). Images: Samanta Orellana.|
+|_Eurymycter tricarinatus_ Pierce: 1.) lateral view, 2. dorsal view. Specimen deposited at Arizona State University Biocollections (ASUCOB, ASUHIC). Images and data available at [ecdysis](https://ecdysis.org) portal and [GBIF](https://gbif.org). Images: Samanta Orellana.|
 
 |<img src="https://www.simplemappr.net/map/19128" alt="" />| 
 |:--:| 
@@ -54,9 +54,9 @@ Tribes names according to [Bouchard _el al._ (2011)](https://zookeys.pensoft.net
 ## _Gonotropis_ LeConte, 1876: 393
 (6 species)
 
-| [<img src="https://serv.biokic.asu.edu/imglib/ecdysis/ASU_ASUCOB/ASUCOB0015/ASUCOB0015734_lateral_edited_1663349948.jpg" alt="Gonotropis gibbosus" width="320" height="213.4">](https://serv.biokic.asu.edu/ecdysis/collections/individual/index.php?occid=705646)    
+| [<img src="https://media01.symbiota.org/media/ecdysis/ASU_ASUCOB/ASUCOB0015/ASUCOB0015734_lateral_edited_1663349948.jpg" alt="Gonotropis gibbosus" width="320" height="213.4">](https://ecdysis.org/collections/individual/index.php?occid=705646)    
 |:--:| 
-|_Gonotropis gibbosus_ LeConte: 1.) lateral view. Specimen deposited at Arizona State University Biocollections (ASUCOB, ASUHIC). Images and data available at [ecdysis](https://serv.biokic.asu.edu/ecdysis/index.php) portal and [GBIF](https://gbif.org). Images: Samanta Orellana.|
+|_Gonotropis gibbosus_ LeConte: 1.) lateral view. Specimen deposited at Arizona State University Biocollections (ASUCOB, ASUHIC). Images and data available at [ecdysis](https://ecdysis.org) portal and [GBIF](https://gbif.org). Images: Samanta Orellana.|
 
 |<img src="https://www.simplemappr.net/map/19129" alt="" />| 
 |:--:| 
