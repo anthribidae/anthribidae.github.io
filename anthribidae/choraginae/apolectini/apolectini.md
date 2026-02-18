@@ -43,7 +43,7 @@ Tribes names according to [Bouchard _el al._ (2011)](https://zookeys.pensoft.net
 ## _Anacerastes_ Imhoff, 1838: 33
 (10 species)
 
-| [<img src="https://media01.symbiota.org/media/weevil/Anthribidae/202310/Anacerastes_lepidus_1697934792.jpg" alt="Anacerastes lepidus" width="320" height="213.4">](https://serv.biokic.asu.edu/weevil/portal/imagelib/imgdetails.php?imgid=38754)| 
+| [<img src="https://media01.symbiota.org/media/weevil/Anthribidae/202310/Anacerastes_lepidus_1697934792.jpg" alt="Anacerastes lepidus" width="320" height="213.4">](https://media01.symbiota.org/media//weevil/portal/imagelib/imgdetails.php?imgid=38754)| 
 |:--:| 
 |_Anacerastes lepidus_ Imhoff: 1.) dorsal view. Drawin in original description, available at [Biodiversity Heritage Library](https://www.biodiversitylibrary.org/item/102898#page/140/mode/1up).|
 
