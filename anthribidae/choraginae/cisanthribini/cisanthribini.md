@@ -31,7 +31,7 @@ Tribes names according to [Bouchard _el al._ (2011)](https://zookeys.pensoft.net
 ## _Cisanthribus_ Zimmerman, 1938: 247
 (3 species)
 
-| [<img src="https://serv.biokic.asu.edu/imglib/ecdysis/Anthribidae/202303/NZAC_Cisanthribus_lateral_edit_1679446274.jpg" alt="Cisanthribus" width="320" height="213.4">](https://serv.biokic.asu.edu/ecdysis/imagelib/imgdetails.php?imgid=303547) 
+| [<img src="https://media01.symbiota.org/media/ecdysis/Anthribidae/202303/NZAC_Cisanthribus_lateral_edit_1679446274.jpg" alt="Cisanthribus" width="320" height="213.4">](https://ecdysis,org/imagelib/imgdetails.php?imgid=303547) 
 |:--:| 
 |*Cisanthribus* sp. lateral view. Specimens deposited at the [New Zealand Arthropod Collection](https://www.landcareresearch.co.nz/tools-and-resources/collections/new-zealand-arthropod-collection-nzac/) (Curator: Dr. Richard Leschen), on loan at [Arizona State University Biocollections](https://sols.asu.edu/research/natural-history-collections). Images and data available at [ecdysis](https://serv.biokic.asu.edu/ecdysis/index.php). Images: Samanta Orellana. |
 
