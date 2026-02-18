@@ -47,7 +47,7 @@ Tribes names according to [Bouchard _el al._ (2011)](https://zookeys.pensoft.net
 
 Note: Rheinhemer mistakes Honduras with Belize (previously known as "_British Honduras_" in his catalogue.
 
-| [<img src="media01.symbiota.org/media/scan/misc/201511/ASUHIC0071013_habitus_lateral__1446498565_web.jpg" alt="Acaromimus americanus" width="320" height="213.4">](https://ecdysis.org/collections/individual/index.php?occid=342756) [<img src="https://media01.symbiota.org/media/scan/misc/201511/ASUHIC0071013_habitus_dorsal_1_1446498565_web.jpg" alt="Acaromimus americanus" width="320" height="213.4">](https://ecdysis.org/collections/individual/index.php?occid=342756)| 
+| [<img src="https://media01.symbiota.org/media/scan/misc/201511/ASUHIC0071013_habitus_lateral__1446498565_web.jpg" alt="Acaromimus americanus" width="320" height="213.4">](https://ecdysis.org/collections/individual/index.php?occid=342756) [<img src="https://media01.symbiota.org/media/scan/misc/201511/ASUHIC0071013_habitus_dorsal_1_1446498565_web.jpg" alt="Acaromimus americanus" width="320" height="213.4">](https://ecdysis.org/collections/individual/index.php?occid=342756)| 
 |:--:| 
 |_Acaromimus americanus_ (Motschulsky): 1.) lateral view. 2.) dorsal view. Specimen deposited at Arizona State University Biocollections (ASUCOB, ASUHIC). Images and data available at [ecdysis](https://ecdysis.org/index.php) portal and [GBIF](https://gbif.org). Images: ASUHIC.|
 
