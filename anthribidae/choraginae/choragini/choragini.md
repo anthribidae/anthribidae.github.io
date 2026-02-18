@@ -34,7 +34,7 @@ Tribes names according to [Bouchard _el al._ (2011)](https://zookeys.pensoft.net
 
 | [<img src="https://ecdysis.org/imglib/ecdysis/ASU_ASUCOB/ASUCOB0015/ASUCOB0015597_lateral_edited_1698119533.jpg" alt="Choragus sayi" width="320" height="213.4">](https://ecdysis.org/collections/individual/index.php?occid=704124) [<img src="https://ecdysis.org/imglib/ecdysis/ASU_ASUCOB/ASUCOB0015/ASUCOB0015597_dorsal_edited_1698122927.jpg" alt="Choragus sayi" width="320" height="213.4">](https://ecdysis.org/collections/individual/index.php?occid=704124) [<img src="https://ecdysis.org/imglib/ecdysis/ASU_ASUCOB/ASUCOB0015/ASUCOB0015597_frontal_edited_1698123018.jpg" alt="Choragus sayi" width="320" height="213.4">](https://ecdysis.org/collections/individual/index.php?occid=704124)| 
 |:--:| 
-|_Choragus sayi_ LeConte: 1.) lateral view, 2.) dorsal view, 3.) frontal view. Specimen deposited at Arizona State University Biocollections (ASUCOB, ASUHIC). Images and data available at [ecdysis](https://serv.biokic.asu.edu/ecdysis/index.php) portal and [GBIF](https://gbif.org). Images: Samanta Orellana.|
+|_Choragus sayi_ LeConte: 1.) lateral view, 2.) dorsal view, 3.) frontal view. Specimen deposited at Arizona State University Biocollections (ASUCOB, ASUHIC). Images and data available at [ecdysis](https://ecdysis.org/index.php) portal and [GBIF](https://gbif.org). Images: Samanta Orellana.|
 
 |<img src="https://www.simplemappr.net/map/18919" alt="" />| 
 |:--:| 
@@ -76,7 +76,7 @@ Tribes names according to [Bouchard _el al._ (2011)](https://zookeys.pensoft.net
 ## _Holostilpna_ Jordan, 1907: 382
 (7 species)
 
-| [<img src="https://serv.biokic.asu.edu/imglib/ecdysis/ASU_ASUCOB/ASUCOB0027/ASUCOB0027370_lateral_edited_1651938315.jpg" alt="Holostilpna" width="320" height="213.4">](https://serv.biokic.asu.edu/ecdysis/collections/individual/index.php?occid=740032)| 
+| [<img src="https://media01.symbiota.org/media/ecdysis/ASU_ASUCOB/ASUCOB0027/ASUCOB0027370_lateral_edited_1651938315.jpg" alt="Holostilpna" width="320" height="213.4">](https://serv.biokic.asu.edu/ecdysis/collections/individual/index.php?occid=740032)| 
 |:--:| 
 |_Holostilpna_ sp.: 1.) lateral view. Specimen deposited at Arizona State University Biocollections (ASUCOB, ASUHIC). Images and data available at [ecdysis](https://serv.biokic.asu.edu/ecdysis/index.php) portal and [GBIF](https://gbif.org). Images: Samanta Orellana |
 
