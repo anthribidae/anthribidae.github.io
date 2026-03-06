@@ -36,9 +36,9 @@ Tribes names according to [Bouchard _el al._ (2011)](https://zookeys.pensoft.net
 |:--:| 
 |_Basitropis nitidicutis_ Jekel: 1.) lateral view. Specimen deposited at Arizona State University Biocollections (ASUCOB, ASUHIC). Images and data available at [ecdysis](https://ecdysis.org) portal and [GBIF](https://gbif.org). Images: Samanta Orellana.|
 
-|<img src="https://www.simplemappr.net/map/18221" alt="" />| 
+|<img width="2700" height="1350" alt="Basitropis" src="https://github.com/user-attachments/assets/e2fd4222-446d-4cbd-a1a9-3aaaaf751765" />| 
 |:--:| 
-|Known distribution of _Basitropis_ Schoenherr. Source: [Rheinhemer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf). Map: Samanta Orellana, generated with [SimpleMappr.net](https://www.simplemappr.net/) |
+|Known distribution of _Basitropis_ Schoenherr. Source: [Rheinhemer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf). Map: Samanta Orellana, generated with SimpleMappr.net (Shorthouse 2010). |
 
 ---
 
@@ -49,9 +49,9 @@ Tribes names according to [Bouchard _el al._ (2011)](https://zookeys.pensoft.net
 |:--:| 
 |_Eugonodes brevirostris_ Jordan: 1.) lateral view. 2.) dorsal view, 3.) frontal view. Specimen deposited at Arizona State University Biocollections (ASUCOB, ASUHIC). Images and data available at [ecdysis](https://ecdysis.org) portal and [GBIF](https://gbif.org). Images: Samanta Orellana.|
 
-|<img src="https://www.simplemappr.net/map/18222" alt="" />| 
+|<img width="2700" height="1350" alt="Eugonodes" src="https://github.com/user-attachments/assets/b8d99d57-ef74-43c5-9f7a-1caac9717d66" />| 
 |:--:| 
-|Known distribution of _Eugonodes_ Jordan. Source: [Rheinhemer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf). Map: Samanta Orellana generated with [SimpleMappr.net](https://www.simplemappr.net/) |
+|Known distribution of _Eugonodes_ Jordan. Source: [Rheinhemer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf). Map: Samanta Orellana generated with SimpleMappr.net (Shorthouse 2010). |
 
 ---
 
@@ -62,9 +62,9 @@ Tribes names according to [Bouchard _el al._ (2011)](https://zookeys.pensoft.net
 |:--:| 
 |_Eugonus particolor_ Jordan: 1.) lateral view. 2.) dorsal view, 3.) frontal view. Specimen deposited at Arizona State University Biocollections (ASUCOB, ASUHIC). Images and data available at [ecdysis](https://ecdysis.org) portal and [GBIF](https://gbif.org). Images: Samanta Orellana.|
 
-|<img src="https://www.simplemappr.net/map/18223" alt="" />| 
+|<img width="2700" height="1350" alt="Eugonus_" src="https://github.com/user-attachments/assets/922201d9-f558-4d0f-9602-e502b75ddc4a" />| 
 |:--:| 
-|Known distribution of _Eugonus_ Schoenherr. Source: [Rheinhemer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf). Map: Samanta Orellana, generated with [SimpleMappr.net](https://www.simplemappr.net/) |
+|Known distribution of _Eugonus_ Schoenherr. Source: [Rheinhemer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf). Map: Samanta Orellana, generated with SimpleMappr.net (Shorthouse 2010). |
 
 ---
 
@@ -75,18 +75,18 @@ Tribes names according to [Bouchard _el al._ (2011)](https://zookeys.pensoft.net
 |:--:| 
 |_Gynandrocerus_ sp.: 1.) lateral view. 2.) dorsal view, 3.) frontal view. Specimen deposited at Arizona State University Biocollections (ASUCOB, ASUHIC). Images and data available at [ecdysis](https://ecdysis.org) portal and [GBIF](https://gbif.org). Images: Samanta Orellana.|
 
-|<img src="https://www.simplemappr.net/map/18224" alt="" />| 
+|<img width="2700" height="1350" alt="Gynandrocerus" src="https://github.com/user-attachments/assets/7cbe9f8d-da87-4f04-ad3d-baef74eb8ac5" />| 
 |:--:| 
-|Known distribution of _Gynandrocerus_ Schoenherr. Source: [Rheinhemer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf). Map: Samanta Orellana, generated with [SimpleMappr.net](https://www.simplemappr.net/) |
+|Known distribution of _Gynandrocerus_ Schoenherr. Source: [Rheinhemer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf). Map: Samanta Orellana, generated with SimpleMappr.net (Shorthouse 2010). |
 
 ---
 
 ## _Messalius_ Fairmaire, 1903: 247
 (1 species)
 
-|<img src="https://www.simplemappr.net/map/18225" alt="" />| 
+|<img width="2700" height="1350" alt="Messalius" src="https://github.com/user-attachments/assets/eb78ac46-2aee-4745-851d-ef54e9789643" />| 
 |:--:| 
-|Known distribution of _Messalius_ Schoenherr. Source: [Rheinhemer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf). Map: Samanta Orellana, generated with [SimpleMappr.net](https://www.simplemappr.net/) |
+|Known distribution of _Messalius_ Schoenherr. Source: [Rheinhemer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf). Map: Samanta Orellana, generated with SimpleMappr.net (Shorthouse 2010). |
 
 ---
 
@@ -97,26 +97,27 @@ Tribes names according to [Bouchard _el al._ (2011)](https://zookeys.pensoft.net
 |:--:| 
 |_Phaenithon curvipes_ (Germar): 1.) lateral view. 2.) dorsal view. Specimen deposited at Arizona State University Biocollections (ASUCOB, ASUHIC). Images and data available at [ecdysis](https://ecdysis.org) portal and [GBIF](https://gbif.org). Images: Samanta Orellana.|
 
-|<img src="https://www.simplemappr.net/map/18226" alt="" />| 
+|<img width="2700" height="1350" alt="Phaenithon" src="https://github.com/user-attachments/assets/70306634-9954-4de5-934f-6c01518746c1" />| 
 |:--:| 
-|Known distribution of _Phaenithon_ Schoenherr. Source: [Rheinhemer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf). Map: Samanta Orellana, generated with [SimpleMappr.net](https://www.simplemappr.net/) |
+|Known distribution of _Phaenithon_ Schoenherr. Source: [Rheinhemer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf). Map: Samanta Orellana, generated with SimpleMappr.net (Shorthouse 2010). |
 
 ---
 
 ## _Plesiobasis_ Jordan, 1939: 427
 (9 species)
 
-|<img src="https://www.simplemappr.net/map/18865" alt="" />| 
+|<img width="2700" height="1350" alt="Plesiobasis" src="https://github.com/user-attachments/assets/fb8842e6-77eb-4cbe-a1f6-cd77e1fbea05" />| 
 |:--:| 
-|Known distribution of _Plesiobasis_ Schoenherr. Source: [Rheinhemer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf). Map: Samanta Orellana, generated with [SimpleMappr.net](https://www.simplemappr.net/) |
+|Known distribution of _Plesiobasis_ Schoenherr. Source: [Rheinhemer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf). Map: Samanta Orellana, generated with SimpleMappr.net (Shorthouse 2010). |
 
 ---
 
 ## _Sophronus_ Kuschel, 1998: 394
 (7 species)
 
-|<img src="https://www.simplemappr.net/map/18869" alt="" />| 
+|<img width="2700" height="1350" alt="Sophronus_spp_" src="https://github.com/user-attachments/assets/173e4ec6-dcb7-4e97-969f-a1ac26aeea7c" />
+| 
 |:--:| 
-|Known distribution of _Sophronus_ Kuschel. Source: [Rheinhemer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf). Map: Samanta Orellana, generated with [SimpleMappr.net](https://www.simplemappr.net/) |
+|Known distribution of _Sophronus_ Kuschel. Source: [Rheinhemer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf). Map: Samanta Orellana, generated with SimpleMappr.net (Shorthouse 2010). |
 
 ---
