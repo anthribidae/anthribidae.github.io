@@ -36,18 +36,18 @@ Tribes names according to [Bouchard _el al._ (2011)](https://zookeys.pensoft.net
 |:--:| 
 |_Anthribus nebulosus_ Forster : 1.) dorsal view. Specimen deposited at Arizona State University Biocollections (ASUCOB, ASUHIC). Images and data available at [ecdysis](https://ecdysis.org) portal and [GBIF](https://gbif.org). Images: Samanta Orellana|
 
-|<img src="https://www.simplemappr.net/map/18214" alt="" />| 
+|<img width="2700" height="1350" alt="Anthribus" src="https://github.com/user-attachments/assets/c4172a53-057c-4186-bff0-b22e49ed771e" />| 
 |:--:| 
-|Known distribution of _Anthribus_ Geoffroy. Source: [Rheinhemer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf). Map: Samanta Orellana generated with [SimpleMappr.net](https://www.simplemappr.net/) |
+|Known distribution of _Anthribus_ Geoffroy. Source: [Rheinhemer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf). Map: Samanta Orellana generated with SimpleMappr.net. |
 
 ---
 
 ## _Opanthribus_ Schilsky, 1907: 74
 (14 species)
 
-|<img src="https://www.simplemappr.net/map/18216" alt="" />| 
+|<img width="2700" height="1350" alt="Opanthribus" src="https://github.com/user-attachments/assets/39680da7-789f-4b10-8b61-194473755b87" />| 
 |:--:| 
-|Known distribution of _Opanthribus_ Schilsky. Source: [Rheinhemer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf). Map: Samanta Orellana generated with [SimpleMappr.net](https://www.simplemappr.net/) |
+|Known distribution of _Opanthribus_ Schilsky. Source: [Rheinhemer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf). Map: Samanta Orellana generated with SimpleMappr.net. |
 
 ---
 
@@ -58,7 +58,8 @@ Tribes names according to [Bouchard _el al._ (2011)](https://zookeys.pensoft.net
 |:--:| 
 |_Streneoderma contemptum_ Blackburn : 1.) lateral view, 2.) dorsal view. Specimen deposited at Arizona State University Biocollections (ASUCOB, ASUHIC). Images and data available at [ecdysis](https://ecdysis.org) portal and [GBIF](https://gbif.org). Images: ASUHIC. |
 
-|<img src="https://www.simplemappr.net/map/18215" alt="" />| 
+
+|<img width="2700" height="1350" alt="Streneoderma(1)" src="https://github.com/user-attachments/assets/102c0ab8-6980-4359-8653-12d6b9fe1c55" />| 
 |:--:| 
-|Known distribution of _Streneoderma_ Blackburn. Source: [Rheinhemer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf). Map: Samanta Orellana generated with [SimpleMappr.net](https://www.simplemappr.net/) |
+|Known distribution of _Streneoderma_ Blackburn. Source: [Rheinhemer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf). Map: Samanta Orellana generated with SimpleMappr.net. |
 
