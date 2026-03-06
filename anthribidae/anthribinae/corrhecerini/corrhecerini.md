@@ -37,26 +37,26 @@ Tribes names according to [Bouchard _el al._ (2011)](https://zookeys.pensoft.net
 |_Corrhecerus_ sp.: 1.) lateral view. 2.) dorsal view, 3.) frontal view. Specimen deposited at Arizona State University Biocollections (ASUCOB, ASUHIC). Images and data available at [ecdysis](https://ecdysis.org) portal and [GBIF](https://gbif.org). Images: Samanta Orellana|
 
 
-|<img src="https://www.simplemappr.net/map/18880" alt="" />| 
+|<img width="2700" height="1350" alt="Corrhecerus_spp_" src="https://github.com/user-attachments/assets/6264def4-32c4-4f84-a7ef-539149a1f83d" />| 
 |:--:| 
-|Known distribution of _Corrhecerus_ Schoenherr. Source: [Rheinhemer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf). Map: Samanta Orellana, generated with [SimpleMappr.net](https://www.simplemappr.net/) |
+|Known distribution of _Corrhecerus_ Schoenherr. Source: [Rheinhemer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf). Map: Samanta Orellana, generated with SimpleMappr.net (Shorthouse 2010). |
 
 ---
 
 ## _Dasyrhopala_ Jordan, 1904: 272
 (1 species)
 
-|<img src="https://www.simplemappr.net/map/19110" alt="" />| 
+|<img width="2700" height="1350" alt="Dasyrhopala_sp_" src="https://github.com/user-attachments/assets/88938ad0-2581-4d56-8398-515298d7325d" />| 
 |:--:| 
-|Known distribution of _Dasyrhopala_ Jordan. Source: [Rheinhemer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf). Map: Samanta Orellana, generated with [SimpleMappr.net](https://www.simplemappr.net/) |
+|Known distribution of _Dasyrhopala_ Jordan. Source: [Rheinhemer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf). Map: Samanta Orellana, generated with SimpleMappr.net (Shorthouse 2010). |
 
 ---
 ## _Exechontis_ Jordan, 1904: 283
 (2 species)
 
-|<img src="https://www.simplemappr.net/map/18882" alt="" />| 
+|<img width="2700" height="1350" alt="Exechontis_spp_" src="https://github.com/user-attachments/assets/e1ea2d21-c41c-41da-b3a3-365900b57dad" />| 
 |:--:| 
-|Known distribution of _Exechontis_ Jordan. Source: [Rheinhemer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf). Map: Samanta Orellana, generated with [SimpleMappr.net](https://www.simplemappr.net/) |
+|Known distribution of _Exechontis_ Jordan. Source: [Rheinhemer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf). Map: Samanta Orellana, generated with SimpleMappr.net (Shorthouse 2010). |
 
 ---
 
@@ -67,7 +67,7 @@ Tribes names according to [Bouchard _el al._ (2011)](https://zookeys.pensoft.net
 |:--:| 
 |_Nemotrichus dorsomaculatus_ (Jekel): 1.) lateral view. 2.) dorsal view, 3.) frontal view. Specimen deposited at Arizona State University Biocollections (ASUCOB, ASUHIC). Images and data available at [ecdysis](https://ecdysis.org) portal and [GBIF](https://gbif.org). Images: Samanta Orellana|
 
-|<img src="https://www.simplemappr.net/map/18881" alt="" />>| 
+|<img width="2700" height="1350" alt="Nemotrichus_spp_" src="https://github.com/user-attachments/assets/10837b68-097c-4c53-8657-46ae5ab4ccda" />| 
 |:--:| 
-|Known distribution of _Nemotrichus_ Labram & Imhoff. Source: [Rheinhemer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf). Map: Samanta Orellana generated with [SimpleMappr.net](https://www.simplemappr.net/) |
+|Known distribution of _Nemotrichus_ Labram & Imhoff. Source: [Rheinhemer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf). Map: Samanta Orellana generated with SimpleMappr.net (Shorthouse 2010). |
 
