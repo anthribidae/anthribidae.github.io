@@ -47,7 +47,7 @@ Tribes names according to [Bouchard _el al._ (2011)](https://zookeys.pensoft.net
 ## _Dolichocera_ Gray, 1832: 65
 (7 species)
 
-|<img src="https://www.simplemappr.net/map/19888" alt="" />| 
+|<img width="2700" height="1350" alt="Dolichocera_spp_" src="https://github.com/user-attachments/assets/60965aca-db15-4bed-954c-cccfc48f293f" />| 
 |:--:| 
 |Known distribution of _Dolichocera_ Gray. Source: [Rheinhemer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf). Map: Samanta Orellana, generated with SimpleMappr.net (Shorthouse 2010). |
 
@@ -56,7 +56,7 @@ Tribes names according to [Bouchard _el al._ (2011)](https://zookeys.pensoft.net
 ## _Mecotropis_ Lacordaire, 1866: 495
 (53 species)
 
-|<img src="https://www.simplemappr.net/map/19889" alt="" />| 
+|<img width="2700" height="1350" alt="Mecotropis_spp_(1)" src="https://github.com/user-attachments/assets/e39ffb50-cc99-4c16-9e27-57184e2bc628" />| 
 |:--:| 
 |Known distribution of _Dolichocera_ Gray. Source: [Rheinhemer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf). Map: Samanta Orellana, generated with SimpleMappr.net (Shorthouse 2010). |
 
@@ -65,7 +65,7 @@ Tribes names according to [Bouchard _el al._ (2011)](https://zookeys.pensoft.net
 ## _Megax_ Alonso-Zarazaga & Lyal, 1999: 31
 (3 species)
 
-|<img src="https://www.simplemappr.net/map/19887" alt="" />| 
+|<img width="2700" height="1350" alt="Megax_spp_" src="https://github.com/user-attachments/assets/00488c5a-4ad1-456c-a055-fc2cfa45fbe2" />| 
 |:--:| 
 |Known distribution of _Megax_ Alonso-Zarazaga & Lyal. Source: [Rheinhemer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf). Map: Samanta Orellana, generated with SimpleMappr.net (Shorthouse 2010). |
 
@@ -74,7 +74,7 @@ Tribes names according to [Bouchard _el al._ (2011)](https://zookeys.pensoft.net
 ## _Phloeophilus_ Schoenherr, 1833: 156
 (8 species)
 
-|<img src="https://www.simplemappr.net/map/19886" alt="" />| 
+|<img width="2700" height="1350" alt="Phloeophilus_spp_" src="https://github.com/user-attachments/assets/f5fd6aee-166b-4cdb-b69d-461f128a61c6" />| 
 |:--:| 
 |Known distribution of _Phloeohilus_ Schoenherr. Source: [Rheinhemer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf). Map: Samanta Orellana, generated with SimpleMappr.net (Shorthouse 2010). |
 
