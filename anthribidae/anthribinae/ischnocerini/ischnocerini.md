@@ -37,8 +37,9 @@ Tribes names according to [Bouchard _el al._ (2011)](https://zookeys.pensoft.net
 |:--:| 
 |_Meconemus angulatus_ (Martin): 1.) lateral view, 2.) dorsal view. Specimen deposited at Arizona State University Biocollections (ASUCOB, ASUHIC). Images and data available at [ecdysis](https://ecdysis.org) portal and [GBIF](https://gbif.org). Images: Samanta Orellana|
 
-|<img src="https://www.simplemappr.net/map/18899" alt="" />| 
+|<img width="2700" height="1350" alt="Meconemus_spp_" src="https://github.com/user-attachments/assets/9cf2528f-0d4d-4d91-aac4-d23be77d0e83" />
+| 
 |:--:| 
-|Known distribution of _Meconemus_ Labram & Imhoff. Source: [Rheinhemer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf). Map: Samanta Orellana, generated with [SimpleMappr.net](https://www.simplemappr.net/) |
+|Known distribution of _Meconemus_ Labram & Imhoff. Source: [Rheinhemer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf). Map: Samanta Orellana, generated with SimpleMappr.net (Shorthouse 2010). |
 
 ---
