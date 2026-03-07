@@ -28,19 +28,32 @@ Tribes names according to [Bouchard _el al._ (2011)](https://zookeys.pensoft.net
 
 ---
 
+## _Eucorynus_ Schoenherr, 1823: 1135
+(4 species)
+
+| [<img src="https://media01.symbiota.org/media/ecdysis/ASU_ASUCOB/ASUCOB0015/ASUCOB0015302_lateral_edited_1617656844.jpg" alt="Eucorynus crassicornis" width="320" height="213.4">](https://ecdysis.org/collections/individual/index.php?occid=632645) [<img src="https://media01.symbiota.org/media/ecdysis/ASU_ASUCOB/ASUCOB0015/ASUCOB0015302_dorsal_edited_1625204631.jpg" alt="Eucorynus crassicornis" width="320" height="213.4">](https://ecdysis.org/collections/individual/index.php?occid=632645)  [<img src="https://media01.symbiota.org/media/ecdysis/ASU_ASUCOB/ASUCOB0015/ASUCOB0015302_frontal_edited_1625204861.jpg" alt="Eucorynus crassicornis" width="320" height="213.4">](https://ecdysis.org/collections/individual/index.php?occid=632645)   
+|:--:| 
+|_Eucorynus crassicornis_ Fabricius: 1.) lateral view, 2.) dorsal view, 3.) frontal view. Specimen deposited at Arizona State University Biocollections (ASUCOB, ASUHIC). Images and data available at [ecdysis](https://ecdysis.org) portal and [GBIF](https://gbif.org). Images: Samanta Orellana.|
+
+|<img width="2700" height="1350" alt="Eucorynus_spp_" src="https://github.com/user-attachments/assets/8777c338-2790-4191-bb76-32e710e6f42e" />| 
+|:--:| 
+|Known distribution of _Eucorynus_ Schoenherr. Source: [Rheinhemer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf). Map: Samanta Orellana, generated with SimpleMappr.net (Shorthouse 2010). |
+
+---
+
 ## _Dendropemon_ Schoenherr, 1839: 161
 (18 species)
 
-|<img src="https://www.simplemappr.net/map/19132" alt="" />| 
+|<img width="2700" height="1350" alt="Dendropemon_spp_" src="https://github.com/user-attachments/assets/84702c5e-b8c4-4394-a8db-c4482a5a8934" />| 
 |:--:| 
-|Known distribution of _Dendropemon_ Schoenherr. Source: [Rheinhemer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf). Map: Samanta Orellana, generated with [SimpleMappr.net](https://www.simplemappr.net/) |
+|Known distribution of _Dendropemon_ Schoenherr. Source: [Rheinhemer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf). Map: Samanta Orellana, generated with SimpleMappr.net (Shorthouse 2010). |
 
 ---
 
 ## _Cenchromorphus_ Fairmaire, 1893: 170
 (6 species)
 
-|<img src="https://www.simplemappr.net/map/19133" alt="" />| 
+|<img width="2700" height="1350" alt="Cercomorphus_spp_" src="https://github.com/user-attachments/assets/efba60cd-e2b8-4c86-b2d0-47ce139dd4e5" />| 
 |:--:| 
 |Known distribution of _Cenchromorphus_ Fairmaire. Source: [Rheinhemer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf). Map: Samanta Orellana, generated with [SimpleMappr.net](https://www.simplemappr.net/) |
 
@@ -53,40 +66,27 @@ Tribes names according to [Bouchard _el al._ (2011)](https://zookeys.pensoft.net
 |:--:| 
 |_Chirotenon adustus_ Imhoff: 1.) lateral view. 2.) dorsal view, 3.) frontal view. Specimen deposited at Arizona State University Biocollections (ASUCOB, ASUHIC). Images and data available at [ecdysis](https://ecdysis.org) portal and [GBIF](https://gbif.org). Images: Samanta Orellana.|
 
-|<img src="https://www.simplemappr.net/map/19134" alt="" />| 
+|<img width="2700" height="1350" alt="Chirotenon_spp_" src="https://github.com/user-attachments/assets/084a1236-b810-4e39-acca-0c0acddb672e" />| 
 |:--:| 
-|Known distribution of _Chirotenon_ Schoenherr. Source: [Rheinhemer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf). Map: Samanta Orellana, generated with [SimpleMappr.net](https://www.simplemappr.net/) |
+|Known distribution of _Chirotenon_ Schoenherr. Source: [Rheinhemer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf). Map: Samanta Orellana, generated with SimpleMappr.net (Shorthouse 2010). |
 
 ---
 
 ## _Ectatotarsus_ Schoenherr, 1847: 2
 (1 species)
 
-|<img src="https://www.simplemappr.net/map/19135" alt="" />| 
+|<img width="2700" height="1350" alt="Ectatotarsus_sp_" src="https://github.com/user-attachments/assets/bdce26bc-e325-442b-92b6-c6d5e3a432fb" />| 
 |:--:| 
-|Known distribution of _Ectatotarsus_ Schoenherr. Source: [Rheinhemer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf). Map: Samanta Orellana, generated with [SimpleMappr.net](https://www.simplemappr.net/) |
-
----
-
-## _Eucorynus_ Schoenherr, 1823: 1135
-(4 species)
-
-| [<img src="https://media01.symbiota.org/media/ecdysis/ASU_ASUCOB/ASUCOB0015/ASUCOB0015302_lateral_edited_1617656844.jpg" alt="Eucorynus crassicornis" width="320" height="213.4">](https://ecdysis.org/collections/individual/index.php?occid=632645) [<img src="https://media01.symbiota.org/media/ecdysis/ASU_ASUCOB/ASUCOB0015/ASUCOB0015302_dorsal_edited_1625204631.jpg" alt="Eucorynus crassicornis" width="320" height="213.4">](https://ecdysis.org/collections/individual/index.php?occid=632645)  [<img src="https://media01.symbiota.org/media/ecdysis/ASU_ASUCOB/ASUCOB0015/ASUCOB0015302_frontal_edited_1625204861.jpg" alt="Eucorynus crassicornis" width="320" height="213.4">](https://ecdysis.org/collections/individual/index.php?occid=632645)   
-|:--:| 
-|_Eucorynus crassicornis_ Fabricius: 1.) lateral view, 2.) dorsal view, 3.) frontal view. Specimen deposited at Arizona State University Biocollections (ASUCOB, ASUHIC). Images and data available at [ecdysis](https://ecdysis.org) portal and [GBIF](https://gbif.org). Images: Samanta Orellana.|
-
-|<img src="https://www.simplemappr.net/map/19136" alt="" />| 
-|:--:| 
-|Known distribution of _Eucorynus_ Schoenherr. Source: [Rheinhemer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf). Map: Samanta Orellana, generated with [SimpleMappr.net](https://www.simplemappr.net/) |
+|Known distribution of _Ectatotarsus_ Schoenherr. Source: [Rheinhemer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf). Map: Samanta Orellana, generated with SimpleMappr.net (Shorthouse 2010). |
 
 ---
 
 ## _Hylopemon_ Jekel, 1860: 238
 (1 species)
 
-|<img src="https://www.simplemappr.net/map/19138" alt="" />| 
+|<img width="2700" height="1350" alt="Hylopemon_sp_" src="https://github.com/user-attachments/assets/da2f39dc-e43e-468b-b7a9-5401da27c381" />| 
 |:--:| 
-|Known distribution of _Hylopemon_ Schoenherr. Source: [Rheinhemer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf). Map: Samanta Orellana, generated with [SimpleMappr.net](https://www.simplemappr.net/) |
+|Known distribution of _Hylopemon_ Schoenherr. Source: [Rheinhemer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf). Map: Samanta Orellana, generated with SimpleMappr.net (Shorthouse 2010). |
 
 ---
 
@@ -97,6 +97,6 @@ Tribes names according to [Bouchard _el al._ (2011)](https://zookeys.pensoft.net
 |:--:| 
 |_Rawasia ritsemae_ Roeolfs: 1.) lateral view. 2.) dorsal view. Specimen deposited at Arizona State University Biocollections (ASUCOB, ASUHIC). Images and data available at [ecdysis](https://ecdysis.org) portal and [GBIF](https://gbif.org). Images: Samanta Orellana.|
 
-|<img src="https://www.simplemappr.net/map/19137" alt="" />| 
+|<img width="2700" height="1350" alt="Rawasia_spp_" src="https://github.com/user-attachments/assets/8b3e9eea-4e3b-4e8c-92b2-64a483509364" />| 
 |:--:| 
-|Known distribution of _Rawasia_ Schoenherr. Source: [Rheinhemer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf). Map: Samanta Orellana, generated with [SimpleMappr.net](https://www.simplemappr.net/) |
+|Known distribution of _Rawasia_ Schoenherr. Source: [Rheinhemer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf). Map: Samanta Orellana, generated with SimpleMappr.net (Shorthouse 2010). |
