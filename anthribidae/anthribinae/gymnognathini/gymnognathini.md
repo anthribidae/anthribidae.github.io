@@ -72,7 +72,7 @@ Tribes names according to [Bouchard _el al._ (2011)](https://zookeys.pensoft.net
 
 | [<img src="https://media01.symbiota.org/media/storage/portals/scan/misc/201504/ASUHIC0079299_habitus_lateral__1429125699_web.jpg" alt="Syltastocerus platyrhinus" width="320" height="213.4">](https://ecdysis.org/collections/individual/index.php?occid=349324) [<img src="https://media01.symbiota.org/media/storage/portals/scan/misc/201504/ASUHIC0079299_habitus_dorsal_1_1429125698_web.jpg" alt="Syltastocerus platyrhinus" width="320" height="213.4">](https://ecdysis.org/collections/individual/index.php?occid=349324)| 
 |:--:| 
-|_Gymnognathus claudia_ Jordan: 1.) lateral view. 2.) dorsal view, 3.) frontal view. Specimen deposited at Arizona State University Biocollections (ASUCOB, ASUHIC). Images and data available at [ecdysis](https://ecdysis.org) portal and [GBIF](https://gbif.org). Images: ASUHIC.|
+|_Systaltocerus platyrhinus_ (Labram & Imhoff): 1.) lateral view. 2.) dorsal view, 3.) frontal view. Specimen deposited at Arizona State University Biocollections (ASUCOB, ASUHIC). Images and data available at [ecdysis](https://ecdysis.org) portal and [GBIF](https://gbif.org). Images: ASUHIC.|
 
 |<img width="2700" height="1350" alt="Systaltocerus_sp_" src="https://github.com/user-attachments/assets/832a22c6-e833-41e9-87ef-e0a92038e641" />| 
 |:--:| 
