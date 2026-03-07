@@ -36,11 +36,11 @@ Tribes names according to [Bouchard _el al._ (2011)](https://zookeys.pensoft.net
 
 | [<img src="https://media01.symbiota.org/media/storage/portals/scan/misc/201505/ASUHIC007903_habitus_lateral_1_1432931363_web.jpg" alt="Acanthothorax mniszechi" width="320" height="213.4">](https://ecdysis.org/collections/individual/index.php?occid=349345) [<img src="https://media01.symbiota.org/media/storage/portals/scan/misc/201505/ASUHIC0079303_habitus_dorsal_1_1432931362_web.jpg" width="320" height="213.4">](https://ecdysis.org/collections/individual/index.php?occid=349345)   | 
 |:--:| 
-|_Basitropis nitidicutis_ Jekel: 1.) lateral view. Specimen deposited at Arizona State University Biocollections (ASUCOB, ASUHIC). Images and data available at [ecdysis](https://ecdysis.org) portal and [GBIF](https://gbif.org). Images: Samanta Orellana.|
+|_Acanthothorax mniszechi_ (Thomson): 1.) lateral view. Specimen deposited at Arizona State University Biocollections (ASUCOB, ASUHIC). Images and data available at [ecdysis](https://ecdysis.org) portal and [GBIF](https://gbif.org). Images: ASUHIC.|
 
-|<img src="https://www.simplemappr.net/map/19885" alt="" />| 
+|<img width="2700" height="1350" alt="Acanthothorax_spp_" src="https://github.com/user-attachments/assets/bf58b387-d458-4fbd-a42b-e9bb25231521" />| 
 |:--:| 
-|Known distribution of _Acanthothorax_ Gaede. Source: [Rheinhemer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf). Map: Samanta Orellana, generated with [SimpleMappr.net](https://www.simplemappr.net/) |
+|Known distribution of _Acanthothorax_ Gaede. Source: [Rheinhemer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf). Map: Samanta Orellana, generated with SimpleMappr.net (Shorthouse 2010). |
 
 ---
 
@@ -49,7 +49,7 @@ Tribes names according to [Bouchard _el al._ (2011)](https://zookeys.pensoft.net
 
 |<img src="https://www.simplemappr.net/map/19888" alt="" />| 
 |:--:| 
-|Known distribution of _Dolichocera_ Gray. Source: [Rheinhemer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf). Map: Samanta Orellana, generated with [SimpleMappr.net](https://www.simplemappr.net/) |
+|Known distribution of _Dolichocera_ Gray. Source: [Rheinhemer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf). Map: Samanta Orellana, generated with SimpleMappr.net (Shorthouse 2010). |
 
 ---
 
@@ -58,7 +58,7 @@ Tribes names according to [Bouchard _el al._ (2011)](https://zookeys.pensoft.net
 
 |<img src="https://www.simplemappr.net/map/19889" alt="" />| 
 |:--:| 
-|Known distribution of _Dolichocera_ Gray. Source: [Rheinhemer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf). Map: Samanta Orellana, generated with [SimpleMappr.net](https://www.simplemappr.net/) |
+|Known distribution of _Dolichocera_ Gray. Source: [Rheinhemer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf). Map: Samanta Orellana, generated with SimpleMappr.net (Shorthouse 2010). |
 
 ---
 
@@ -67,7 +67,7 @@ Tribes names according to [Bouchard _el al._ (2011)](https://zookeys.pensoft.net
 
 |<img src="https://www.simplemappr.net/map/19887" alt="" />| 
 |:--:| 
-|Known distribution of _Megax_ Alonso-Zarazaga & Lyal. Source: [Rheinhemer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf). Map: Samanta Orellana, generated with [SimpleMappr.net](https://www.simplemappr.net/) |
+|Known distribution of _Megax_ Alonso-Zarazaga & Lyal. Source: [Rheinhemer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf). Map: Samanta Orellana, generated with SimpleMappr.net (Shorthouse 2010). |
 
 ---
 
@@ -76,5 +76,5 @@ Tribes names according to [Bouchard _el al._ (2011)](https://zookeys.pensoft.net
 
 |<img src="https://www.simplemappr.net/map/19886" alt="" />| 
 |:--:| 
-|Known distribution of _Phloeohilus_ Schoenherr. Source: [Rheinhemer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf). Map: Samanta Orellana, generated with [SimpleMappr.net](https://www.simplemappr.net/) |
+|Known distribution of _Phloeohilus_ Schoenherr. Source: [Rheinhemer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf). Map: Samanta Orellana, generated with SimpleMappr.net (Shorthouse 2010). |
 
