@@ -67,7 +67,7 @@ Tribes names according to [Bouchard _el al._ (2011)](https://zookeys.pensoft.net
 
 ---
 
-## _Sylstastocerus_ Labram & Imhoff, 1840: f.6
+## _Systaltocerus_ Labram & Imhoff, 1840: f.6
 (1 species)
 
 | [<img src="https://media01.symbiota.org/media/storage/portals/scan/misc/201504/ASUHIC0079299_habitus_lateral__1429125699_web.jpg" alt="Syltastocerus platyrhinus" width="320" height="213.4">](https://ecdysis.org/collections/individual/index.php?occid=349324) [<img src="https://media01.symbiota.org/media/storage/portals/scan/misc/201504/ASUHIC0079299_habitus_dorsal_1_1429125698_web.jpg" alt="Syltastocerus platyrhinus" width="320" height="213.4">](https://ecdysis.org/collections/individual/index.php?occid=349324)| 
