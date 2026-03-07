@@ -30,9 +30,9 @@ Tribes names according to [Bouchard _el al._ (2011)](https://zookeys.pensoft.net
 ## _Jordanthribus_ Zimmerman, 1938: 236
 (2 species)
 
-|<img src="https://www.simplemappr.net/map/20240" alt="" />| 
+|<img width="2700" height="1350" alt="Jordanthribus_spp_" src="https://github.com/user-attachments/assets/7855bd0b-92ed-4b68-ac25-1b1cae14d7da" />| 
 |:--:| 
-|Known distribution of _Dinema_ Fairmaire. Source: [Rheinhemer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf). Map: Samanta Orellana, generated with [SimpleMappr.net](https://www.simplemappr.net/) |
+|Known distribution of _Jordanthribus_ Zimmerman. Source: [Rheinhemer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf). Map: Samanta Orellana, generated with SimpleMappr.net (Shorthouse 2010). |
 
 
 ## _Dinema_ Fairmaire, 1849: 457
@@ -42,8 +42,8 @@ Tribes names according to [Bouchard _el al._ (2011)](https://zookeys.pensoft.net
 |:--:| 
 |_Dinema_ Fairmaire: 1.) lateral view. Specimens deposited at the [New Zealand Arthropod Collection](https://www.landcareresearch.co.nz/tools-and-resources/collections/new-zealand-arthropod-collection-nzac/) (Curator: Dr. Richard Leschen), on loan to Samanta Orellana at KU Biodiversity Institute. Images and data available at [ecdysis](https://ecdysis.org). Images: Samanta Orellana.|
 
-|<img src="https://www.simplemappr.net/map/20239" alt="" />| 
+|<img width="2700" height="1350" alt="Dinema_spp_" src="https://github.com/user-attachments/assets/12403f2b-d8fa-4157-939c-769f321cb3a1" />| 
 |:--:| 
-|Known distribution of _Dinema_ Fairmaire. Source: [Rheinhemer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf). Map: Samanta Orellana, generated with [SimpleMappr.net](https://www.simplemappr.net/) |
+|Known distribution of _Dinema_ Fairmaire. Source: [Rheinhemer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf). Map: Samanta Orellana, generated with SimpleMappr.net (Shorthouse 2010). |
 
 
