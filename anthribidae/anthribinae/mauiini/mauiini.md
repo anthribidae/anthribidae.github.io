@@ -55,7 +55,7 @@ Tribes names according to [Bouchard _el al._ (2011)](https://zookeys.pensoft.net
 
 |<img width="2700" height="1350" alt="Derisemias_spp_" src="https://github.com/user-attachments/assets/3b6af29e-e65d-41eb-a551-30287ea7f26f" />| 
 |:--:| 
-|Known distribution of _Derisemias_ Jordan. Source: [Rheinhemer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf) and [Imada (2019)](https://www.mapress.com/zt/article/view/zootaxa.4629.1.5). Map: Samanta Orellana, generated with [SimpleMappr.net](https://www.simplemappr.net/) |
+|Known distribution of _Derisemias_ Jordan. Source: [Rheinhemer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf) and [Imada (2019)](https://www.mapress.com/zt/article/view/zootaxa.4629.1.5). Map: Samanta Orellana, generated with SimpleMappr.net (Shorthouse 2010). |
 
 ## _Erichsonocis_ Zimmerman, 1994: 103
 (1 species)
