@@ -32,9 +32,9 @@ Tribes names according to [Bouchard _el al._ (2011)](https://zookeys.pensoft.net
 ## _Tropideres_ Schoenherr, 1823: 1135
 (31 species)
 
-|<img src="https://www.simplemappr.net/map/19127" alt="" />| 
+|<img width="2700" height="1350" alt="Tropideres_spp_" src="https://github.com/user-attachments/assets/710c591e-6ae5-410e-8ffb-9f48b45daf97" />| 
 |:--:| 
-|Known distribution of _Tropideres_ Schoenherr. Source: [Rheinhemer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf). Map: Samanta Orellana, generated with [SimpleMappr.net](https://www.simplemappr.net/) |
+|Known distribution of _Tropideres_ Schoenherr. Source: [Rheinhemer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf). Map: Samanta Orellana, generated with SimpleMappr.net (Shorthouse 2010). |
 
 ---
 
@@ -45,9 +45,9 @@ Tribes names according to [Bouchard _el al._ (2011)](https://zookeys.pensoft.net
 |:--:| 
 |_Eurymycter tricarinatus_ Pierce: 1.) lateral view, 2. dorsal view. Specimen deposited at Arizona State University Biocollections (ASUCOB, ASUHIC). Images and data available at [ecdysis](https://ecdysis.org) portal and [GBIF](https://gbif.org). Images: Samanta Orellana.|
 
-|<img src="https://www.simplemappr.net/map/19128" alt="" />| 
+|<img width="2700" height="1350" alt="Eurymycter_spp_" src="https://github.com/user-attachments/assets/013c9744-e243-42aa-ba19-0e0e8cb56c0d" />| 
 |:--:| 
-|Known distribution of _Eurymycter_ LeConte. Source: [Rheinhemer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf). Map: Samanta Orellana, generated with [SimpleMappr.net](https://www.simplemappr.net/) |
+|Known distribution of _Eurymycter_ LeConte. Source: [Rheinhemer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf). Map: Samanta Orellana, generated with SimpleMappr.net (Shorthouse 2010). |
 
 ---
 
@@ -58,6 +58,6 @@ Tribes names according to [Bouchard _el al._ (2011)](https://zookeys.pensoft.net
 |:--:| 
 |_Gonotropis gibbosus_ LeConte: 1.) lateral view. Specimen deposited at Arizona State University Biocollections (ASUCOB, ASUHIC). Images and data available at [ecdysis](https://ecdysis.org) portal and [GBIF](https://gbif.org). Images: Samanta Orellana.|
 
-|<img src="https://www.simplemappr.net/map/19129" alt="" />| 
+|<img width="2700" height="1350" alt="Gonotropis_spp_" src="https://github.com/user-attachments/assets/2deaa923-15c8-4e2c-86fa-c3cbd23a1dce" />| 
 |:--:| 
-|Known distribution of _Gonotropis_ LeConte. Source: [Rheinhemer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf). Map: Samanta Orellana, generated with [SimpleMappr.net](https://www.simplemappr.net/) |
+|Known distribution of _Gonotropis_ LeConte. Source: [Rheinhemer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf). Map: Samanta Orellana, generated with SimpleMappr.net (Shorthouse 2010). |
