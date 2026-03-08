@@ -37,24 +37,24 @@ Tribes names according to [Bouchard _el al._ (2011)](https://zookeys.pensoft.net
 |:--:| 
 |_Mycteis marginicollis_ Pascoe: 1.) lateral view, 2.) dorsal view, 3.) frontal view. Specimen deposited at Arizona State University Biocollections (ASUCOB, ASUHIC). Images and data available at [ecdysis](https://ecdysis.org) portal and [GBIF](https://gbif.org). Images: Samanta Orellana.|
 
-|<img src="https://www.simplemappr.net/map/19882" alt="" />| 
+|<img width="2700" height="1350" alt="Mycteis_spp_" src="https://github.com/user-attachments/assets/49774fd6-2608-43e8-b3be-87118d54f1a8" />| 
 |:--:| 
-|Known distribution of _Mycteis_ Pascoe. Source: [Rheinhemer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf). Map: Samanta Orellana, generated with [SimpleMappr.net](https://www.simplemappr.net/) |
+|Known distribution of _Mycteis_ Pascoe. Source: [Rheinhemer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf). Map: Samanta Orellana, generated with SimpleMappr.net (Shorthouse 2010). |
 
 ---
 
 ## _Altipectus_ Jordan, 1894: 605
 (16 species)
 
-|<img src="https://www.simplemappr.net/map/19884" alt="" />| 
+|<img width="2700" height="1350" alt="Altipectus_spp_" src="https://github.com/user-attachments/assets/8570cdd4-2a42-40bb-aa20-ff6b69495cbf" />| 
 |:--:| 
-|Known distribution of _Altipectis_ Jordan. Source: [Rheinhemer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf). Map: Samanta Orellana, generated with [SimpleMappr.net](https://www.simplemappr.net/) |
+|Known distribution of _Altipectis_ Jordan. Source: [Rheinhemer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf). Map: Samanta Orellana, generated with SimpleMappr.net (Shorthouse 2010). |
 
 ---
 
 ## _Sympaector_ Kirsch, 1875: 53
 (16 species)
 
-|<img src="https://www.simplemappr.net/map/19883" alt="" />| 
+|<img width="2700" height="1350" alt="Sympaector_spp_" src="https://github.com/user-attachments/assets/b2cfc680-3891-4ac0-89a2-b024f6b08e60" />| 
 |:--:| 
-|Known distribution of _Sympaector_ Kirsch. Source: [Rheinhemer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf). Map: Samanta Orellana, generated with [SimpleMappr.net](https://www.simplemappr.net/) |
+|Known distribution of _Sympaector_ Kirsch. Source: [Rheinhemer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf). Map: Samanta Orellana, generated with SimpleMappr.net (Shorthouse 2010). |
