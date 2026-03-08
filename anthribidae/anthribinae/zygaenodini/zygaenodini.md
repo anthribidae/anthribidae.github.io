@@ -36,9 +36,9 @@ Tribes names according to [Bouchard _el al._ (2011)](https://zookeys.pensoft.net
 |:--:| 
 |_Exechesops frontalis_ (Wolfrum): 1.) lateral view, 2.) dorsal view, 3.) frontal view. Specimen deposited at Arizona State University Biocollections (ASUCOB, ASUHIC). Images and data available at [ecdysis](https://ecdysis.org/index.php) portal and [GBIF](https://gbif.org). Images: Samanta Orellana.|
 
-|<img src="https://www.simplemappr.net/map/19019" alt="" />| 
+|<img width="2700" height="1350" alt="Exechesops_spp_" src="https://github.com/user-attachments/assets/06af6ccc-e140-4fc1-b0ba-f779006494fa" />| 
 |:--:| 
-|Known distribution of _Exechesops_ Shoenherr. Source: [Rheinhemer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf). Map: Samanta Orellana, generated with [SimpleMappr.net](https://www.simplemappr.net/) |
+|Known distribution of _Exechesops_ Shoenherr. Source: [Rheinhemer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf). Map: Samanta Orellana, generated with SimpleMappr.net (Shorthouse 2010). |
 
 ---
 
@@ -50,9 +50,9 @@ Tribes names according to [Bouchard _el al._ (2011)](https://zookeys.pensoft.net
 |_Anthrenosoma tibiale_ Jordan: 1.) lateral view, 2.) dorsal view, 3.) frontal view. Specimen deposited at Arizona State University Biocollections (ASUCOB, ASUHIC). Images and data available at [ecdysis](https://serv.biokic.asu.edu/ecdysis/index.php) portal and [GBIF](https://gbif.org). Images: Samanta Orellana.|
 
 
-|<img src="https://www.simplemappr.net/map/19238" alt="" />| 
+|<img width="2700" height="1350" alt="Anthrenosoma_spp_" src="https://github.com/user-attachments/assets/bcc8f9ae-c352-437c-b4f9-15ea3aa4831c" />| 
 |:--:| 
-|Known distribution of _Anthrenosoma_ Jordan. Source: [Rheinhemer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf). Map: Samanta Orellana, generated with [SimpleMappr.net](https://www.simplemappr.net/) |
+|Known distribution of _Anthrenosoma_ Jordan. Source: [Rheinhemer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf). Map: Samanta Orellana, generated with SimpleMappr.net (Shorthouse 2010). |
 
 ---
 
@@ -64,26 +64,26 @@ Tribes names according to [Bouchard _el al._ (2011)](https://zookeys.pensoft.net
 |_Cybosoma_ sp.: 1.) lateral view. Specimen deposited at Kansas University Natural History Museum (curator: Dr. Zack Falin), on loan at Arizona State University Biocollections (2022-2024). Images: Samanta Orellana.|
 
 
-|<img src="https://www.simplemappr.net/map/19018" alt="" />| 
+|<img width="2700" height="1350" alt="Cybosoma_sp_" src="https://github.com/user-attachments/assets/b7b1a5cf-5287-447c-8100-799631ade633" />| 
 |:--:| 
-|Known distribution of _Cybosoma_ Jordan. Source: [Rheinhemer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf). Map: Samanta Orellana, generated with [SimpleMappr.net](https://www.simplemappr.net/). |
+|Known distribution of _Cybosoma_ Jordan. Source: [Rheinhemer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf). Map: Samanta Orellana, generated with SimpleMappr.net (Shorthouse 2010). |
 
 ---
 
 ## _Dissoleucas_ Jordan, 1925: 252
 (3 species)
 
-|<img src="https://www.simplemappr.net/map/21845" alt="" />| 
+|<img width="2700" height="1350" alt="Dissoleucas_spp_" src="https://github.com/user-attachments/assets/2c03be03-b9fb-4ec8-b3db-5a41d7710927" />| 
 |:--:| 
-|Known distribution of _Dissoleucas_ Jordan. Source: [Rheinhemer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf). Map: Samanta Orellana, generated with [SimpleMappr.net](https://www.simplemappr.net/) |
+|Known distribution of _Dissoleucas_ Jordan. Source: [Rheinhemer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf). Map: Samanta Orellana, generated with SimpleMappr.net (Shorthouse 2010). |
 
 ---
 ## _Eugonops_ Jordan, 1904: 285
 (3 species)
 
-|<img src="https://www.simplemappr.net/map/19020" alt="" />| 
+|<img width="2700" height="1350" alt="Eugonops_spp_" src="https://github.com/user-attachments/assets/112ee0fa-9428-4f51-9366-9386f01a3e60" />| 
 |:--:| 
-|Known distribution of _Cybosoma_ Jordan. Source: [Rheinhemer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf). Map: Samanta Orellana, generated with [SimpleMappr.net](https://www.simplemappr.net/) |
+|Known distribution of _Cybosoma_ Jordan. Source: [Rheinhemer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf). Map: Samanta Orellana, generated with SimpleMappr.net (Shorthouse 2010). |
 
 ---
 
@@ -95,9 +95,9 @@ Tribes names according to [Bouchard _el al._ (2011)](https://zookeys.pensoft.net
 |:--:| 
 |_Eusphyrus circulus_ Jordan: 1.) lateral view, 2.) dorsal view, 3.) frontal view. Specimen deposited at Arizona State University Biocollections (ASUCOB, ASUHIC). Images and data available at [ecdysis](https://ecdysis.org/index.php) portal and [GBIF](https://gbif.org). Images: Samanta Orellana.|
 
-|<img src="https://www.simplemappr.net/map/19017" alt="" />| 
+|<img width="2700" height="1350" alt="Eusphyrus_spp_" src="https://github.com/user-attachments/assets/23574416-db81-4525-9671-f4ce158c22f3" />| 
 |:--:| 
-|Known distribution of _Eusphyrus_ LeConte. Source: [Rheinhemer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf). Map: Samanta Orellana, generated with [SimpleMappr.net](https://www.simplemappr.net/) |
+|Known distribution of _Eusphyrus_ LeConte. Source: [Rheinhemer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf). Map: Samanta Orellana, generated with SimpleMappr.net (Shorthouse 2010). |
 
 ---
 
@@ -108,6 +108,6 @@ Tribes names according to [Bouchard _el al._ (2011)](https://zookeys.pensoft.net
 |:--:| 
 |_Ormiscus costifrons_ Jordan: 1.) lateral view, 2.) dorsal view, 3.) frontal view. Specimen deposited at Arizona State University Biocollections (ASUCOB, ASUHIC). Images and data available at [ecdysis](https://ecdysis.org/index.php) portal and [GBIF](https://gbif.org). Images: Samanta Orellana.|
 
-|<img src="https://www.simplemappr.net/map/19021" alt="" />| 
+|<img width="2700" height="1350" alt="Ormiscus_spp_" src="https://github.com/user-attachments/assets/d34f34d0-2df0-4a38-addf-9cc1a6eb1fbd" />| 
 |:--:| 
-|Known distribution of _Ormiscus_ Waterhouse. Source: [Rheinhemer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf). Map: Samanta Orellana, generated with [SimpleMappr.net](https://www.simplemappr.net/) |
+|Known distribution of _Ormiscus_ Waterhouse. Source: [Rheinhemer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf). Map: Samanta Orellana, generated with SimpleMappr.net (Shorthouse 2010). |
