@@ -36,9 +36,9 @@ Tribes names according to [Bouchard _el al._ (2011)](https://zookeys.pensoft.net
 |:--:| 
 |_Stenocerus angulicollis_ Jekel: 1.) lateral view, 2.) dorsal view. Specimen deposited at Arizona State University Biocollections (ASUCOB, ASUHIC). Images and data available at [ecdysis](https://ecdysis.org) portal and [GBIF](https://gbif.org). Images: ASUHIC.|
 
-|<img src="https://www.simplemappr.net/map/19118?legend=false" alt="" />| 
+|<img width="2700" height="1350" alt="Stenocerus_spp_" src="https://github.com/user-attachments/assets/ed362e20-9f65-4d80-b48c-2ddd68d65554" />| 
 |:--:| 
-|Known distribution of _Stenocerus_ Schoenherr. Source: [Rheinhemer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf). Map: Samanta Orellana, generated with [SimpleMappr.net](https://www.simplemappr.net/) |
+|Known distribution of _Stenocerus_ Schoenherr. Source: [Rheinhemer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf). Map: Samanta Orellana, generated with SimpleMappr.net (Shorthouse 2010). |
 
 
 ---
@@ -46,9 +46,9 @@ Tribes names according to [Bouchard _el al._ (2011)](https://zookeys.pensoft.net
 ## _Afrophaenotherium_ Frieser, 1984: 176
 (1 species)
 
-|<img src="https://www.simplemappr.net/map/19116" alt="" />| 
+|<img width="2700" height="1350" alt="Afrophaenotherium_sp_" src="https://github.com/user-attachments/assets/68780f8d-eefe-4a6d-8b40-1112ba4d3e1f" />| 
 |:--:| 
-|Known distribution of _Afrophaenotherium_ Frieser. Source: [Rheinhemer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf). Map: Samanta Orellana, generated with [SimpleMappr.net](https://www.simplemappr.net/) |
+|Known distribution of _Afrophaenotherium_ Frieser. Source: [Rheinhemer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf). Map: Samanta Orellana, generated with SimpleMappr.net (Shorthouse 2010). |
 
 ---
 
@@ -59,18 +59,18 @@ Tribes names according to [Bouchard _el al._ (2011)](https://zookeys.pensoft.net
 |:--:| 
 |_Allandrus bifasciatus_ LeConte: 1.) lateral view, 2.) dorsal view. Specimen deposited at Arizona State University Biocollections (ASUCOB, ASUHIC). Images and data available at [ecdysis](https://ecdysis.org) portal and [GBIF](https://gbif.org). Images: ASUHIC.|
 
-|<img src="https://www.simplemappr.net/map/19117" alt="" />| 
+|<img width="2700" height="1350" alt="Allandrus_spp_" src="https://github.com/user-attachments/assets/db9c3508-067e-485e-8f9a-aa5ebe9d02df" />| 
 |:--:| 
-|Known distribution of _Allandrus_ LeConte. Source: [Rheinhemer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf). Map: Samanta Orellana, generated with [SimpleMappr.net](https://www.simplemappr.net/) |
+|Known distribution of _Allandrus_ LeConte. Source: [Rheinhemer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf). Map: Samanta Orellana, generated with SimpleMappr.net (Shorthouse 2010). |
 
 ---
 
 ## _Helmoreus_ Holloway, 1982: 66
 (8 species)
 
-|<img src="https://www.simplemappr.net/map/20737" alt="" />| 
+|<img width="2700" height="1350" alt="Helmoreus_spp_" src="https://github.com/user-attachments/assets/605d7a2c-6e22-4ef9-a46e-d631078175a1" />| 
 |:--:| 
-|Known distribution of _Lophus_ Holloway. Source: [Holloway (1982)](https://www.biotaxa.org/fnz/article/view/fnz.3) and [Rheinhemer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf). Map: Samanta Orellana generated with [SimpleMappr.net](https://www.simplemappr.net/) |
+|Known distribution of _Lophus_ Holloway. Source: [Holloway (1982)](https://www.biotaxa.org/fnz/article/view/fnz.3) and [Rheinhemer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf). Map: Samanta Orellana generated with SimpleMappr.net (Shorthouse 2010). |
 
 ---
 
@@ -81,9 +81,9 @@ Tribes names according to [Bouchard _el al._ (2011)](https://zookeys.pensoft.net
 |:--:| 
 |_Plintheria salomonis_ Frieser: 1.) lateral view, 2.) dorsal view. Specimen deposited at Arizona State University Biocollections (ASUCOB, ASUHIC). Images and data available at [ecdysis](https://ecdysis.org) portal and [GBIF](https://gbif.org). Images: ASUHIC.|
 
-|<img src="https://www.simplemappr.net/map/19125" alt="" />| 
+|<img width="2700" height="1350" alt="Plintheria_spp_" src="https://github.com/user-attachments/assets/022da9a4-0de2-4624-9515-1f1113fc2823" />| 
 |:--:| 
-|Known distribution of _Plintheria_ Pascoe. Source: [Rheinhemer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf). Map: Samanta Orellana, generated with [SimpleMappr.net](https://www.simplemappr.net/) |
+|Known distribution of _Plintheria_ Pascoe. Source: [Rheinhemer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf). Map: Samanta Orellana, generated with SimpleMappr.net (Shorthouse 2010). |
 
 ---
 
@@ -94,7 +94,7 @@ Tribes names according to [Bouchard _el al._ (2011)](https://zookeys.pensoft.net
 |:--:| 
 |_Sintorops alloeus_ Jordan: 1.) lateral view, 2.) dorsal view, 3.) frontal view. Specimen deposited at Arizona State University Biocollections (ASUCOB, ASUHIC). Images and data available at [ecdysis](https://ecdysis.org) portal and [GBIF](https://gbif.org). Images: Samanta Orellana.|
 
-|<img src="https://www.simplemappr.net/map/19124" alt="" />| 
+|<img width="2700" height="1350" alt="Sintorops_sp_" src="https://github.com/user-attachments/assets/e62c10b9-b048-4cb6-8c9d-191c88a5ea78" />| 
 |:--:| 
-|Known distribution of _Sintorops_ LeConte. Source: [Rheinhemer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf). Map: Samanta Orellana, generated with [SimpleMappr.net](https://www.simplemappr.net/) |
+|Known distribution of _Sintorops_ LeConte. Source: [Rheinhemer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf). Map: Samanta Orellana, generated with SimpleMappr.net (Shorthouse 2010). |
 
