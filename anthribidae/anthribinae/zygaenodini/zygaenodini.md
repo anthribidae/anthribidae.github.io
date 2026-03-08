@@ -101,12 +101,23 @@ Tribes names according to [Bouchard _el al._ (2011)](https://zookeys.pensoft.net
 
 ---
 
-## _Ormiscus_ Waterhouse, 1845:37
+## _Ormiscus_ Waterhouse, 1845: 37
 (64 species)
 
-| [<img src="https://media01.symbiota.org/media/storage/portals/scan/misc/201505/ASUHIC0079305_habitus_lateral__1432931322_web.jpg" alt="Ormiscus costifrons" width="320" height="213.4">](https://ecdysis.org/collections/individual/index.php?occid=349348) [<img src="media01.symbiota.org/media/scan/misc/201505/ASUHIC0079305_habitus_dorsal_1_1432931321_web.jpg" alt="Ormiscus costifrons" width="320" height="213.4">](https://ecdysis.org/collections/individual/index.php?occid=349348) | 
+| [<img src="https://media01.symbiota.org/media/storage/portals/scan/misc/201505/ASUHIC0079305_habitus_lateral__1432931322_web.jpg" alt="Ormiscus costifrons" width="320" height="213.4">](https://ecdysis.org/collections/individual/index.php?occid=349348) [<img src="https://media01.symbiota.org/media/scan/misc/201505/ASUHIC0079305_habitus_dorsal_1_1432931321_web.jpg" alt="Ormiscus costifrons" width="320" height="213.4">](https://ecdysis.org/collections/individual/index.php?occid=349348) | 
 |:--:| 
 |_Ormiscus costifrons_ Jordan: 1.) lateral view, 2.) dorsal view, 3.) frontal view. Specimen deposited at Arizona State University Biocollections (ASUCOB, ASUHIC). Images and data available at [ecdysis](https://ecdysis.org/index.php) portal and [GBIF](https://gbif.org). Images: Samanta Orellana.|
+
+|<img width="2700" height="1350" alt="Ormiscus_spp_" src="https://github.com/user-attachments/assets/d34f34d0-2df0-4a38-addf-9cc1a6eb1fbd" />| 
+
+---
+
+## _Scymnopis_ Jordan, 1904: 282
+(64 species)
+
+| [<img src="https://media01.symbiota.org/media/ecdysis/ASU_ASUCOB/ASUCOB0051/ASUCOB0051720_lateral_edited_1717541089.jpg" alt="Scymnopis" width="320" height="213.4">](https://ecdysis.org/collections/individual/index.php?occid=3748943) [<img src="https://media01.symbiota.org/media/ecdysis/ASU_ASUCOB/ASUCOB0051/ASUCOB0051720_dorsal_edited_1717542026.jpg" alt="Scymnopis" width="320" height="213.4">](https://ecdysis.org/collections/individual/index.php?occid=3748943) | 
+|:--:| 
+|_Scymnopis sp._ Jordan: 1.) lateral view, 2.) dorsal view, 3.) frontal view. Specimen deposited at Arizona State University Biocollections (ASUCOB, ASUHIC). Images and data available at [ecdysis](https://ecdysis.org/index.php) portal and [GBIF](https://gbif.org). Images: Samanta Orellana.|
 
 |<img width="2700" height="1350" alt="Ormiscus_spp_" src="https://github.com/user-attachments/assets/d34f34d0-2df0-4a38-addf-9cc1a6eb1fbd" />| 
 |:--:| 
