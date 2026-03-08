@@ -26,7 +26,7 @@ Classification follows mostly Alonso-Zarazaga & Lyal (1999, 2002). Number of spe
 ## _Ambonoderes_ Jordan, 1907: 381
 (1 species)
 
-|<img src="https://www.simplemappr.net/map/21844" alt="" />|  
+|<img width="2700" height="1350" alt="Ambonoderes_sp_" src="https://github.com/user-attachments/assets/52d873c0-801e-4eb9-93c4-ce1df5fdf4b9" />| 
 |:--:| 
-|Known distribution of _Ambonoderes_ Jordan. Source: [Rheinhemer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf). Map: Samanta Orellana generated with [SimpleMappr.net](https://www.simplemappr.net/) |
+|Known distribution of _Ambonoderes_ Jordan. Source: [Rheinhemer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf). Map: Samanta Orellana generated with SimpleMappr.net (Shorthouse 2010) |
 
