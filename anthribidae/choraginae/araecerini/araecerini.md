@@ -80,7 +80,7 @@ Note: Rheinhemer mistakes Honduras with Belize (previously known as "_British Ho
 
 |<img width="2700" height="1350" alt="Habroxenus_spp_" src="https://github.com/user-attachments/assets/074eb974-56e9-43c8-91da-788789bd27fc" />| 
 |:--:| 
-|Known distribution of _Habroxenus_ Valentine. Source: [Rheinhemer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf). Map: Samanta Orellana generated with [SimpleMappr.net](https://www.simplemappr.net/) |
+|Known distribution of _Habroxenus_ Valentine. Source: [Rheinhemer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf). Map: Samanta Orellana generated with SimpleMappr.net (Shorthouse 2010). |
 
 ---
 
