@@ -59,6 +59,3 @@ Original description: [Wollaston 1877](https://www.biodiversitylibrary.org/item/
 |<img width="2700" height="1350" alt="Homoeodera_spp_" src="https://github.com/user-attachments/assets/2c50a224-bb10-4dd6-b3a6-4e1662924174" />| 
 |:--:| 
 |Known distribution of _Acarodes_ Wollaston. Source: [Rheinhemer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf). Map: Samanta Orellana generated with SimpleMappr.net (Shorthouse 2010). |
-
-{: .highlight }
-Updated: April 15, 2023 by **Samanta Orellana**.
