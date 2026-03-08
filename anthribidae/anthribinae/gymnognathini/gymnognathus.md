@@ -35,7 +35,7 @@ Species and distribution according to [Rheinheimer (2004,](https://www.zobodat.a
 
 **Distribution**. Guatemala [type].
 
-| [<img src="https://serv.biokic.asu.edu/imglib/ecdysis/ASU_ASUCOB/ASUCOB0015/ASUCOB0015362_lateral_edited_1625197893.jpg" alt="Gymnognathus abundans" width="320" height="213.4">](https://serv.biokic.asu.edu/ecdysis/collections/individual/index.php?occid=707567) [<img src="https://serv.biokic.asu.edu/imglib/ecdysis/ASU_ASUCOB/ASUCOB0015/ASUCOB0015362_dorsal_edited_1625199160.jpg" alt="Gymnognathus abundans" width="320" height="213.4">](https://serv.biokic.asu.edu/ecdysis/collections/individual/index.php?occid=707567)
+| [<img src="https://media01.symbiota.org/media/ecdysis/ASU_ASUCOB/ASUCOB0015/ASUCOB0015362_lateral_edited_1625197893.jpg" alt="Gymnognathus abundans" width="320" height="213.4">](https://ecdysis.org/collections/individual/index.php?occid=707567) [<img src="https://serv.biokic.asu.edu/imglib/ecdysis/ASU_ASUCOB/ASUCOB0015/ASUCOB0015362_dorsal_edited_1625199160.jpg" alt="Gymnognathus abundans" width="320" height="213.4">](https://serv.biokic.asu.edu/ecdysis/collections/individual/index.php?occid=707567)
 |:--:| 
 | _Gymnognathus abundans_ Jordan, 1.) lateral view, 2.) dorsal view. Specimens deposited at Arizona State University Biocollections (ASUCOB, ASUHIC). Images and data available at [ecdysis](https://serv.biokic.asu.edu/ecdysis/index.php) portal and [GBIF](gbif.org). Images: Samanta Orellana. |
 
@@ -606,7 +606,7 @@ Type species
 
 **Images**. [Rheinheimer, 2004: 240](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf).
 
-|[<img src="https://serv.biokic.asu.edu/imglib/ecdysis/ASU_ASUCOB/ASUCOB0015/ASUCOB0015320_lateral_edited_1624653573.jpg" alt="Gymnognathus robustus"  width="320" height="213.4">](https://serv.biokic.asu.edu/ecdysis/collections/individual/index.php?occid=632663) [<img src="https://serv.biokic.asu.edu/imglib/ecdysis/ASU_ASUCOB/ASUCOB0015/ASUCOB0015320_dorsal_edited_1624657253.jpg" alt="Gymnognathus robustus"  width="320" height="213.4">](https://serv.biokic.asu.edu/ecdysis/collections/individual/index.php?occid=632663) |
+|[<img src="https://media01.symbiota.org/media/ecdysis/ASU_ASUCOB/ASUCOB0015/ASUCOB0015320_lateral_edited_1624653573.jpg" alt="Gymnognathus robustus"  width="320" height="213.4">](https://ecdysis.org/collections/individual/index.php?occid=632663) [<img src="https://media01.symbiota.org/media/ecdysis.org/ASU_ASUCOB/ASUCOB0015/ASUCOB0015320_dorsal_edited_1624657253.jpg" alt="Gymnognathus robustus"  width="320" height="213.4">](https://ecdysis.org/collections/individual/index.php?occid=632663) |
 |:--:| 
 |_Gymnognathus robustus_ Jordan: 1.) lateral view, 2.) dorsal view. Specimen deposited at Arizona State University Biocollections (ASUCOB, ASUHIC). Images and data available at [ecdysis](https://serv.biokic.asu.edu/ecdysis/index.php) portal and [GBIF](gbif.org). Images: Samanta Orellana.|
 
@@ -616,7 +616,7 @@ Type species
 
 **Distribution**. Panama.
 
-|[<img src="https://serv.biokic.asu.edu/imglib/ecdysis/Anthribidae/202209/Gymnognathus_ruficlavaBCA_1662824991.jpg" alt="Gymnognathus ruficlava"  height="213.4">](https://serv.biokic.asu.edu/ecdysis/imagelib/imgdetails.php?imgid=248571) |
+|[<img src="https://media01.symbiota.org/media/ecdysis/Anthribidae/202209/Gymnognathus_ruficlavaBCA_1662824991.jpg" alt="Gymnognathus ruficlava"  height="213.4">](https://ecdysis.org/imagelib/imgdetails.php?imgid=248571) |
 |:--:| 
 |_Gymnognathus ruficlava_ Jordan: 1.) dorsal view. Illustration in Jordan 1906, digitized by the Smithsonian Libraries under a CC0-Public Domain License. Modified by Samanta Orellana.|
 
