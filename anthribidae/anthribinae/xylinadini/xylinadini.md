@@ -35,25 +35,25 @@ Tribes names according to [Bouchard _el al._ (2011)](https://zookeys.pensoft.net
 |:--:| 
 |_Xylinada plagiata_ (Jordan): 1.) lateral view, 2.) dorsal view. Specimen deposited at Arizona State University Biocollections (ASUCOB, ASUHIC). Images and data available at [ecdysis](https://ecdysis.org/index.php) portal and [GBIF](https://gbif.org). Images: Samanta Orellana.|
 
-|<img src="https://www.simplemappr.net/map/19007" alt="" />| 
+|<img width="2700" height="1350" alt="Xylinada_spp_" src="https://github.com/user-attachments/assets/ac4005d5-f716-470f-bc78-c20f9cc93a27" />| 
 |:--:| 
-|Known distribution of _Xylinada_ Berthold. Source: [Rheinhemer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf). Map: Samanta Orellana, generated with [SimpleMappr.net](https://www.simplemappr.net/) |
+|Known distribution of _Xylinada_ Berthold. Source: [Rheinhemer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf). Map: Samanta Orellana, generated with SimpleMappr.net (Shorthouse 2010). |
 
 ---
 
 ## _Stiboderes_ Jordan, 1925: 243
 (4 species)
 
-|<img src="https://www.simplemappr.net/map/19009" alt="" />| 
+|<img width="2700" height="1350" alt="Stiboderes_spp_" src="https://github.com/user-attachments/assets/dbf0b976-11fa-483e-9772-1171cc7162f5" />| 
 |:--:| 
-|Known distribution of _Stiboderes_ Jordan. Source: [Rheinhemer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf). Map: Samanta Orellana, generated with [SimpleMappr.net](https://www.simplemappr.net/) |
+|Known distribution of _Stiboderes_ Jordan. Source: [Rheinhemer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf). Map: Samanta Orellana, generated with SimpleMappr.net (Shorthouse 2010). |
 
 ---
 
 ## _Taphrodes_ Jordan, 1925: 243
 (5 species)
 
-|<img src="https://www.simplemappr.net/map/19008" alt="" />| 
+|<img width="2700" height="1350" alt="Taphrodes_spp_" src="https://github.com/user-attachments/assets/03ffcb48-3636-4ae1-96e7-5a6d0fa77312" />| 
 |:--:| 
 |Known distribution of _Taphrodes_ Jordan. Source: [Rheinhemer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf). Map: Samanta Orellana, generated with [SimpleMappr.net](https://www.simplemappr.net/) |
 
