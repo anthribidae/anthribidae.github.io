@@ -77,7 +77,7 @@ Type species
 
 **Images**. [Orellana & Barrios, 2021: 11, 14](https://www.researchgate.net/publication/348416935_Catalogue_of_the_Anthribidae_Coleoptera_Curculionoidea_of_Panama_including_new_country_records_and_a_key_to_genera).
 
-|[<img src="https://media01.symbiota.org/media/ecdysis/ASU_ASUHIC/ASUCOB0015/ASUCOB0015358_lateral_edited_1610158109.jpg" alt="Phaenithon discifer"  width="320" height="213.4">](https://ecdysis.org/collections/individual/index.php?occid=650125) [<https://media01.symbiota.org/media/ecdysis/ASU_ASUHIC/ASUCOB0015/ASUCOB0015358_dorsal_edited_1610158132.jpg" alt="Phaenithon discifer" width="320" height="213.4">](https://ecdysis.org/collections/individual/index.php?occid=650125)|
+|[<img src="https://media01.symbiota.org/media/ecdysis/ASU_ASUHIC/ASUCOB0015/ASUCOB0015358_lateral_edited_1610158109.jpg" alt="Phaenithon discifer"  width="320" height="213.4">](https://ecdysis.org/collections/individual/index.php?occid=650125) [<img src="https://media01.symbiota.org/media/ecdysis/ASU_ASUHIC/ASUCOB0015/ASUCOB0015358_dorsal_edited_1610158132.jpg" alt="Phaenithon discifer" width="320" height="213.4">](https://ecdysis.org/collections/individual/index.php?occid=650125)|
 |:--:| 
 |_Phaenithon discifer_ Jordan: 1.) lateral view, 2.) dorsal view. Specimen deposited at Arizona State University Biocollections (ASUCOB, ASUHIC). Images and data available at [ecdysis](https://ecdysis.org/index.php) portal and [GBIF](gbif.org). Images: Samanta Orellana.|
 
@@ -146,7 +146,7 @@ Type species
 
 **Distribution**. Mexico, Guatemala, Nicaragua, Costa Rica, Panama, Colombia, French Guiana, Brazil.
 
-|[<img src="https://media01.symbiota.org/media/ecdysis/ASU_ASUHIC/ASUHIC0126/ASUHIC0126118_lateral_edited_1589048575.jpg" alt="Phaenithon semigriseus"  width="320" height="213.4">](https://ecdysis.org/collections/individual/index.php?occid=610004) [<img src="https://https://media01.symbiota.org/media/ecdysis/ASU_ASUHIC/ASUHIC0126/ASUHIC0126118_dorsal_edited_1589048615.jpg" alt="Phaenithon semigriseus" width="320" height="213.4">](https://ecdysis.org/collections/individual/index.php?occid=610004)|
+|[<img src="https://media01.symbiota.org/media/ecdysis/ASU_ASUHIC/ASUHIC0126/ASUHIC0126118_lateral_edited_1589048575.jpg" alt="Phaenithon semigriseus"  width="320" height="213.4">](https://ecdysis.org/collections/individual/index.php?occid=610004) [<img src="https://media01.symbiota.org/media/ecdysis/ASU_ASUHIC/ASUHIC0126/ASUHIC0126118_dorsal_edited_1589048615.jpg" alt="Phaenithon semigriseus" width="320" height="213.4">](https://ecdysis.org/collections/individual/index.php?occid=610004)|
 |:--:| 
 |_Phaenithon semigriseus_ (Germar): 1.) lateral view, 2.) dorsal view. Specimen deposited at Arizona State University Biocollections (ASUCOB, ASUHIC). Images and data available at [ecdysis](https://ecdysis.org/index.php) portal and [GBIF](gbif.org). Images: Samanta Orellana.|
 
