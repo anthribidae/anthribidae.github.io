@@ -30,18 +30,18 @@ Tribes names according to [Bouchard _el al._ (2011)](https://zookeys.pensoft.net
 ## _Platyrhinus_ Clairville, 1798: 112
 (1 species)
 
-|<img src="https://www.simplemappr.net/map/19120" alt="" />| 
+|<img width="2700" height="1350" alt="Platyrhinus_sp_" src="https://github.com/user-attachments/assets/e6d19e19-dfbf-42b6-bae8-6e1b05744809" />| 
 |:--:| 
-|Known distribution of _Platyrhinus_ Cairville. Source: [Rheinhemer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf). Map: Samanta Orellana, generated with [SimpleMappr.net](https://www.simplemappr.net/) |
+|Known distribution of _Platyrhinus_ Cairville. Source: [Rheinhemer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf). Map: Samanta Orellana, generated with SimpleMappr.net (Shorthouse 2010). |
 
 ---
 
 ## _Anthiera_ Alonso-Zarazaga & Lyal, 1999: 32
 (1 species)
 
-|<img src="https://www.simplemappr.net/map/18927" alt="" />| 
+|<img width="2700" height="1350" alt="Anthiera_sp_" src="https://github.com/user-attachments/assets/3c8c79b1-4089-4f9a-988f-f73cdbd43149" />| 
 |:--:| 
-|Known distribution of _Anthiera_ Alonso-Zarazaga & Lyal. Source: [Rheinhemer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf). Map: Samanta Orellana, generated with [SimpleMappr.net](https://www.simplemappr.net/) |
+|Known distribution of _Anthiera_ Alonso-Zarazaga & Lyal. Source: [Rheinhemer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf). Map: Samanta Orellana, generated with (Shorthouse 2010). |
 
 ---
 
@@ -52,9 +52,9 @@ Tribes names according to [Bouchard _el al._ (2011)](https://zookeys.pensoft.net
 |:--:| 
 |_Homocloeus concolor_ Jordan: 1.) lateral view, 2.) dorsal view. Specimen deposited at Arizona State University Biocollections (ASUCOB, ASUHIC). Images and data available at [ecdysis](https://ecdysis.org) portal and [GBIF](https://gbif.org). Images: ASUHIC.|
 
-|<img src="https://www.simplemappr.net/map/18930" alt="" />| 
+|<img width="2700" height="1350" alt="Homocloeus_spp_" src="https://github.com/user-attachments/assets/6e1ee0af-c178-4e8d-abb1-9a253a658acf" />| 
 |:--:| 
-|Known distribution of _Homocloeus_ Jordan. Source: [Rheinhemer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf). Map: Samanta Orellana, generated with [SimpleMappr.net](https://www.simplemappr.net/) |
+|Known distribution of _Homocloeus_ Jordan. Source: [Rheinhemer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf). Map: Samanta Orellana, generated with (Shorthouse 2010). |
 
 ---
 
@@ -65,9 +65,9 @@ Tribes names according to [Bouchard _el al._ (2011)](https://zookeys.pensoft.net
 |:--:| 
 |_Monocloeus idaeus_ Jordan: 1.) lateral view, 2.) dorsal view. Specimen deposited at Arizona State University Biocollections (ASUCOB, ASUHIC). Images and data available at [ecdysis](https://ecdysis.org) portal and [GBIF](https://gbif.org). Images: ASUHIC.|
 
-|<img src="https://www.simplemappr.net/map/19010" alt="" />| 
+|<img width="2700" height="1350" alt="Monocloeus_spp_" src="https://github.com/user-attachments/assets/d6df93e1-083f-476c-b836-4a3077f9dcd7" />| 
 |:--:| 
-|Known distribution of _Monocloeus_ Jordan. Source: [Rheinhemer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf). Map: Samanta Orellana, generated with [SimpleMappr.net](https://www.simplemappr.net/) |
+|Known distribution of _Monocloeus_ Jordan. Source: [Rheinhemer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf). Map: Samanta Orellana, generated with (Shorthouse 2010). |
 
 ---
 
@@ -78,9 +78,9 @@ Tribes names according to [Bouchard _el al._ (2011)](https://zookeys.pensoft.net
 |:--:| 
 |_Strabus umbrinus_ (Jordan) 1.) lateral view, 2.) dorsal view. Specimen deposited at Arizona State University Biocollections (ASUCOB, ASUHIC). Images and data available at [ecdysis](https://ecdysis.org) portal and [GBIF](https://gbif.org). Images: ASUHIC.|
 
-|<img src="https://www.simplemappr.net/map/19011" alt="" />| 
+|<img width="2700" height="1350" alt="Strabus_spp_" src="https://github.com/user-attachments/assets/c97db604-2ba9-4aa1-8450-07ddb10167f8" />| 
 |:--:| 
-|Known distribution of _Strabus_ Jekel. Source: [Rheinhemer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf). Map: Samanta Orellana, generated with [SimpleMappr.net](https://www.simplemappr.net/) |
+|Known distribution of _Strabus_ Jekel. Source: [Rheinhemer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf). Map: Samanta Orellana, generated with (Shorthouse 2010). |
 
 ---
 
@@ -91,7 +91,7 @@ Tribes names according to [Bouchard _el al._ (2011)](https://zookeys.pensoft.net
 |:--:| 
 |_Trachytropis aspera_ Jordan 1.) lateral view, 2.) dorsal view. Specimen deposited at Arizona State University Biocollections (ASUCOB, ASUHIC). Images and data available at [ecdysis](https://ecdysis.org) portal and [GBIF](https://gbif.org). Images: Samanta Orellana.|
 
-|<img src="https://www.simplemappr.net/map/19012" alt="" />| 
+|<img width="2700" height="1350" alt="Trachytropis_spp_" src="https://github.com/user-attachments/assets/27b71108-ae99-463c-ac06-ae6bb00b24e2" />| 
 |:--:| 
-|Known distribution of _Trachytropis_ Jekel. Source: [Rheinhemer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf). Map: Samanta Orellana, generated with [SimpleMappr.net](https://www.simplemappr.net/) |
+|Known distribution of _Trachytropis_ Jekel. Source: [Rheinhemer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf). Map: Samanta Orellana, generated with (Shorthouse 2010). |
 
