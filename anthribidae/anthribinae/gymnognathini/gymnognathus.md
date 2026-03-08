@@ -35,9 +35,9 @@ Species and distribution according to [Rheinheimer (2004,](https://www.zobodat.a
 
 **Distribution**. Guatemala [type].
 
-| [<img src="https://media01.symbiota.org/media/ecdysis/ASU_ASUCOB/ASUCOB0015/ASUCOB0015362_lateral_edited_1625197893.jpg" alt="Gymnognathus abundans" width="320" height="213.4">](https://ecdysis.org/collections/individual/index.php?occid=707567) [<img src="https://serv.biokic.asu.edu/imglib/ecdysis/ASU_ASUCOB/ASUCOB0015/ASUCOB0015362_dorsal_edited_1625199160.jpg" alt="Gymnognathus abundans" width="320" height="213.4">](https://serv.biokic.asu.edu/ecdysis/collections/individual/index.php?occid=707567)
+| [<img src="https://media01.symbiota.org/media/ecdysis/ASU_ASUCOB/ASUCOB0015/ASUCOB0015362_lateral_edited_1625197893.jpg" alt="Gymnognathus abundans" width="320" height="213.4">](https://ecdysis.org/collections/individual/index.php?occid=707567) [<img src="https://media01.symbiota.org/media/ecdysis/ASU_ASUCOB/ASUCOB0015/ASUCOB0015362_dorsal_edited_1625199160.jpg" alt="Gymnognathus abundans" width="320" height="213.4">](https://ecdysis.org/collections/individual/index.php?occid=707567)
 |:--:| 
-| _Gymnognathus abundans_ Jordan, 1.) lateral view, 2.) dorsal view. Specimens deposited at Arizona State University Biocollections (ASUCOB, ASUHIC). Images and data available at [ecdysis](https://serv.biokic.asu.edu/ecdysis/index.php) portal and [GBIF](gbif.org). Images: Samanta Orellana. |
+| _Gymnognathus abundans_ Jordan, 1.) lateral view, 2.) dorsal view. Specimens deposited at Arizona State University Biocollections (ASUCOB, ASUHIC). Images and data available at [ecdysis](https://ecdysis.org/index.php) portal and [GBIF](gbif.org). Images: Samanta Orellana. |
 
 ---
 
@@ -154,7 +154,7 @@ Type species
 
 **Distribution**. Panama [type].
 
-|[<img src="https://serv.biokic.asu.edu/imglib/ecdysis/Anthribidae/202209/Gymnognathus_calusBCA_1662824717.jpg" alt="Gymnognathus ruficlava"  height="213.4">](https://serv.biokic.asu.edu/ecdysis/imagelib/imgdetails.php?imgid=248570) |
+|[<img src="https://media01.symbiota.org/media/ecdysis/Anthribidae/202209/Gymnognathus_calusBCA_1662824717.jpg" alt="Gymnognathus ruficlava"  height="213.4">](https://ecdysis.org/imagelib/imgdetails.php?imgid=248570) |
 |:--:| 
 |_Gymnognathus calus_ Jordan: 1.) dorsal view. Illustration in Jordan 1906, digitized by the Smithsonian Libraries under a CC0-Public Domain License. Modified by Samanta Orellana.|
 
@@ -198,7 +198,7 @@ Type species
 
 **Distribution**. Nicaragua [type], Panama.
 
-| [<img src="https://serv.biokic.asu.edu/imglib/ecdysis/ASU_ASUCOB/ASUCOB0014/ASUCOB0014228_lateral_edited_1624913001.jpg" alt="Gymnognathus claudia" width="320" height="213.4">](https://serv.biokic.asu.edu/ecdysis/collections/individual/index.php?occid=611250) [<img src="https://serv.biokic.asu.edu/imglib/ecdysis/ASU_ASUCOB/ASUCOB0014/ASUCOB0014228_dorsal_edited_1624914182.jpg" alt="Gymnognathus claudia" width="320" height="213.4">](https://serv.biokic.asu.edu/ecdysis/collections/individual/index.php?occid=611250)
+| [<img src="https://media01.symbiota.org/media/ecdysis/ASU_ASUCOB/ASUCOB0014/ASUCOB0014228_lateral_edited_1624913001.jpg" alt="Gymnognathus claudia" width="320" height="213.4">](https://ecdysis.org/collections/individual/index.php?occid=611250) [<img src="https://media01.symbiota.org/media/ecdysis/ASU_ASUCOB/ASUCOB0014/ASUCOB0014228_dorsal_edited_1624914182.jpg" alt="Gymnognathus claudia" width="320" height="213.4">](https://ecdysis.org/collections/individual/index.php?occid=611250)
 |:--:| 
 | _Gymnognathus claudia_ Jordan, 1.) lateral view, 2.) dorsal view.. Specimens deposited at Arizona State University Biocollections (ASUCOB, ASUHIC). Images and data available at [ecdysis](https://serv.biokic.asu.edu/ecdysis/index.php) portal and [GBIF](gbif.org). Images: Samanta Orellana. |
 
@@ -248,9 +248,9 @@ Type species
 
 **Distribution**. Panama, Colombia [type].
 
-|[<img src="https://serv.biokic.asu.edu/imglib/ecdysis/ASU_ASUCOB/ASUCOB0014/ASUCOB0014259_lateral_edited_1624045501.jpg" alt="Gymnognathus daguanus"  width="320" height="213.4">](https://serv.biokic.asu.edu/ecdysis/collections/individual/index.php?occid=611297) [<img src="https://serv.biokic.asu.edu/imglib/ecdysis/ASU_ASUCOB/ASUCOB0014/ASUCOB0014259_dorsal_edited_1624047803.jpg" alt="Gymnognathus daguanus"  width="320" height="213.4">](https://serv.biokic.asu.edu/ecdysis/collections/individual/index.php?occid=611297)|
+|[<img src="https://media01.symbiota.org/media/ecdysis/ASU_ASUCOB/ASUCOB0014/ASUCOB0014259_lateral_edited_1624045501.jpg" alt="Gymnognathus daguanus"  width="320" height="213.4">](https://ecdysis.org/collections/individual/index.php?occid=611297) [<img src="https://media01.symbiota.org/media/ecdysis/ASU_ASUCOB/ASUCOB0014/ASUCOB0014259_dorsal_edited_1624047803.jpg" alt="Gymnognathus daguanus"  width="320" height="213.4">](https://ecdysis.org/collections/individual/index.php?occid=611297)|
 |:--:| 
-|_Gymnognathus daguanus_ Jordan: 1.) lateral view, 2.) dorsal view. Specimen deposited at Arizona State University Biocollections (ASUCOB, ASUHIC). Images and data available at [ecdysis](https://serv.biokic.asu.edu/ecdysis/index.php) portal and [GBIF](gbif.org). Images: Samanta Orellana.|
+|_Gymnognathus daguanus_ Jordan: 1.) lateral view, 2.) dorsal view. Specimen deposited at Arizona State University Biocollections (ASUCOB, ASUHIC). Images and data available at [ecdysis](https://ecdysis.org/index.php) portal and [GBIF](gbif.org). Images: Samanta Orellana.|
 
 ---
 
@@ -348,7 +348,7 @@ Type species
 
 **Distribution**. Panama [type].
 
-|[<img src="https://serv.biokic.asu.edu/imglib/ecdysis/ASU_ASUCOB/ASUCOB0015/ASUCOB0015700_lateral_edited_1639625762.jpg" alt="Gymnognathus hedys" width="320" height="213.4">](https://serv.biokic.asu.edu/ecdysis/collections/individual/index.php?occid=704738) |
+|[<img src="https://media01.symbiota.org/media/ecdysis/ASU_ASUCOB/ASUCOB0015/ASUCOB0015700_lateral_edited_1639625762.jpg" alt="Gymnognathus hedys" width="320" height="213.4">](https://ecdysis.org/collections/individual/index.php?occid=704738) |
 |:--:| 
 |_Gymnognathus hedys_ Jordan: 1.) lateral view. Illustration in Jordan 1906, digitized by the Smithsonian Libraries under a CC0-Public Domain License. Modified by Samanta Orellana.|
 
@@ -432,9 +432,9 @@ Type species
 
 **Images**. [Rheinheimer, 2016: 314](https://www.coleoptera.at/uploads/publication_article/pdf/781/KOR_90_2020_0307-0324.pdf). 
 
-| [<img src="https://serv.biokic.asu.edu/imglib/ecdysis/ASU_ASUCOB/ASUCOB0015/ASUCOB0015433_lateral_edited_1640228465.jpg" alt="Gymnognathus lotus" width="320" height="213.4">](https://serv.biokic.asu.edu/ecdysis/collections/individual/index.php?occid=656802) |
+| [<img src="https://media01.symbiota.org/media/ecdysis/ASU_ASUCOB/ASUCOB0015/ASUCOB0015433_lateral_edited_1640228465.jpg" alt="Gymnognathus lotus" width="320" height="213.4">](https://ecdysis.org/collections/individual/index.php?occid=656802) |
 |:--:| 
-| _Gymnognathus lotus_ Jordan, 1.) lateral view. Specimens deposited at Arizona State University Biocollections (ASUCOB, ASUHIC). Images and data available at [ecdysis](https://serv.biokic.asu.edu/ecdysis/index.php) portal and [GBIF](gbif.org). Images: Samanta Orellana. |
+| _Gymnognathus lotus_ Jordan, 1.) lateral view. Specimens deposited at Arizona State University Biocollections (ASUCOB, ASUHIC). Images and data available at [ecdysis](https://ecdysis.org/index.php) portal and [GBIF](gbif.org). Images: Samanta Orellana. |
 
 ---
 
@@ -470,7 +470,7 @@ Type species
 
 **Distribution**. Mexico [type].
 
-|[<img src="https://serv.biokic.asu.edu/imglib/ecdysis/Anthribidae/202209/Gymnognathus_mexicanusBCA_1662825128.jpg" alt="Gymnognathus mexicanus"  height="213.4">](https://serv.biokic.asu.edu/ecdysis/imagelib/imgdetails.php?imgid=248572) |
+|[<img src="https://media01.symbiota.org/media/ecdysis/Anthribidae/202209/Gymnognathus_mexicanusBCA_1662825128.jpg" alt="Gymnognathus mexicanus"  height="213.4">](https://ecdysis.org/imagelib/imgdetails.php?imgid=248572) |
 |:--:| 
 |_Gymnognathus mexicanus_ Jordan: 1.) dorsal view. Illustration in Jordan 1906, digitized by the Smithsonian Libraries under a CC0-Public Domain License. Modified by Samanta Orellana.|
 
@@ -526,9 +526,9 @@ Type species
 
 **Distribution**. Nicaragua, Panama, Colombia, Brazil.
 
-|[<img src="https://serv.biokic.asu.edu/imglib/ecdysis/ASU_ASUCOB/ASUCOB0014/ASUCOB0014235_lateral_edited_1660896651.jpg" alt="Gymnognathus ophiopsis"  width="320" height="213.4">](https://serv.biokic.asu.edu/ecdysis/collections/individual/index.php?occid=611257) [<img src="https://serv.biokic.asu.edu/imglib/ecdysis/ASU_ASUCOB/ASUCOB0014/ASUCOB0014235_lateral_edited_1676766784.jpg" alt="Gymnognathus ophiopsis"  width="320" height="213.4">](https://serv.biokic.asu.edu/ecdysis/collections/individual/index.php?occid=611257) |
+|[<img src="https://media01.symbiota.org/media/ecdysis/ASU_ASUCOB/ASUCOB0014/ASUCOB0014235_lateral_edited_1660896651.jpg" alt="Gymnognathus ophiopsis"  width="320" height="213.4">](https://ecdysis.org/collections/individual/index.php?occid=611257) [<img src="https://https://media01.symbiota.org/media/ecdysis/ASU_ASUCOB/ASUCOB0014/ASUCOB0014235_lateral_edited_1676766784.jpg" alt="Gymnognathus ophiopsis"  width="320" height="213.4">](https://ecdysis.org/collections/individual/index.php?occid=611257) |
 |:--:| 
-|_Gymnognathus ophiopsis_ Dalman: 1.) lateral view, 2.) dorsal view. Specimen deposited at Arizona State University Biocollections (ASUCOB, ASUHIC). Images and data available at [ecdysis](https://serv.biokic.asu.edu/ecdysis/index.php) portal and [GBIF](gbif.org). Images: Samanta Orellana.|
+|_Gymnognathus ophiopsis_ Dalman: 1.) lateral view, 2.) dorsal view. Specimen deposited at Arizona State University Biocollections (ASUCOB, ASUHIC). Images and data available at [ecdysis](https://ecdysis.org/index.php) portal and [GBIF](gbif.org). Images: Samanta Orellana.|
 
 ---
 
@@ -552,7 +552,7 @@ Type species
 
 **Images**. [Rheinheimer, 2016: 316](https://www.coleoptera.at/uploads/publication_article/pdf/781/KOR_90_2020_0307-0324.pdf). 
 
-| [<img src="https://serv.biokic.asu.edu/imglib/ecdysis/Anthribidae/202302/KUNHM_Gymnognathus_phanerus_la_1676821124.jpg" alt="Gymnognathus phanerus" width="320" height="213.4">](https://serv.biokic.asu.edu/ecdysis/imagelib/imgdetails.php?imgid=286510) [<img src="https://serv.biokic.asu.edu/imglib/ecdysis/Anthribidae/202302/KUNHM_Gymnognathus_phanerus_do_1676819987.jpg" alt="Gymnognathus phanerus" width="320" height="213.4">](https://serv.biokic.asu.edu/ecdysis/imagelib/imgdetails.php?imgid=286509) |
+| [<img src="https://media01.symbiota.org/media/ecdysis/Anthribidae/202302/KUNHM_Gymnognathus_phanerus_la_1676821124.jpg" alt="Gymnognathus phanerus" width="320" height="213.4">](https://ecdysis.org/imagelib/imgdetails.php?imgid=286510) [<img src="https://media01.symbiota.org/media/imglib/ecdysis/Anthribidae/202302/KUNHM_Gymnognathus_phanerus_do_1676819987.jpg" alt="Gymnognathus phanerus" width="320" height="213.4">](https://ecdysis.org/imagelib/imgdetails.php?imgid=286509) |
 |:--:| 
 | _Gymnognathus phanerus_ Jordan, 1.) lateral view, 2.) dorsal view. Specimens deposited at Kansas University Natural History Museum (Curator: Dr. Zachary Falin), on loan at State University Biocollections (2022-2024). Images: Samanta Orellana. |
 
@@ -608,7 +608,7 @@ Type species
 
 |[<img src="https://media01.symbiota.org/media/ecdysis/ASU_ASUCOB/ASUCOB0015/ASUCOB0015320_lateral_edited_1624653573.jpg" alt="Gymnognathus robustus"  width="320" height="213.4">](https://ecdysis.org/collections/individual/index.php?occid=632663) [<img src="https://media01.symbiota.org/media/ecdysis.org/ASU_ASUCOB/ASUCOB0015/ASUCOB0015320_dorsal_edited_1624657253.jpg" alt="Gymnognathus robustus"  width="320" height="213.4">](https://ecdysis.org/collections/individual/index.php?occid=632663) |
 |:--:| 
-|_Gymnognathus robustus_ Jordan: 1.) lateral view, 2.) dorsal view. Specimen deposited at Arizona State University Biocollections (ASUCOB, ASUHIC). Images and data available at [ecdysis](https://serv.biokic.asu.edu/ecdysis/index.php) portal and [GBIF](gbif.org). Images: Samanta Orellana.|
+|_Gymnognathus robustus_ Jordan: 1.) lateral view, 2.) dorsal view. Specimen deposited at Arizona State University Biocollections (ASUCOB, ASUHIC). Images and data available at [ecdysis](https://ecdysis.org/index.php) portal and [GBIF](gbif.org). Images: Samanta Orellana.|
 
 ---
 
