@@ -56,9 +56,9 @@ Tribes names according to [Bouchard _el al._ (2011)](https://zookeys.pensoft.net
 ## _Mecotropis_ Lacordaire, 1866: 495
 (53 species)
 
-|<img width="2700" height="1350" alt="Mecotropis_spp_(1)" src="https://github.com/user-attachments/assets/e39ffb50-cc99-4c16-9e27-57184e2bc628" />| 
+|<img width="2700" height="1350" alt="Mecotropis_spp" src="https://github.com/user-attachments/assets/d12b9800-7a8a-4347-9cc7-1690a0b747ea" />| 
 |:--:| 
-|Known distribution of _Dolichocera_ Gray. Source: [Rheinhemer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf). Map: Samanta Orellana, generated with SimpleMappr.net (Shorthouse 2010). |
+|Known distribution of _Mecotropis_ Lacordaire. Source: [Rheinhemer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf). Map: Samanta Orellana, generated with SimpleMappr.net (Shorthouse 2010). |
 
 ---
 
