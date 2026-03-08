@@ -33,9 +33,9 @@ Species and distribution according to [Rheinheimer (2004](https://www.zobodat.at
 
 **Distribution.** Panama, Brazil [type].
 
-|[<img src="https://serv.biokic.asu.edu/imglib/ecdysis/ASU_ASUCOB/ASUCOB0014/ASUCOB0014290_lateral_edited_1608928771.jpg" alt="Eugonodes brevirostris" width="320" height="213.4">](https://serv.biokic.asu.edu/ecdysis/collections/individual/index.php?occid=611354) [<img src="https://serv.biokic.asu.edu/imglib/ecdysis/ASU_ASUCOB/ASUCOB0014/ASUCOB0014290_dorsal_edited_1609004155.jpg" alt="Eugonodes brevirostris" width="320" height="213.4">](https://serv.biokic.asu.edu/ecdysis/collections/individual/index.php?occid=611354)|
+|[<img src="https://media01.symbiota.org/media/ecdysis/ASU_ASUCOB/ASUCOB0014/ASUCOB0014290_lateral_edited_1608928771.jpg" alt="Eugonodes brevirostris" width="320" height="213.4">](https://ecdysis.org/collections/individual/index.php?occid=611354) [<img src="https://media01.symbiota.org/media/ecdysis/ASU_ASUCOB/ASUCOB0014/ASUCOB0014290_dorsal_edited_1609004155.jpg" alt="Eugonodes brevirostris" width="320" height="213.4">](https://ecdysis.org/collections/individual/index.php?occid=611354)|
 |:--:| 
-|_Eugonuodes brevirostris_ Jordan: 1.) lateral view, 2.) dorsal view. Specimen deposited at Arizona State University Biocollections (ASUCOB, ASUHIC). Images and data available at [ecdysis](https://serv.biokic.asu.edu/ecdysis/index.php) portal and [GBIF](gbif.org). Images: Samanta Orellana.|
+|_Eugonuodes brevirostris_ Jordan: 1.) lateral view, 2.) dorsal view. Specimen deposited at Arizona State University Biocollections (ASUCOB, ASUHIC). Images and data available at [ecdysis](https://ecdysis.org/index.php) portal and [GBIF](gbif.org). Images: Samanta Orellana.|
 
 ---
 
