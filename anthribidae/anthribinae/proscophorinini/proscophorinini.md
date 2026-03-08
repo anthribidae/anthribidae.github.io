@@ -30,9 +30,9 @@ Tribes names according to [Bouchard _el al._ (2011)](https://zookeys.pensoft.net
 ## _Proscoporhinus_ Montrouzier, 1861: 868
 (1 species)
 
-|<img src="https://www.simplemappr.net/map/19121" alt="" />| 
+|<img width="2700" height="1350" alt="Proscoporhinus_sp_" src="https://github.com/user-attachments/assets/fe50baac-201a-4f8d-bc5b-b79697d7fae2" />| 
 |:--:| 
-|Known distribution of _Proscoporhinus_ Montrouzier. Source: [Rheinhemer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf). Map: Samanta Orellana, generated with [SimpleMappr.net](https://www.simplemappr.net/) |
+|Known distribution of _Proscoporhinus_ Montrouzier. Source: [Rheinhemer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf). Map: Samanta Orellana, generated with SimpleMappr.net (Shorthouse 2010). |
 
 ---
 
@@ -43,7 +43,7 @@ Tribes names according to [Bouchard _el al._ (2011)](https://zookeys.pensoft.net
 |:--:| 
 |_Antribisomus venatus_ Kuschel: 1.) lateral view, 2.) frontal view. Specimen deposited at Arizona State University Biocollections (ASUCOB, ASUHIC). Images and data available at [ecdysis](https://ecdysis.org/index.php) portal and [GBIF](https://gbif.org). Images: Samanta Orellana.|
 
-|<img src="https://www.simplemappr.net/map/19122" alt="" />| 
+|<img width="2700" height="1350" alt="Antribisomus_spp_" src="https://github.com/user-attachments/assets/104b9c3e-7fbb-4d2f-89ab-164c94c240a5" />| 
 |:--:| 
-|Known distribution of _Platystomos_ Schneider. Source: [Rheinhemer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf). Map: Samanta Orellana, generated with [SimpleMappr.net](https://www.simplemappr.net/) |
+|Known distribution of _Platystomos_ Schneider. Source: [Rheinhemer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf). Map: Samanta Orellana, generated with SimpleMappr.net (Shorthouse 2010). |
 
