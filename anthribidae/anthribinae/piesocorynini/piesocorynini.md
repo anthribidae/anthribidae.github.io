@@ -43,9 +43,9 @@ Tribes names according to [Bouchard _el al._ (2011)](https://zookeys.pensoft.net
 ## _Barra_ Jordan, 1904: 275
 (2 species)
 
-|<img width="2700" height="1350" alt="Barra_spp_" src="https://github.com/user-attachments/assets/accc5d3e-8344-448c-af13-2f159d1e35c4" />| 
+|<img width="2700" height="1350" alt="Barra_spp_(2)" src="https://github.com/user-attachments/assets/9cd4409a-8456-4cbe-920e-304df5dbba0a" />| 
 |:--:| 
-|Known distribution of _Barra_ Jordan. Source: [Rheinhemer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf). Map: Samanta Orellana, generated with SimpleMappr.net (Shorthouse 2010). |
+|Known distribution of _Barra_ Jordan. Source: Rheinhemer [(2004](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf), [2016](https://www.zobodat.at/pdf/KOR_86_2016_0243-0274.pdf)), Trýzna et al. [(2022)](https://doi.org/10.11646/zootaxa.5213.3.3). Map: Samanta Orellana, generated with SimpleMappr.net (Shorthouse 2010). |
 
 ---
 
