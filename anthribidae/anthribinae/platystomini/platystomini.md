@@ -34,27 +34,27 @@ Tribes names according to [Bouchard _el al._ (2011)](https://zookeys.pensoft.net
 |:--:| 
 |_Platystomos albinus_ L.: 1.) lateral view, 2.) dorsal view. Specimen deposited at Arizona State University Biocollections (ASUCOB, ASUHIC). Images and data available at [ecdysis](https://ecdysis.org) portal and [GBIF](https://gbif.org). Images: Samanta Orellana.|
 
-|<img src="https://www.simplemappr.net/map/19023" alt="" />| 
+|<img width="2700" height="1350" alt="Platystomos_spp_" src="https://github.com/user-attachments/assets/1780fafd-9a4e-4fa6-a36a-084658be05f8" />| 
 |:--:| 
-|Known distribution of _Platystomos_ Schneider. Source: [Rheinhemer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf). Map: Samanta Orellana, generated with [SimpleMappr.net](https://www.simplemappr.net/) |
+|Known distribution of _Platystomos_ Schneider. Source: [Rheinhemer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf). Map: Samanta Orellana, generated with (Shorthouse 2010). |
 
 ---
 
 ## _Parexillis_ Jordan, 1904: 284
 (8 species)
 
-|<img src="https://www.simplemappr.net/map/19024" alt="" />| 
+|<img width="2700" height="1350" alt="Parexillis_spp_" src="https://github.com/user-attachments/assets/c423b56c-0a92-493f-b9fe-ee8d22821f73" />| 
 |:--:| 
-|Known distribution of _Parexillis_ Jordan. Source: [Rheinhemer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf). Map: Samanta Orellana, generated with [SimpleMappr.net](https://www.simplemappr.net/) |
+|Known distribution of _Parexillis_ Jordan. Source: [Rheinhemer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf). Map: Samanta Orellana, generated with (Shorthouse 2010). |
 
 ---
 
 ## _Phoenicobiella_ Cockerell, 1906:243
 (3 species)
 
-|<img src="https://www.simplemappr.net/map/19145" alt="" />| 
+|<img width="2700" height="1350" alt="Phoenicobiella_spp_" src="https://github.com/user-attachments/assets/de0f66ff-2e75-436d-b687-a93cf60f9494" />| 
 |:--:| 
-|Known distribution of _Phoenicobiella_ Cockerell. Source: [Rheinhemer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf). Map: Samanta Orellana, generated with [SimpleMappr.net](https://www.simplemappr.net/) |
+|Known distribution of _Phoenicobiella_ Cockerell. Source: [Rheinhemer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf). Map: Samanta Orellana, generated with (Shorthouse 2010). |
 
 ---
 
@@ -66,8 +66,8 @@ Tribes names according to [Bouchard _el al._ (2011)](https://zookeys.pensoft.net
 |:--:| 
 |_Toxonotus fascicularis_ (Schoenherr): 1.) lateral view, 2.) dorsal view, frontal view. Specimen deposited at Arizona State University Biocollections (ASUCOB, ASUHIC). Images and data available at [ecdysis](https://ecdysis.org) portal and [GBIF](https://gbif.org). Images: ASUHIC.|
 
-|<img src="https://www.simplemappr.net/map/19025" alt="" />| 
+|<img width="2700" height="1350" alt="Toxonotus_spp_" src="https://github.com/user-attachments/assets/a8ba2971-4d67-4873-8152-0995ab37c13e" />| 
 |:--:| 
-|Known distribution of _Toxonotus_ Lacordaire. Source: [Rheinhemer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf). Map: Samanta Orellana, generated with [SimpleMappr.net](https://www.simplemappr.net/) |
+|Known distribution of _Toxonotus_ Lacordaire. Source: [Rheinhemer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf). Map: Samanta Orellana, generated with (Shorthouse 2010). |
 
 ---
