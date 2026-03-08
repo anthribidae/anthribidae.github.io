@@ -53,9 +53,9 @@ Species and distribution according to [Rheinheimer (2004)](https://www.zobodat.a
 
 **Distribution**. Nicaragua, Panama, Guyana.
 
-|[<img src="https://serv.biokic.asu.edu/imglib/ecdysis/ASU_ASUCOB/ASUCOB0015/ASUCOB0015243_lateral_edited_1637888538.jpg" alt="Nemotrichus dorsomaculatus"  width="320" height="213.4">](https://serv.biokic.asu.edu/ecdysis/collections/individual/index.php?occid=629156) [<img src="https://serv.biokic.asu.edu/imglib/ecdysis/ASU_ASUCOB/ASUCOB0015/ASUCOB0015243_dorsal_edited_1637888890.jpg" alt="Nemotrichus dorsomaculatus" width="320" height="213.4">](https://serv.biokic.asu.edu/ecdysis/collections/individual/index.php?occid=629156)|
+|[<img src="https://media01.symbiota.org/media/ecdysis/ASU_ASUCOB/ASUCOB0015/ASUCOB0015243_lateral_edited_1637888538.jpg" alt="Nemotrichus dorsomaculatus"  width="320" height="213.4">](https://ecdysis.org/collections/individual/index.php?occid=629156) [<img src="https://media01.symbiota.org/media/ecdysis/ASU_ASUCOB/ASUCOB0015/ASUCOB0015243_dorsal_edited_1637888890.jpg" alt="Nemotrichus dorsomaculatus" width="320" height="213.4">](https://ecdysis.org/collections/individual/index.php?occid=629156)|
 |:--:| 
-|_Nemotrichus dorsomaculatus_ Jordan: 1.) lateral view, 2.) dorsal view. Specimen deposited at Arizona State University Biocollections (ASUCOB, ASUHIC). Images and data available at [ecdysis](https://serv.biokic.asu.edu/ecdysis/index.php) portal and [GBIF](gbif.org). Images: Samanta Orellana.|
+|_Nemotrichus dorsomaculatus_ Jordan: 1.) lateral view, 2.) dorsal view. Specimen deposited at Arizona State University Biocollections (ASUCOB, ASUHIC). Images and data available at [ecdysis](https://ecdysis.org/index.php) portal and [GBIF](gbif.org). Images: Samanta Orellana.|
 
 ---
 
