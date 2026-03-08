@@ -35,15 +35,15 @@ Tribes names according to [Bouchard _el al._ (2011)](https://zookeys.pensoft.net
 |:--:| 
 |*Cisanthribus* sp. lateral view. Specimens deposited at the [New Zealand Arthropod Collection](https://www.landcareresearch.co.nz/tools-and-resources/collections/new-zealand-arthropod-collection-nzac/) (Curator: Dr. Richard Leschen), on loan at [Arizona State University Biocollections](https://sols.asu.edu/research/natural-history-collections). Images and data available at [ecdysis](https://serv.biokic.asu.edu/ecdysis/index.php). Images: Samanta Orellana. |
 
-|<img src="https://www.simplemappr.net/map/20241" alt="" />| 
+|<img width="2700" height="1350" alt="Cisanthribus_spp_" src="https://github.com/user-attachments/assets/0ffa8d10-f90f-4728-baf7-ee7e75000df0" />| 
 |:--:| 
-|Known distribution of _Cisanthribus_ Zimmerman. Source: [Rheinhemer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf), [Zimmerman (1938)](http://hbs.bishopmuseum.org/pubs-online/pdf/op14-13.pdf). Map: Samanta Orellana, generated with [SimpleMappr.net](https://www.simplemappr.net/) |
+|Known distribution of _Cisanthribus_ Zimmerman. Source: [Rheinhemer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf), [Zimmerman (1938)](http://hbs.bishopmuseum.org/pubs-online/pdf/op14-13.pdf). Map: Samanta Orellana, generated with SimpleMappr.net (Shorthouse 2010). |
 
 ## _Sicanthus_ Valentine, 1998: 258
 (1 species)
 
-|<img src="https://www.simplemappr.net/map/20250" alt="" />| 
+|<img width="2700" height="1350" alt="Sicanthus_sp_" src="https://github.com/user-attachments/assets/7134f48e-2a93-46d3-869f-1e7a445b7391" />| 
 |:--:| 
-|Known distribution of _Sicanthus_ Valentine. Source: [Rheinhemer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf), [Valentine (1998)](https://digitalcommons.unl.edu/cgi/viewcontent.cgi?article=1378&context=insectamundi). Map: Samanta Orellana, generated with [SimpleMappr.net](https://www.simplemappr.net/) |
+|Known distribution of _Sicanthus_ Valentine. Source: [Rheinhemer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf), [Valentine (1998)](https://digitalcommons.unl.edu/cgi/viewcontent.cgi?article=1378&context=insectamundi). Map: Samanta Orellana, generated with SimpleMappr.net (Shorthouse 2010). |
 
 
