@@ -55,9 +55,9 @@ Type species
 
 **Distribution**. Mexico, Guatemala [type], Panama.
 
-|[<img src="https://serv.biokic.asu.edu/imglib/ecdysis/ASU_ASUCOB/ASUCOB0014/ASUCOB0014210_lateral_edited_1629252381.jpg" alt="Discotenes cylindratus"  width="320" height="213.4">](https://serv.biokic.asu.edu/ecdysis/collections/individual/index.php?occid=610735) [<img src="https://serv.biokic.asu.edu/imglib/ecdysis/ASU_ASUCOB/ASUCOB0014/ASUCOB0014210_dorsal_edited_1637864656.jpg" alt="Discotenes cylindratus marmoreus" width="320" height="213.4">](https://serv.biokic.asu.edu/ecdysis/collections/individual/index.php?occid=610735)|
+|[<img src="https://media01.symbiota.org/media/ecdysis/ASU_ASUCOB/ASUCOB0014/ASUCOB0014210_lateral_edited_1629252381.jpg" alt="Discotenes cylindratus"  width="320" height="213.4">](https://ecdysis.org/collections/individual/index.php?occid=610735) [<img src="https://media01.symbiota.org/media/ecdysis/ASU_ASUCOB/ASUCOB0014/ASUCOB0014210_dorsal_edited_1637864656.jpg" alt="Discotenes cylindratus marmoreus" width="320" height="213.4">](https://ecdysis.org/collections/individual/index.php?occid=610735)|
 |:--:| 
-|_Discotenes cylindratus_ Jordan: 1.) lateral view, 2.) dorsal view. Specimen deposited at Arizona State University Biocollections (ASUCOB, ASUHIC). Images and data available at [ecdysis](https://serv.biokic.asu.edu/ecdysis/index.php) portal and [GBIF](gbif.org). Images: Samanta Orellana
+|_Discotenes cylindratus_ Jordan: 1.) lateral view, 2.) dorsal view. Specimen deposited at Arizona State University Biocollections (ASUCOB, ASUHIC). Images and data available at [ecdysis](https://ecdysis.org/index.php) portal and [GBIF](gbif.org). Images: Samanta Orellana
 
 ---
 
