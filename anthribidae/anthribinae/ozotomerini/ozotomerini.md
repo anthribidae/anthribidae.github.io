@@ -37,8 +37,8 @@ Tribes names according to [Bouchard _el al._ (2011)](https://zookeys.pensoft.net
 |:--:| 
 |_Ozotomerus bipunctatus_ (Montrouzier) : 1.) dorsal view. Specimen deposited at Arizona State University Biocollections (ASUCOB, ASUHIC). Images and data available at [ecdysis](https://ecdysis.org) portal and [GBIF](https://gbif.org). Images: Samanta Orellana|
 
-|<img src="https://www.simplemappr.net/map/19876" alt="" />| 
+|<img width="2700" height="1350" alt="Ozotomerus_spp_" src="https://github.com/user-attachments/assets/f088ac92-8deb-4e8d-bbcf-5308079cbb35" />| 
 |:--:| 
-|Known distribution of _Ozotomerus_ Perroud. Source: [Rheinhemer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf) and [Hoebeke et al. (2019)](https://doi.org/10.1649/0010-065X-73.4.1013). Map: Samanta Orellana generated with [SimpleMappr.net](https://www.simplemappr.net/) |
+|Known distribution of _Ozotomerus_ Perroud. Source: [Rheinhemer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf) and [Hoebeke et al. (2019)](https://doi.org/10.1649/0010-065X-73.4.1013). Map: Samanta Orellana generated with SimpleMappr.net (Shorthouse 2010). |
 
 ---
