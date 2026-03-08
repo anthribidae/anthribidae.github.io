@@ -102,7 +102,7 @@ Species and distribution according to [Rheinheimer (2004)](https://www.zobodat.a
  
 **Distribution**. Mexico [type], Guatemala, Nicaragua, Panama, Brazil, Argentina.
 
-| [<img src="https://media01.symbiota.org/media/ecdysis/ASU_ASUCOB/ASUCOB0014/ASUCOB0014561_lateral_edited_1651942119.jpg" alt="Eugonus subcylindricus" width="320" height="213.4">](https://ecdysis.org/collections/individual/index.php?occid=728356) [<img src="https://media01.symbiota.org/media/ecdysis/ASU_ASUCOB/ASUCOB0014/ASUCOB0014561_dorsal_edited_1652578241.jpg" alt="Eugonus subcylindricus" width="320" height="213.4">](https://ecdysis.org/collections/individual/index.php?occid=728356) | 
+| [<img src="https://media01.symbiota.org/media/ecdysis/ASU_ASUCOB/ASUCOB0015/ASUCOB0015395_lateral_edited_1685140389.jpg" alt="Eugonus subcylindricus" width="320" height="213.4">](https://ecdysis.org/collections/individual/index.php?occid=728356) [<img src="https://media01.symbiota.org/media/ecdysis/ASU_ASUCOB/ASUCOB0015/ASUCOB0015395_dorsal_edited_1705545404.jpg" alt="Eugonus subcylindricus" width="320" height="213.4">](https://ecdysis.org/collections/individual/index.php?occid=728356) | 
 |:--:| 
 |_Eugonus subcylindricus_ (Fahraeus): 1.) lateral view. 2.) dorsal view. Specimen deposited at Arizona State University Biocollections (ASUCOB, ASUHIC). Images and data available at [ecdysis](https://ecdysis.org/index.php) portal and [GBIF](gbif.org). Images: Samanta Orellana.|
 
