@@ -1,4 +1,4 @@
----
+<img width="1023" height="735" alt="image" src="https://github.com/user-attachments/assets/3447946a-194e-405d-b5ed-053bc81b10f8" />---
 layout: default
 title: Euparius Schoenherr
 parent: Cratoparini
@@ -43,14 +43,11 @@ Type species
 
 **Distribution**. Canada, United States of America [type].
 
-|[<img src="https://serv.biokic.asu.edu/imglib/storage/portals/scan/misc/201504/ASUHIC0070931_habitus_lateral__1429125491_web.jpg" alt="Euparius marmoreus"  width="320" height="213.4">](https://serv.biokic.asu.edu/ecdysis/collections/individual/index.php?occid=340972) [<img src="https://serv.biokic.asu.edu/imglib/storage/portals/scan/misc/201504/ASUHIC0070931_habitus_dorsal_1_1429125490_web.jpg" alt="Euparius marmoreus" width="320" height="213.4">](https://serv.biokic.asu.edu/ecdysis/collections/individual/index.php?occid=340972)|
+|[<img src="https://media01.symbiota.org/media/storage/portals/scan/misc/201504/ASUHIC0070931_habitus_lateral__1429125491_web.jpg" alt="Euparius marmoreus"  width="320" height="213.4">](https://ecdysis.org/collections/individual/index.php?occid=340972) [<img src="https://https://media01.symbiota.org/media/storage/portals/scan/misc/201504/ASUHIC0070931_habitus_dorsal_1_1429125490_web.jpg" alt="Euparius marmoreus" width="320" height="213.4">](https://ecdysis.org/collections/individual/index.php?occid=340972)|
 |:--:| 
-|_Euparius marmoreus_ (Olivier): 1.) lateral view, 2.) dorsal view. Specimen deposited at Arizona State University Biocollections (ASUCOB, ASUHIC). Images and data available at [ecdysis](https://serv.biokic.asu.edu/ecdysis/index.php) portal and [GBIF](gbif.org). Images: ASUHIC.|
+|_Euparius marmoreus_ (Olivier): 1.) lateral view, 2.) dorsal view. Specimen deposited at Arizona State University Biocollections (ASUCOB, ASUHIC). Images and data available at [ecdysis](https://ecdysis.org/index.php) portal and [GBIF](gbif.org). Images: ASUHIC.|
 
 
 ---
 
 [Back to Cratoparini](https://anthribidae.github.io/anthribidae/anthribinae/cratoparini/cratoparini/){: .btn .btn-blue}
-
-{: .highlight }
-Updated: April 16, 2023 by **Samanta Orellana**.
