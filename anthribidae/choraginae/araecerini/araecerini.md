@@ -36,9 +36,9 @@ Tribes names according to [Bouchard _el al._ (2011)](https://zookeys.pensoft.net
 |:--:| 
 |_Araecerus fasciculatus_ DeGeer: 1.) lateral view. 2.) dorsal view, 3.) frontal view. Specimen deposited at Arizona State University Biocollections (ASUCOB, ASUHIC). Images and data available at [ecdysis](https://ecdysis.org/index.php) portal and [GBIF](gbif.org). Images: Samanta Orellana.|
 
-|<img src="https://www.simplemappr.net/map/18908" alt="" />| 
+|<img width="2700" height="1350" alt="Araecerus_spp_" src="https://github.com/user-attachments/assets/896b2dc2-b562-4a84-a323-7b41589ebaf0" />| 
 |:--:| 
-|Known distribution of _Araecerus_ Schoenherr. Source: [Rheinhemer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf). Map: Samanta Orellana generated with [SimpleMappr.net](https://www.simplemappr.net/) |
+|Known distribution of _Araecerus_ Schoenherr. Source: [Rheinhemer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf). Map: Samanta Orellana generated with SimpleMappr.net (Shorthouse 2010). |
 
 ---
 
@@ -51,34 +51,34 @@ Note: Rheinhemer mistakes Honduras with Belize (previously known as "_British Ho
 |:--:| 
 |_Acaromimus americanus_ (Motschulsky): 1.) lateral view. 2.) dorsal view. Specimen deposited at Arizona State University Biocollections (ASUCOB, ASUHIC). Images and data available at [ecdysis](https://ecdysis.org/index.php) portal and [GBIF](https://gbif.org). Images: ASUHIC.|
 
-|<img src="https://www.simplemappr.net/map/18912" alt="" />| 
+|<img width="2700" height="1350" alt="Acaromimus_spp_" src="https://github.com/user-attachments/assets/1da60a3b-74b7-414f-8923-b0952840ebc5" />| 
 |:--:| 
-|Known distribution of _Acaromimus_ Jordan. Source: [Rheinhemer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf), [Jordan (1907)](https://www.biodiversitylibrary.org/item/14611#page/393/mode/1up). Map: Samanta Orellana generated with [SimpleMappr.net](https://www.simplemappr.net/) |
+|Known distribution of _Acaromimus_ Jordan. Source: [Rheinhemer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf), [Jordan (1907)](https://www.biodiversitylibrary.org/item/14611#page/393/mode/1up). Map: Samanta Orellana generated with SimpleMappr.net (Shorthouse 2010). |
 
 ---
 
 ## _Aurigeripilus_ Mermudes, 2015: 
 (1 species)
 
-|<img src="https://www.simplemappr.net/map/21737" alt="" />| 
+|<img width="2700" height="1350" alt="Aurigeripilus_sp_" src="https://github.com/user-attachments/assets/3d192b3e-4cba-410f-a260-dc8454e044fe" />| 
 |:--:| 
-|Known distribution of _Aurigeripilus_ Mermudes. Source: [Mermudes (2015)](https://www.biotaxa.org/Zootaxa/article/view/zootaxa.3918.4.8). Map: Samanta Orellana generated with [SimpleMappr.net](https://www.simplemappr.net/) |
+|Known distribution of _Aurigeripilus_ Mermudes. Source: [Mermudes (2015)](https://www.biotaxa.org/Zootaxa/article/view/zootaxa.3918.4.8). Map: Samanta Orellana generated with SimpleMappr.net (Shorthouse 2010). |
 
 ---
 
 ## _Cyptoxenus_ Valentine, 1982: 197
 (1 species)
 
-|<img src="https://www.simplemappr.net/map/18913" alt="" />| 
+|<img width="2700" height="1350" alt="Cyptoxenus_sp_" src="https://github.com/user-attachments/assets/5f7ff141-55b3-4e5a-84bd-93f35d8c7d07" />| 
 |:--:| 
-|Known distribution of _Cyptoxenus_ Valentine. Source: [Rheinhemer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf). Map: Samanta Orellana generated with [SimpleMappr.net](https://www.simplemappr.net/) |
+|Known distribution of _Cyptoxenus_ Valentine. Source: [Rheinhemer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf). Map: Samanta Orellana generated with SimpleMappr.net (Shorthouse 2010). |
 
 ---
 
 ## _Habroxenus_ Valentine, 1998: 256
 (3 species)
 
-|<img src="https://www.simplemappr.net/map/19151" alt="" />| 
+|<img width="2700" height="1350" alt="Habroxenus_spp_" src="https://github.com/user-attachments/assets/074eb974-56e9-43c8-91da-788789bd27fc" />| 
 |:--:| 
 |Known distribution of _Habroxenus_ Valentine. Source: [Rheinhemer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf). Map: Samanta Orellana generated with [SimpleMappr.net](https://www.simplemappr.net/) |
 
@@ -91,6 +91,6 @@ Note: Rheinhemer mistakes Honduras with Belize (previously known as "_British Ho
 |:--:| 
 |_Neoxenus polius_ (Jordan): 1.) lateral view. 2.) dorsal view, 3.) frontal view. Specimen deposited at Arizona State University Biocollections (ASUCOB, ASUHIC). Images and data available at [ecdysis](https://ecdysis.org/index.php) portal and [GBIF](https://gbif.org). Images: Samanta Orellana.|
 
-|<img src="https://www.simplemappr.net/map/18911" alt="" />| 
+|<img width="2700" height="1350" alt="Neoxenus_spp_" src="https://github.com/user-attachments/assets/e81ee1c5-bed5-450f-9eaa-1465fe7c5947" />| 
 |:--:| 
-|Known distribution of _Neoxenus_ Jordan. Source: [Rheinhemer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf), [Mermudes (2015)](https://www.biotaxa.org/Zootaxa/article/view/zootaxa.3918.4.8). Map: Samanta Orellana generated with [SimpleMappr.net](https://www.simplemappr.net/) |
+|Known distribution of _Neoxenus_ Jordan. Source: [Rheinhemer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf), [Mermudes (2015)](https://www.biotaxa.org/Zootaxa/article/view/zootaxa.3918.4.8). Map: Samanta Orellana generated with SimpleMappr.net (Shorthouse 2010). |
