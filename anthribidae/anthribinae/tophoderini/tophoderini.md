@@ -36,7 +36,7 @@ Tribes names according to [Bouchard _el al._ (2011)](https://zookeys.pensoft.net
 |:--:| 
 |_Tophoderes annulatus_ Waterhouse: 1.) lateral view, 2. dorsal view. Specimen deposited at Arizona State University Biocollections (ASUCOB, ASUHIC). Images and data available at [ecdysis](https://ecdysis.org) portal and [GBIF](https://gbif.org). Images: Samanta Orellana.|
 
-|<img src="https://www.simplemappr.net/map/19131" alt="" />| 
+|<img width="2700" height="1350" alt="Tophoderes_spp_" src="https://github.com/user-attachments/assets/d21dfb4c-e995-470c-a1aa-9df20cdd10b9" />| 
 |:--:| 
-|Known distribution of _Tohphoderes_ Dejean. Source: [Rheinhemer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf). Map: Samanta Orellana, generated with [SimpleMappr.net](https://www.simplemappr.net/) |
+|Known distribution of _Tohphoderes_ Dejean. Source: [Rheinhemer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf). Map: Samanta Orellana, generated with SimpleMappr.net (Shorthouse 2010). |
 
