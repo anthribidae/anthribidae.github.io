@@ -37,9 +37,9 @@ Classification according to [Bouchard _el al._ (2011)](https://zookeys.pensoft.n
 |:--:| 
 |_Valenfriesia nitida_ Morimoto: 1.) lateral view, 2.) dorsal view. Specimen deposited at Arizona State University Biocollections (ASUCOB, ASUHIC). Images and data available at [ecdysis](https://ecdysis.org/index.php) portal and [GBIF](gbif.org). Images: Samanta Orellana.|
 
-|<img src="https://www.simplemappr.net/map/20109" alt="" />| 
+|<img width="2700" height="1350" alt="Valenfriesia_spp_" src="https://github.com/user-attachments/assets/30187b0b-1e8d-45dd-93b6-3a97a447b295" />| 
 |:--:| 
-|Known distribution of _Valenfriesia_ Alonso-Zarazaga & Lyal. Source: [Rheinhemer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf). Map: Samanta Orellana generated with [SimpleMappr.net](https://www.simplemappr.net/) |
+|Known distribution of _Valenfriesia_ Alonso-Zarazaga & Lyal. Source: [Rheinhemer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf). Map: Samanta Orellana generated with SimpleMappr.net (Shorthouse 2010). |
 
 ---
 
