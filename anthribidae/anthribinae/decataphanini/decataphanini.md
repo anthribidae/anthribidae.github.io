@@ -28,7 +28,7 @@ Tribes names according to [Bouchard _el al._ (2011)](https://zookeys.pensoft.net
 
 ---
 
-## Decataphanes_ Imhoff, 1840 f.3
+## _Decataphanes_ Imhoff, 1840 f.3
 (6 species)
 
 | [<img src="https://media01.symbiota.org/media/ecdysis/Anthribidae/202303/AMNH_Decataphanes_ocultus_late_1678400916.jpg" alt="Decataphanes occultus" width="320" height="213.4">](https://media01.symbiota.org/media/ecdysis/Anthribidae/202303/AMNH_Decataphanes_ocultus_late_1678400916.jpg) | 
@@ -39,3 +39,11 @@ Tribes names according to [Bouchard _el al._ (2011)](https://zookeys.pensoft.net
 |:--:| 
 |Known distribution of _Decataphanes_ Imhoff. Source: [Rheinhemer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf). Map: Samanta Orellana generated with SimpleMappr.net (Shorthouse 2010). |
 
+---
+
+## _Gnoticarina_ Jordan, 1894: 648
+(1 species)
+
+|<img width="2700" height="1350" alt="Gnoticarina_sp" src="https://github.com/user-attachments/assets/dabb944b-cd9e-453e-8f83-7cf54be0bdad" />| 
+|:--:| 
+|Known distribution of _Gnoticarina_ Jordan. Source: [Rheinhemer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf). Map: Samanta Orellana generated with SimpleMappr.net (Shorthouse 2010). |
