@@ -1,4 +1,3 @@
-<img width="1023" height="735" alt="image" src="https://github.com/user-attachments/assets/3447946a-194e-405d-b5ed-053bc81b10f8" />---
 layout: default
 title: Euparius Schoenherr
 parent: Cratoparini
