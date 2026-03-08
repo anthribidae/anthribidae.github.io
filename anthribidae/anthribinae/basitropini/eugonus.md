@@ -35,7 +35,7 @@ Species and distribution according to [Rheinheimer (2004)](https://www.zobodat.a
 
 **Distribution**. USA, Mexico, Belize.
 
-|[<img src="https://serv.biokic.asu.edu/imglib/storage/portals/scan/ASU/201301/ASUHIC0000521_Habitus_lat.jpg" alt="Eugonus bicolor"  width="320" height="213.4">](https://serv.biokic.asu.edu/ecdysis/collections/individual/index.php?occid=386914) [<img src="https://serv.biokic.asu.edu/imglib/storage/portals/scan/ASU/201301/ASUHIC0000521_Habitus_dor.jpg" alt="Eugonus bicolorparticolor" width="320" height="213.4">](https://serv.biokic.asu.edu/ecdysis/collections/individual/index.php?occid=386914)|
+|[<img src="https://media01.symbiota.org/media/storage/portals/scan/ASU/201301/ASUHIC0000521_Habitus_lat.jpg" alt="Eugonus bicolor"  width="320" height="213.4">](https://ecdysis.org/collections/individual/index.php?occid=386914) [<img src="https://media01.symbiota.org/media/storage/portals/scan/ASU/201301/ASUHIC0000521_Habitus_dor.jpg" alt="Eugonus bicolorparticolor" width="320" height="213.4">](https://ecdysis.org/collections/individual/index.php?occid=386914)|
 |:--:| 
 |_Eugonus bicolor_ Valentne: 1.) lateral view, 2.) dorsal view. Specimen deposited at Arizona State University Biocollections (ASUCOB, ASUHIC). Images and data available at [ecdysis](https://serv.biokic.asu.edu/ecdysis/index.php) portal and [GBIF](gbif.org). Images: ASUHIC.|
 
@@ -75,9 +75,9 @@ Species and distribution according to [Rheinheimer (2004)](https://www.zobodat.a
 
 **Distribution**. Panama, Surinam, Brazil [type].
 
-| [<img src="https://serv.biokic.asu.edu/imglib/ecdysis/ASU_ASUCOB/ASUCOB0015/ASUCOB0015364_lateral_edited_1637802470.jpg" alt="Eugonus particolor" width="320" height="213.4">](https://serv.biokic.asu.edu/ecdysis/collections/individual/index.php?occid=653004) [<img src="https://serv.biokic.asu.edu/imglib/ecdysis/ASU_ASUCOB/ASUCOB0015/ASUCOB0015364_dorsal_edited_1637803702.jpg" alt="Eugonus particolor" width="320" height="213.4">](https://serv.biokic.asu.edu/ecdysis/collections/individual/index.php?occid=653004) | 
+| [<img src="https://media01.symbiota.org/media/ecdysis/ASU_ASUCOB/ASUCOB0015/ASUCOB0015364_lateral_edited_1637802470.jpg" alt="Eugonus particolor" width="320" height="213.4">](https://ecdysis.org/collections/individual/index.php?occid=653004) [<img src="https://media01.symbiota.org/media/ecdysis/ASU_ASUCOB/ASUCOB0015/ASUCOB0015364_dorsal_edited_1637803702.jpg" alt="Eugonus particolor" width="320" height="213.4">](https://ecdysis.org/collections/individual/index.php?occid=653004) | 
 |:--:| 
-|_Eugonus particolor_ Jordan: 1.) lateral view. 2.) dorsal view. Specimen deposited at Arizona State University Biocollections (ASUCOB, ASUHIC). Images and data available at [ecdysis](https://serv.biokic.asu.edu/ecdysis/index.php) portal and [GBIF](gbif.org). Images: Samanta Orellana.|
+|_Eugonus particolor_ Jordan: 1.) lateral view. 2.) dorsal view. Specimen deposited at Arizona State University Biocollections (ASUCOB, ASUHIC). Images and data available at [ecdysis](https://ecdysis.org/index.php) portal and [GBIF](gbif.org). Images: Samanta Orellana.|
 
 ---
 
@@ -85,9 +85,9 @@ Species and distribution according to [Rheinheimer (2004)](https://www.zobodat.a
 
 **Distribution**. Panama, Brazil [type].
 
-| [<img src="https://serv.biokic.asu.edu/imglib/ecdysis/ASU_ASUCOB/ASUCOB0014/ASUCOB0014307_lateral_edited_1613605757.jpg" alt="Eugonus robustus" width="320" height="213.4">](https://serv.biokic.asu.edu/ecdysis/collections/individual/index.php?occid=611379) [<img src="https://serv.biokic.asu.edu/imglib/ecdysis/ASU_ASUCOB/ASUCOB0014/ASUCOB0014307_dorsal_edited_1613605789.jpg" alt="Eugonus robustus" width="320" height="213.4">](https://serv.biokic.asu.edu/ecdysis/collections/individual/index.php?occid=611379) | 
+| [<img src="https://media01.symbiota.org/media/ecdysis/ASU_ASUCOB/ASUCOB0014/ASUCOB0014307_lateral_edited_1613605757.jpg" alt="Eugonus robustus" width="320" height="213.4">](https://ecdysis.org/collections/individual/index.php?occid=611379) [<img src="https://media01.symbiota.org/media/ecdysis/ASU_ASUCOB/ASUCOB0014/ASUCOB0014307_dorsal_edited_1613605789.jpg" alt="Eugonus robustus" width="320" height="213.4">](https://ecdysis.org/collections/individual/index.php?occid=611379) | 
 |:--:| 
-|_Eugonus robustus_ Jordan: 1.) lateral view. 2.) dorsal view. Specimen deposited at Arizona State University Biocollections (ASUCOB, ASUHIC). Images and data available at [ecdysis](https://serv.biokic.asu.edu/ecdysis/index.php) portal and [GBIF](gbif.org). Images: Samanta Orellana.|
+|_Eugonus robustus_ Jordan: 1.) lateral view. 2.) dorsal view. Specimen deposited at Arizona State University Biocollections (ASUCOB, ASUHIC). Images and data available at [ecdysis](https://ecdysis.org/index.php) portal and [GBIF](gbif.org). Images: Samanta Orellana.|
 
 ---
 
@@ -102,9 +102,9 @@ Species and distribution according to [Rheinheimer (2004)](https://www.zobodat.a
  
 **Distribution**. Mexico [type], Guatemala, Nicaragua, Panama, Brazil, Argentina.
 
-| [<img src="https://serv.biokic.asu.edu/imglib/ecdysis/ASU_ASUCOB/ASUCOB0014/ASUCOB0014561_lateral_edited_1651942119.jpg" alt="Eugonus subcylindricus" width="320" height="213.4">](https://serv.biokic.asu.edu/ecdysis/collections/individual/index.php?occid=728356) [<img src="https://serv.biokic.asu.edu/imglib/ecdysis/ASU_ASUCOB/ASUCOB0014/ASUCOB0014561_dorsal_edited_1652578241.jpg" alt="Eugonus subcylindricus" width="320" height="213.4">](https://serv.biokic.asu.edu/ecdysis/collections/individual/index.php?occid=728356) | 
+| [<img src="https://media01.symbiota.org/media/ecdysis/ASU_ASUCOB/ASUCOB0014/ASUCOB0014561_lateral_edited_1651942119.jpg" alt="Eugonus subcylindricus" width="320" height="213.4">](https://ecdysis.org/collections/individual/index.php?occid=728356) [<img src="https://media01.symbiota.org/media/ecdysis/ASU_ASUCOB/ASUCOB0014/ASUCOB0014561_dorsal_edited_1652578241.jpg" alt="Eugonus subcylindricus" width="320" height="213.4">](https://ecdysis.org/collections/individual/index.php?occid=728356) | 
 |:--:| 
-|_Eugonus subcylindricus_ (Fahraeus): 1.) lateral view. 2.) dorsal view. Specimen deposited at Arizona State University Biocollections (ASUCOB, ASUHIC). Images and data available at [ecdysis](https://serv.biokic.asu.edu/ecdysis/index.php) portal and [GBIF](gbif.org). Images: Samanta Orellana.|
+|_Eugonus subcylindricus_ (Fahraeus): 1.) lateral view. 2.) dorsal view. Specimen deposited at Arizona State University Biocollections (ASUCOB, ASUHIC). Images and data available at [ecdysis](https://ecdysis.org/index.php) portal and [GBIF](gbif.org). Images: Samanta Orellana.|
 
 ---
 
