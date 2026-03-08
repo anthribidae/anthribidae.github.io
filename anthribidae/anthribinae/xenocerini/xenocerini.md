@@ -36,7 +36,7 @@ Tribes names according to [Bouchard _el al._ (2011)](https://zookeys.pensoft.net
 |:--:| 
 |_Xenocerus vinosus_ Heller: 1.) dorsal view. Specimen deposited at Arizona State University Biocollections (ASUCOB, ASUHIC). Images and data available at [ecdysis](https://ecdysis.org/index.php) portal and [GBIF](https://gbif.org). Images: Samanta Orellana.|
 
-|<img src="https://www.simplemappr.net/map/19130" alt="" />| 
+|<img width="2700" height="1350" alt="Xenocerus_spp_" src="https://github.com/user-attachments/assets/005e9e64-8e2e-4962-8fe3-c2875422aa6a" />| 
 |:--:| 
-|Known distribution of _Xenocerus_ Schoenherr. Source: [Rheinhemer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf). Map: Samanta Orellana, generated with [SimpleMappr.net](https://www.simplemappr.net/) |
+|Known distribution of _Xenocerus_ Schoenherr. Source: [Rheinhemer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf). Map: Samanta Orellana, generated with SimpleMappr.net (Shorthouse 2010). |
 
