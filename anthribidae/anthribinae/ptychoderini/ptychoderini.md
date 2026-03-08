@@ -36,7 +36,7 @@ Tribes names according to [Bouchard _el al._ (2011)](https://zookeys.pensoft.net
 |:--:| 
 |_Ptychoderes rugicollis_ Jordan: 1.) lateral view, 2.) dorsal view, 3.) frontal view. Specimen deposited at Arizona State University Biocollections (ASUCOB, ASUHIC). Images and data available at [ecdysis](https://ecdysis.org) portal and [GBIF](https://gbif.org). Images: Samanta Orellana.|
 
-|<img src="https://www.simplemappr.net/map/19098" alt="" />| 
+|<img width="2700" height="1350" alt="Ptychoderes_spp_" src="https://github.com/user-attachments/assets/d2cf1511-433b-4fe0-88f1-e1f2a019616d" />| 
 |:--:| 
 |Known distribution of _Ptychoderes_ Schoenherr. Source: [Rheinhemer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf). Map: Samanta Orellana, generated with [SimpleMappr.net](https://www.simplemappr.net/) |
 
@@ -45,7 +45,7 @@ Tribes names according to [Bouchard _el al._ (2011)](https://zookeys.pensoft.net
 ## _Cerambyrhynchus_ Montrouzier, 1855:42
 (1 species)
 
-|<img src="https://www.simplemappr.net/map/19094" alt="" />| 
+|<img width="2700" height="1350" alt="Cerambyrhynchus_sp_" src="https://github.com/user-attachments/assets/cac4d73c-4e11-4f19-aa27-c70d8bbd883f" />| 
 |:--:| 
 |Known distribution of _Cerambyrhynchus_ Montrouzier. Source: [Rheinhemer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf). Map: Samanta Orellana, generated with [SimpleMappr.net](https://www.simplemappr.net/) |
 
@@ -58,9 +58,9 @@ Tribes names according to [Bouchard _el al._ (2011)](https://zookeys.pensoft.net
 |:--:| 
 |_Hypselotropis annulicornis_ (Fahraeus): 1.) lateral view, 2.) dorsal view, 3.) frontal view. Specimen deposited at Arizona State University Biocollections (ASUCOB, ASUHIC). Images and data available at [ecdysis](https://ecdysis.org/index.php) portal and [GBIF](https://gbif.org). Images: Samanta Orellana.|
 
-|<img src="https://www.simplemappr.net/map/19095" alt="" />| 
+|<img width="2700" height="1350" alt="Hypselotropis_spp_" src="https://github.com/user-attachments/assets/e4574a88-49e1-477b-aec5-ae05eee0a232" />| 
 |:--:| 
-|Known distribution of _Hypselotropis_ Jekel. Source: [Rheinhemer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf). Map: Samanta Orellana, generated with [SimpleMappr.net](https://www.simplemappr.net/) |
+|Known distribution of _Hypselotropis_ Jekel. Source: [Rheinhemer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf). Map: Samanta Orellana, generated with SimpleMappr.net (Shorthouse 2010). |
 
 ---
 
@@ -71,24 +71,24 @@ Tribes names according to [Bouchard _el al._ (2011)](https://zookeys.pensoft.net
 |:--:| 
 |_Phloeopemon cinereus_ (Olivier): 1.) dorsal view. Specimen deposited at Arizona State University Biocollections (ASUCOB, ASUHIC). Images and data available at [ecdysis](https://ecdysis.org/index.php) portal and [GBIF](https://gbif.org). Images: Samanta Orellana.|
 
-|<img src="https://www.simplemappr.net/map/19096" alt="" />| 
+|<img width="2700" height="1350" alt="Phloeopemon_spp_" src="https://github.com/user-attachments/assets/b9fb2000-0337-4057-82ce-ef2add8c6f0c" />| 
 |:--:| 
-|Known distribution of _Phloeopemon_ Schoenherr. Source: [Rheinhemer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf). Map: Samanta Orellana, generated with [SimpleMappr.net](https://www.simplemappr.net/) |
+|Known distribution of _Phloeopemon_ Schoenherr. Source: [Rheinhemer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf). Map: Samanta Orellana, generated with SimpleMappr.net (Shorthouse 2010). |
 
 ---
 
 ## _Phloeotragus_ Schoenherr, 1823:135
 (14 species)
 
-|<img src="https://www.simplemappr.net/map/19101" alt="" />| 
+|<img width="2700" height="1350" alt="Phloeotragus_spp_" src="https://github.com/user-attachments/assets/81c4b232-d4de-4030-8aa9-77658ff2f28d" />| 
 |:--:| 
-|Known distribution of _Phloeotragus_ Schoenherr. Source: [Rheinhemer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf). Map: Samanta Orellana, generated with [SimpleMappr.net](https://www.simplemappr.net/) |
+|Known distribution of _Phloeotragus_ Schoenherr. Source: [Rheinhemer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf). Map: Samanta Orellana, generated with SimpleMappr.net (Shorthouse 2010). |
 
 ---
 
 ## _Unantrhibus_ Mermudes, 2003: 239
 (2 species)
 
-|<img src="https://www.simplemappr.net/map/19100" alt="" />>| 
+|<img width="2700" height="1350" alt="Unanthribus_spp_" src="https://github.com/user-attachments/assets/9a5b0704-1090-45ba-b513-5f460c240aed" />| 
 |:--:| 
-|Known distribution of _Unanthribus_ Mermudes. Source: [Rheinhemer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf). Map: Samanta Orellana, generated with [SimpleMappr.net](https://www.simplemappr.net/) |
+|Known distribution of _Unanthribus_ Mermudes. Source: [Rheinhemer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf). Map: Samanta Orellana, generated with SimpleMappr.net (Shorthouse 2010). |
