@@ -139,6 +139,19 @@ Tribes names according to [Bouchard _el al._ (2011)](https://zookeys.pensoft.net
 |:--:| 
 |Known distribution of _Hylotribus_ Jekel. Source: [Rheinhemer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf). Map: Samanta Orellana, generated with SimpleMappr.net (Shorthouse 2010). |
 
+---
+
+## _Opisolia_ Jordan, 1926: 479
+(8 species)
+
+| [<img src="https://media01.symbiota.org/media/storage/portals/scan/misc/201504/ASUHIC0066183_habitus_lateral__1429125676_web.jpg" alt="Opisolia" width="320" height="213.4">](https://ecdysis.org/collections/individual/index.php?occid=349111) [<img src="https://media01.symbiota.org/media/storage/portals/scan/misc/201504/ASUHIC0066183_habitus_dorsal_1_1429125675_web.jpg" alt="Opisolia" width="320" height="213.4">](https://ecdysis.org/collections/individual/index.php?occid=349111)   
+|:--:| 
+|_Opisolia lenis_ Jordan: 1.) lateral view. 2.) dorsal view. Specimen deposited at Arizona State University Biocollections (ASUCOB, ASUHIC). Images and data available at [ecdysis](https://ecdysis.org) portal and [GBIF](https://gbif.org). Images: ASUHIC.|
+
+|<img width="2700" height="1350" alt="Opisolia_sp_" src="https://github.com/user-attachments/assets/9f3f4456-2e97-4560-aca1-0f0e47ffd673" />| 
+|:--:| 
+|Known distribution of _Opisolia_ Jordan. Source: [Rheinhemer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf). Map: Samanta Orellana, generated with SimpleMappr.net (Shorthouse 2010). |
+
 ## _Xylopoemon_ Lacordaire, 1866: 507
 (1 species)
 
