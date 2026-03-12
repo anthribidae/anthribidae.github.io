@@ -45,6 +45,10 @@ Tribes names according to [Bouchard _el al._ (2011)](https://zookeys.pensoft.net
 ## _Cerambyrhynchus_ Montrouzier, 1855:42
 (1 species)
 
+| [<img src="https://weevil.symbiota.org/media/Anthribidae/202603/Cerambyrhinchus_schoenheri_fem_lg.jpg" alt="Cerambyrhynchus schoenherri" width="320" height="213.4">](https://ecdysis.org/collections/individual/index.php?occid=699863) [<img src="https://weevil.symbiota.org/media/Anthribidae/202603/Cerambyrhinchus_schoenheri_fem_57655_lg.jpg" alt="Cerambyrhynchus schoenherri" width="320" height="213.4">](https://ecdysis.org/collections/individual/index.php?occid=699863)[<img src="https://weevil.symbiota.org/media/Anthribidae/202603/Cerambyrhinchus_schoenheri_fem_57656_lg.jpg" alt="Cerambyrhynchus schoenherri" width="320" height="213.4">](https://ecdysis.org/collections/individual/index.php?occid=699863)  
+|:--:| 
+|_Cerambyrhynchus schoenherri_ Montrouzier: 1.) lateral view, 2.) dorsal view, 3.) frontal view. Specimen deposited at New Zealand Arthropod Collecion (NZAC), on loan at the University of Kansas (2025-2026). Images and data available at [ecdysis](https://ecdysis.org/index.php) portal. Images: Samanta Orellana.|
+
 |<img width="2700" height="1350" alt="Cerambyrhynchus_sp_" src="https://github.com/user-attachments/assets/cac4d73c-4e11-4f19-aa27-c70d8bbd883f" />| 
 |:--:| 
 |Known distribution of _Cerambyrhynchus_ Montrouzier. Source: [Rheinhemer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf). Map: Samanta Orellana, generated with [SimpleMappr.net](https://www.simplemappr.net/) |
