@@ -43,12 +43,16 @@ Tribes names according to [Bouchard _el al._ (2011)](https://zookeys.pensoft.net
 
 ---
 
-## _Dasyrhopala_ Jordan, 1904: 272
-(1 species)
+## _Aphaulimia_ Morimoto, 1972: 35
+(7 species)
+
+|  [<img src="https://weevil.symbiota.org/media/Anthribidae/202603/Aphaulimia_lateral_lg.jpg" alt="Aphaulimia" width="320" height="213.4">](https://weevil.symbiota.org/portal/imagelib/imgdetails.php?mediaid=57657) [<img src="https://weevil.symbiota.org/media/Anthribidae/202603/Aphaulimia_dorsal_lg.jpg" alt="Aphaulimia" width="320" height="213.4">](https://weevil.symbiota.org/portal/imagelib/imgdetails.php?mediaid=57657) [<img src="https://weevil.symbiota.org/media/Anthribidae/202603/Aphaulimia_frontal_lg.jpg" alt="Aphaulimia" width="320" height="213.4">](https://weevil.symbiota.org/portal/imagelib/imgdetails.php?mediaid=57657) | 
+|:--:| 
+|_Aphaulimia_ sp.: 1.) lateral view. 2.) dorsal view, 3.) frontal view. Specimen deposited at New Zealand Arthropod Collection  (NZAC), on loan at the University of Kansas (2025-2026). Images and data available at [ecdysis](https://ecdysis.org) portal. Images: Samanta Orellana|
 
 |<img width="2700" height="1350" alt="Dasyrhopala_sp_" src="https://github.com/user-attachments/assets/88938ad0-2581-4d56-8398-515298d7325d" />| 
 |:--:| 
-|Known distribution of _Dasyrhopala_ Jordan. Source: [Rheinhemer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf). Map: Samanta Orellana, generated with SimpleMappr.net (Shorthouse 2010). |
+|Known distribution of _Aphaulimia_ Morimoto. Source: [Rheinhemer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf). Map: Samanta Orellana, generated with SimpleMappr.net (Shorthouse 2010). |
 
 ---
 ## _Exechontis_ Jordan, 1904: 283
