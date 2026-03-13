@@ -42,19 +42,6 @@ Tribes names according to [Bouchard _el al._ (2011)](https://zookeys.pensoft.net
 |Known distribution of _Corrhecerus_ Schoenherr. Source: [Rheinhemer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf). Map: Samanta Orellana, generated with SimpleMappr.net (Shorthouse 2010). |
 
 ---
-
-## _Aphaulimia_ Morimoto, 1972: 35
-(7 species)
-
-|  [<img src="https://weevil.symbiota.org/media/Anthribidae/202603/Aphaulimia_lateral_lg.jpg" alt="Aphaulimia" width="320" height="213.4">](https://weevil.symbiota.org/portal/imagelib/imgdetails.php?mediaid=57657) [<img src="https://weevil.symbiota.org/media/Anthribidae/202603/Aphaulimia_dorsal_lg.jpg" alt="Aphaulimia" width="320" height="213.4">](https://weevil.symbiota.org/portal/imagelib/imgdetails.php?mediaid=57657) [<img src="https://weevil.symbiota.org/media/Anthribidae/202603/Aphaulimia_frontal_lg.jpg" alt="Aphaulimia" width="320" height="213.4">](https://weevil.symbiota.org/portal/imagelib/imgdetails.php?mediaid=57657) | 
-|:--:| 
-|_Aphaulimia_ sp.: 1.) lateral view. 2.) dorsal view, 3.) frontal view. Specimen deposited at New Zealand Arthropod Collection  (NZAC), on loan at the University of Kansas (2025-2026). Images and data available at [ecdysis](https://ecdysis.org) portal. Images: Samanta Orellana|
-
-|<img width="900" height="450" alt="Aphaulimia_spp_" src="https://github.com/user-attachments/assets/c094db33-52c4-460c-bd99-cb5c0533bd9f" />| 
-|:--:| 
-|Known distribution of _Aphaulimia_ Morimoto. Source: [Rheinhemer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf). Map: Samanta Orellana, generated with SimpleMappr.net (Shorthouse 2010). |
-
----
 ## _Exechontis_ Jordan, 1904: 283
 (2 species)
 
@@ -75,3 +62,42 @@ Tribes names according to [Bouchard _el al._ (2011)](https://zookeys.pensoft.net
 |:--:| 
 |Known distribution of _Nemotrichus_ Labram & Imhoff. Source: [Rheinhemer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf). Map: Samanta Orellana generated with SimpleMappr.net (Shorthouse 2010). |
 
+---
+
+## _Aphaulimia_ Morimoto, 1972: 35
+(7 species)
+
+|  [<img src="https://weevil.symbiota.org/media/Anthribidae/202603/Aphaulimia_lateral_lg.jpg" alt="Aphaulimia" width="320" height="213.4">](https://weevil.symbiota.org/portal/imagelib/imgdetails.php?mediaid=57657) [<img src="https://weevil.symbiota.org/media/Anthribidae/202603/Aphaulimia_dorsal_lg.jpg" alt="Aphaulimia" width="320" height="213.4">](https://weevil.symbiota.org/portal/imagelib/imgdetails.php?mediaid=57657) [<img src="https://weevil.symbiota.org/media/Anthribidae/202603/Aphaulimia_frontal_lg.jpg" alt="Aphaulimia" width="320" height="213.4">](https://weevil.symbiota.org/portal/imagelib/imgdetails.php?mediaid=57657) | 
+|:--:| 
+|_Aphaulimia_ sp.: 1.) lateral view. 2.) dorsal view, 3.) frontal view. Specimen deposited at New Zealand Arthropod Collection  (NZAC), on loan at the University of Kansas (2025-2026). Images and data available at [ecdysis](https://ecdysis.org) portal. Images: Samanta Orellana|
+
+|<img width="2700" height="1350" alt="Aphaulimia_spp_(1)" src="https://github.com/user-attachments/assets/8ba32f5d-6e7c-483d-82ed-cc1bd6760df0" />| 
+|:--:| 
+|Known distribution of _Aphaulimia_ Morimoto. Source: [Rheinhemer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf). Map: Samanta Orellana, generated with SimpleMappr.net (Shorthouse 2010). |
+
+---
+
+## _Limiophaula_ Jordan, 1928: 124
+(1 species)
+
+|<img width="2700" height="1350" alt="Limiophaula_sp" src="https://github.com/user-attachments/assets/f7c8ccb7-3eb8-46da-8d10-76e03413e315" />| 
+|:--:| 
+|Known distribution of _Limiophaula_ Jordan. Source: [Rheinhemer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf). Map: Samanta Orellana, generated with SimpleMappr.net (Shorthouse 2010). |
+
+---
+
+## _Nessiabrisus_ Jordan, 1894: 635
+(23 species)
+
+|<img width="2700" height="1350" alt="Nessiabrissus_spp" src="https://github.com/user-attachments/assets/fd4c322c-ffef-49ba-851c-a43dc6ff0dcc" />| 
+|:--:| 
+|Known distribution of _Nessiabrissus_ Jordan. Source: [Rheinhemer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf). Map: Samanta Orellana, generated with SimpleMappr.net (Shorthouse 2010). |
+
+---
+
+## _Ulorhinus_ Sharp, 1891: 300
+(17 species)
+
+|<img width="2700" height="1350" alt="Ulorhinus_spp" src="https://github.com/user-attachments/assets/baaec1dc-ab3d-452a-a44a-5af79ba3fc78" />| 
+|:--:| 
+|Known distribution of _Nessiabrissus_ Jordan. Source: [Rheinhemer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf). Map: Samanta Orellana, generated with SimpleMappr.net (Shorthouse 2010). |
