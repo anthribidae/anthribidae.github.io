@@ -77,6 +77,24 @@ Tribes names according to [Bouchard _el al._ (2011)](https://zookeys.pensoft.net
 
 ---
 
+## _Cleorisintor_ Jordan, 1923: 290
+(9 species)
+
+|<img width="2700" height="1350" alt="Cleorisintor_sp" src="https://github.com/user-attachments/assets/51306f26-05cc-4cd9-a3de-ec2e8f3884f8" />| 
+|:--:| 
+|Known distribution of _Cleorisintor_ Jordan. Source: [Rheinhemer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf). Map: Samanta Orellana, generated with SimpleMappr.net (Shorthouse 2010). |
+
+---
+
+## _Lemurisintor_ Frieser, 1981: 252
+(1 species)
+
+|<img width="2700" height="1350" alt="Lemurisintor_sp" src="https://github.com/user-attachments/assets/ca4af843-c4e5-45e5-b4d5-6a96c323070c" />| 
+|:--:| 
+|Known distribution of _Lemurisintor_ Frieser. Source: [Rheinhemer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf). Map: Samanta Orellana, generated with SimpleMappr.net (Shorthouse 2010). |
+
+---
+
 ## _Limiophaula_ Jordan, 1928: 124
 (1 species)
 
@@ -100,4 +118,4 @@ Tribes names according to [Bouchard _el al._ (2011)](https://zookeys.pensoft.net
 
 |<img width="2700" height="1350" alt="Ulorhinus_spp" src="https://github.com/user-attachments/assets/baaec1dc-ab3d-452a-a44a-5af79ba3fc78" />| 
 |:--:| 
-|Known distribution of _Nessiabrissus_ Jordan. Source: [Rheinhemer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf). Map: Samanta Orellana, generated with SimpleMappr.net (Shorthouse 2010). |
+|Known distribution of _Ulorhinus_ Sharp. Source: [Rheinhemer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf). Map: Samanta Orellana, generated with SimpleMappr.net (Shorthouse 2010). |
