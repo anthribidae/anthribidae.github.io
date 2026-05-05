@@ -18,7 +18,7 @@ Website dedicated to the family Anthribidae (Coleoptera: Curculionoidea).
 
 ![Image_AnthribidaeDefense](https://github.com/user-attachments/assets/6df139f7-0a80-4767-bf29-f8f5f1a16da9)
 
-Created by [Samanta Orellana](https://samantaorellana.github.io/). 
+Created by [Samanta Orellana](https://orcid.org/0000-0002-4098-5823). 
 
 
 
