@@ -41,9 +41,9 @@ Species and distribution according to [Rheinheimer (2004,](https://www.zobodat.a
 
 **Distribution**. Canada, United States of America.
 
-|[<img src="https://serv.biokic.asu.edu/imglib/storage/portals/scan/misc/201504/ASUHIC0079281_habitus_dorsal_1_1429125489_web.jpg" alt="Strabus bimaculatus"  width="320" height="213.4">](https://serv.biokic.asu.edu/ecdysis/collections/individual/index.php?occid=348932) [<img src="https://serv.biokic.asu.edu/imglib/storage/portals/scan/misc/201504/ASUHIC0079281_habitus_dorsal_1_1429125488_web.jpg" alt="Strabus bimaculatus"  width="320" height="213.4">](https://serv.biokic.asu.edu/ecdysis/collections/individual/index.php?occid=348932)|
+|[<img src="https://media01.symbiota.org/media/storage/portals/scan/misc/201504/ASUHIC0079281_habitus_dorsal_1_1429125489_web.jpg" alt="Strabus bimaculatus"  width="320" height="213.4">](https://ecdysis.org/collections/individual/index.php?occid=348932) [<img src="https://media01.symbiota.org/media/storage/portals/scan/misc/201504/ASUHIC0079281_habitus_dorsal_1_1429125488_web.jpg" alt="Strabus bimaculatus"  width="320" height="213.4">](https://ecdysis.org/collections/individual/index.php?occid=348932)|
 |:--:| 
-|_Strabus bimaculatus_ Olivier: 1.) lateral view, 2.) dorsal view. Specimen deposited at Arizona State University Biocollections (ASUCOB, ASUHIC). Images and data available at [ecdysis](https://serv.biokic.asu.edu/ecdysis/index.php) portal and [GBIF](gbif.org). Images: ASUHIC.|
+|_Strabus bimaculatus_ Olivier: 1.) lateral view, 2.) dorsal view. Specimen deposited at Arizona State University Biocollections (ASUCOB, ASUHIC). Images and data available at [ecdysis](https://ecdysis.org) portal and [GBIF](gbif.org). Images: ASUHIC.|
 
 ---
 
