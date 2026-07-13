@@ -51,7 +51,7 @@ Species and distribution according to [Rheinheimer (2004,](https://www.zobodat.a
 
 **Distribution**. Brazil, French Guiana.
 
-|[<img src="https://serv.biokic.asu.edu/imglib/ecdysis/ASU_ASUCOB/ASUCOB0014/ASUCOB0014442_lateral_edited_1676676632.jpg" alt="Monocloeus basalis"  width="320" height="213.4">](https://serv.biokic.asu.edu/ecdysis/collections/individual/index.php?occid=615074) [<img src="https://serv.biokic.asu.edu/imglib/ecdysis/ASU_ASUCOB/ASUCOB0014/ASUCOB0014442_dorsal_edited_1676676649.jpg" alt="Monocloeus basalis"  width="320" height="213.4">](https://serv.biokic.asu.edu/ecdysis/collections/individual/index.php?occid=615074)|
+|[<img src="https://media01.symbiota.org/media/ecdysis/ASU_ASUCOB/ASUCOB0014/ASUCOB0014442_lateral_edited_1676676632.jpg" alt="Monocloeus basalis"  width="320" height="213.4">](ecdysis.org/collections/individual/index.php?occid=615074) [<img src="https://media01.symbiota.org/media/ecdysis/ASU_ASUCOB/ASUCOB0014/ASUCOB0014442_dorsal_edited_1676676649.jpg" alt="Monocloeus basalis"  width="320" height="213.4">](ecdysis.org/collections/individual/index.php?occid=615074)|
 |:--:| 
 |_Monocloeus basalis_ Jordan: 1.) lateral view, 2.) dorsal view. Specimen deposited at Arizona State University Biocollections (ASUCOB, ASUHIC). Images and data available at [ecdysis](https://serv.biokic.asu.edu/ecdysis/index.php) portal and [GBIF](gbif.org). Images: Samanta Orellana.|
 
@@ -109,9 +109,9 @@ Species and distribution according to [Rheinheimer (2004,](https://www.zobodat.a
 
 **Distribution**. Mexico, Guatemala.
 
-|[<img src="https://serv.biokic.asu.edu/imglib/storage/portals/scan/misc/201505/ASUHIC0070987_habitus_lateral__1432931478_web.jpg" alt="Monocloeus idaeus"  width="320" height="213.4">](https://serv.biokic.asu.edu/ecdysis/collections/individual/index.php?occid=341817) [<img src="https://serv.biokic.asu.edu/imglib/storage/portals/scan/misc/201505/ASUHIC0070987_habitus_dorsal_1_1432931477_web.jpg" alt="Monocloeus idaeus"  width="320" height="213.4">](https://serv.biokic.asu.edu/ecdysis/collections/individual/index.php?occid=341817)|
+|[<img src="https://media01.symbiota.org/media/storage/portals/scan/misc/201505/ASUHIC0070987_habitus_lateral__1432931478_web.jpg" alt="Monocloeus idaeus"  width="320" height="213.4">](https://ecdysis.org/collections/individual/index.php?occid=341817) [<img src="https://media01.symbiota.org/media/storage/portals/scan/misc/201505/ASUHIC0070987_habitus_dorsal_1_1432931477_web.jpg" alt="Monocloeus idaeus"  width="320" height="213.4">](https://ecdysis.org/collections/individual/index.php?occid=341817)|
 |:--:| 
-|_Monocloeus idaeus_ Jordan: 1.) lateral view, 2.) dorsal view. Specimen deposited at Arizona State University Biocollections (ASUCOB, ASUHIC). Images and data available at [ecdysis](https://serv.biokic.asu.edu/ecdysis/index.php) portal and [GBIF](gbif.org). Images: Samanta Orellana.|
+|_Monocloeus idaeus_ Jordan: 1.) lateral view, 2.) dorsal view. Specimen deposited at Arizona State University Biocollections (ASUCOB, ASUHIC). Images and data available at [ecdysis](https://ecdysis.org) portal and [GBIF](gbif.org). Images: Samanta Orellana.|
 
 ---
 
@@ -156,7 +156,7 @@ Species and distribution according to [Rheinheimer (2004,](https://www.zobodat.a
 
 **Distribution**. French Guiana.
 
-|[<img src="https://serv.biokic.asu.edu/imglib/ecdysis/Anthribidae/202302/SM0267568_lateral_edited_1676740409.jpg" alt="Monocloeus ramoides"  width="320" height="213.4">](https://serv.biokic.asu.edu/ecdysis/imagelib/imgdetails.php?imgid=286502) [<img src="https://serv.biokic.asu.edu/imglib/ecdysis/Anthribidae/202302/SM0267568_dorsal_1676740443.jpg" alt="Monocloeus ramoides"  width="320" height="213.4">](https://serv.biokic.asu.edu/ecdysis/imagelib/imgdetails.php?imgid=286503) |
+|[<img src="https://media01.symbiota.org/media/ecdysis/Anthribidae/202302/SM0267568_lateral_edited_1676740409.jpg" alt="Monocloeus ramoides"  width="320" height="213.4">](https://serv.biokic.asu.edu/ecdysis/imagelib/imgdetails.php?imgid=286502) [<img src="https://media01.symbiota.org/media/ecdysis/Anthribidae/202302/SM0267568_dorsal_1676740443.jpg" alt="Monocloeus ramoides"  width="320" height="213.4">](https://ecdysis.org/imagelib/imgdetails.php?mediaid=286502) |
 |:--:| 
 |_Monocloeus ramoides_ Rheinheimer: 1.) lateral view, 2.) dorsal view. Specimen deposited at Kansas University Natural History Museum, on loan at Arizona State University Biocollections (2022-2024). Images: Samanta Orellana.|
 
