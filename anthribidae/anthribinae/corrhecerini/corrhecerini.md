@@ -39,7 +39,7 @@ Tribes names according to [Bouchard _el al._ (2011)](https://zookeys.pensoft.net
 
 |<img width="2700" height="1350" alt="Corrhecerus_spp_" src="https://github.com/user-attachments/assets/6264def4-32c4-4f84-a7ef-539149a1f83d" />| 
 |:--:| 
-|Known distribution of _Corrhecerus_ Schoenherr. Source: [Rheinhemer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf). Map: Samanta Orellana, generated with SimpleMappr.net (Shorthouse 2010). |
+|Known distribution of _Corrhecerus_ Schoenherr. Source: [Rheinheimer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf). Map: Samanta Orellana, generated with SimpleMappr.net (Shorthouse 2010). |
 
 ---
 ## _Exechontis_ Jordan, 1904: 283
@@ -47,7 +47,7 @@ Tribes names according to [Bouchard _el al._ (2011)](https://zookeys.pensoft.net
 
 |<img width="2700" height="1350" alt="Exechontis_spp_" src="https://github.com/user-attachments/assets/e1ea2d21-c41c-41da-b3a3-365900b57dad" />| 
 |:--:| 
-|Known distribution of _Exechontis_ Jordan. Source: [Rheinhemer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf). Map: Samanta Orellana, generated with SimpleMappr.net (Shorthouse 2010). |
+|Known distribution of _Exechontis_ Jordan. Source: [Rheinheimer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf). Map: Samanta Orellana, generated with SimpleMappr.net (Shorthouse 2010). |
 
 ---
 
@@ -60,7 +60,7 @@ Tribes names according to [Bouchard _el al._ (2011)](https://zookeys.pensoft.net
 
 |<img width="2700" height="1350" alt="Nemotrichus_spp_" src="https://github.com/user-attachments/assets/10837b68-097c-4c53-8657-46ae5ab4ccda" />| 
 |:--:| 
-|Known distribution of _Nemotrichus_ Labram & Imhoff. Source: [Rheinhemer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf). Map: Samanta Orellana generated with SimpleMappr.net (Shorthouse 2010). |
+|Known distribution of _Nemotrichus_ Labram & Imhoff. Source: [Rheinheimer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf). Map: Samanta Orellana generated with SimpleMappr.net (Shorthouse 2010). |
 
 ---
 
@@ -73,7 +73,7 @@ Tribes names according to [Bouchard _el al._ (2011)](https://zookeys.pensoft.net
 
 |<img width="2700" height="1350" alt="Aphaulimia_spp_(1)" src="https://github.com/user-attachments/assets/8ba32f5d-6e7c-483d-82ed-cc1bd6760df0" />| 
 |:--:| 
-|Known distribution of _Aphaulimia_ Morimoto. Source: [Rheinhemer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf). Map: Samanta Orellana, generated with SimpleMappr.net (Shorthouse 2010). |
+|Known distribution of _Aphaulimia_ Morimoto. Source: [Rheinheimer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf). Map: Samanta Orellana, generated with SimpleMappr.net (Shorthouse 2010). |
 
 ---
 
@@ -82,7 +82,7 @@ Tribes names according to [Bouchard _el al._ (2011)](https://zookeys.pensoft.net
 
 |<img width="2700" height="1350" alt="Cleorisintor_sp" src="https://github.com/user-attachments/assets/51306f26-05cc-4cd9-a3de-ec2e8f3884f8" />| 
 |:--:| 
-|Known distribution of _Cleorisintor_ Jordan. Source: [Rheinhemer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf). Map: Samanta Orellana, generated with SimpleMappr.net (Shorthouse 2010). |
+|Known distribution of _Cleorisintor_ Jordan. Source: [Rheinheimer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf). Map: Samanta Orellana, generated with SimpleMappr.net (Shorthouse 2010). |
 
 ---
 
@@ -91,7 +91,7 @@ Tribes names according to [Bouchard _el al._ (2011)](https://zookeys.pensoft.net
 
 |<img width="2700" height="1350" alt="Lemurisintor_sp" src="https://github.com/user-attachments/assets/ca4af843-c4e5-45e5-b4d5-6a96c323070c" />| 
 |:--:| 
-|Known distribution of _Lemurisintor_ Frieser. Source: [Rheinhemer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf). Map: Samanta Orellana, generated with SimpleMappr.net (Shorthouse 2010). |
+|Known distribution of _Lemurisintor_ Frieser. Source: [Rheinheimer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf). Map: Samanta Orellana, generated with SimpleMappr.net (Shorthouse 2010). |
 
 ---
 
@@ -100,7 +100,7 @@ Tribes names according to [Bouchard _el al._ (2011)](https://zookeys.pensoft.net
 
 |<img width="2700" height="1350" alt="Limiophaula_sp" src="https://github.com/user-attachments/assets/f7c8ccb7-3eb8-46da-8d10-76e03413e315" />| 
 |:--:| 
-|Known distribution of _Limiophaula_ Jordan. Source: [Rheinhemer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf). Map: Samanta Orellana, generated with SimpleMappr.net (Shorthouse 2010). |
+|Known distribution of _Limiophaula_ Jordan. Source: [Rheinheimer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf). Map: Samanta Orellana, generated with SimpleMappr.net (Shorthouse 2010). |
 
 ---
 
@@ -109,7 +109,7 @@ Tribes names according to [Bouchard _el al._ (2011)](https://zookeys.pensoft.net
 
 |<img width="2700" height="1350" alt="Nessiabrissus_spp" src="https://github.com/user-attachments/assets/fd4c322c-ffef-49ba-851c-a43dc6ff0dcc" />| 
 |:--:| 
-|Known distribution of _Nessiabrissus_ Jordan. Source: [Rheinhemer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf). Map: Samanta Orellana, generated with SimpleMappr.net (Shorthouse 2010). |
+|Known distribution of _Nessiabrissus_ Jordan. Source: [Rheinheimer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf). Map: Samanta Orellana, generated with SimpleMappr.net (Shorthouse 2010). |
 
 ---
 
@@ -118,4 +118,4 @@ Tribes names according to [Bouchard _el al._ (2011)](https://zookeys.pensoft.net
 
 |<img width="2700" height="1350" alt="Ulorhinus_spp" src="https://github.com/user-attachments/assets/baaec1dc-ab3d-452a-a44a-5af79ba3fc78" />| 
 |:--:| 
-|Known distribution of _Ulorhinus_ Sharp. Source: [Rheinhemer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf). Map: Samanta Orellana, generated with SimpleMappr.net (Shorthouse 2010). |
+|Known distribution of _Ulorhinus_ Sharp. Source: [Rheinheimer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf). Map: Samanta Orellana, generated with SimpleMappr.net (Shorthouse 2010). |
