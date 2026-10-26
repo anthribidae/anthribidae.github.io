@@ -37,7 +37,7 @@ Tribes names according to [Bouchard _el al._ (2011)](https://zookeys.pensoft.net
 
 |<img width="2700" height="1350" alt="Decataphanes_spp_" src="https://github.com/user-attachments/assets/8c97c870-b816-49ee-b3ad-95b638bc288a" />| 
 |:--:| 
-|Known distribution of _Decataphanes_ Imhoff. Source: [Rheinhemer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf). Map: Samanta Orellana generated with SimpleMappr.net (Shorthouse 2010). |
+|Known distribution of _Decataphanes_ Imhoff. Source: [Rheinheimer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf). Map: Samanta Orellana generated with SimpleMappr.net (Shorthouse 2010). |
 
 ---
 
@@ -46,4 +46,4 @@ Tribes names according to [Bouchard _el al._ (2011)](https://zookeys.pensoft.net
 
 |<img width="2700" height="1350" alt="Gnoticarina_sp" src="https://github.com/user-attachments/assets/dabb944b-cd9e-453e-8f83-7cf54be0bdad" />| 
 |:--:| 
-|Known distribution of _Gnoticarina_ Jordan. Source: [Rheinhemer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf). Map: Samanta Orellana generated with SimpleMappr.net (Shorthouse 2010). |
+|Known distribution of _Gnoticarina_ Jordan. Source: [Rheinheimer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf). Map: Samanta Orellana generated with SimpleMappr.net (Shorthouse 2010). |
