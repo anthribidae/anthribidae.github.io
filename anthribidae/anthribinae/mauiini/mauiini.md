@@ -62,7 +62,7 @@ Tribes names according to [Bouchard _el al._ (2011)](https://zookeys.pensoft.net
 
 |<img width="2700" height="1350" alt="Erichsonocis_sp_" src="https://github.com/user-attachments/assets/af9aa4a5-9134-4996-aaa8-c038884b0a27" />| 
 |:--:| 
-|Known distribution of _Erichsonocis_ Zimmerman. Source: [Rheinhemer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf). Map: Samanta Orellana, generated with SimpleMappr.net (Shorthouse 2010). |
+|Known distribution of _Erichsonocis_ Zimmerman. Source: [Rheinheimer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf). Map: Samanta Orellana, generated with SimpleMappr.net (Shorthouse 2010). |
 
 ## _Illis_ Jordan, 1936: 319
 (7 species)
