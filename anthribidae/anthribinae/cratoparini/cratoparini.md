@@ -33,7 +33,7 @@ Tribe names according to [Bouchard _el al._ (2011)](https://zookeys.pensoft.net/
 
 |<img width="2700" height="1350" alt="Euparius_spp_" src="https://github.com/user-attachments/assets/b4859399-fbbd-4fae-9f72-181bc6620627" />| 
 |:--:| 
-|Known distribution of _Euparius_ Schoenherr. Source: [Rheinhemer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf). Map: Samanta Orellana, generated with SimpleMappr.net (Shorthouse 2010). |
+|Known distribution of _Euparius_ Schoenherr. Source: [Rheinheimer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf). Map: Samanta Orellana, generated with SimpleMappr.net (Shorthouse 2010). |
 
 ---
 
@@ -42,7 +42,7 @@ Tribe names according to [Bouchard _el al._ (2011)](https://zookeys.pensoft.net/
 
 |<img width="2700" height="1350" alt="Erotylopsis_sp_" src="https://github.com/user-attachments/assets/4881e6fd-ba6c-4896-babb-58cb2fd17552" />| 
 |:--:| 
-|Known distribution of _Erotylopsis_ Jordan. Source: [Rheinhemer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf). Map: Samanta Orellana, generated with SimpleMappr.net (Shorthouse 2010). |
+|Known distribution of _Erotylopsis_ Jordan. Source: [Rheinheimer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf). Map: Samanta Orellana, generated with SimpleMappr.net (Shorthouse 2010). |
 
 ---
 
@@ -56,7 +56,7 @@ Tribe names according to [Bouchard _el al._ (2011)](https://zookeys.pensoft.net/
 
 |<img width="2700" height="1350" alt="Euxuthus_sp_" src="https://github.com/user-attachments/assets/d5ad5847-47d7-4d81-a4a5-120c6c345933" />| 
 |:--:| 
-|Known distribution of _Euxuthus_ Jordan. Source: [Rheinhemer (2004,](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf) [2016)](https://www.zobodat.at/pdf/KOR_86_2016_0243-0274.pdf). Map: Samanta Orellana generated with [SimpleMappr.net](https://www.simplemappr.net/) |
+|Known distribution of _Euxuthus_ Jordan. Source: [Rheinheimer (2004,](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf) [2016)](https://www.zobodat.at/pdf/KOR_86_2016_0243-0274.pdf). Map: Samanta Orellana generated with [SimpleMappr.net](https://www.simplemappr.net/) |
 
 ---
 
@@ -65,6 +65,6 @@ Tribe names according to [Bouchard _el al._ (2011)](https://zookeys.pensoft.net/
 
 |<img width="2700" height="1350" alt="Pseudeuparius_spp_" src="https://github.com/user-attachments/assets/e43135ed-0b1c-46d3-ae83-c5550a5ec184" />| 
 |:--:| 
-|Known distribution of _Pseudeuparius_ Jordan. Source: [Rheinhemer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf). Map: Samanta Orellana, generated with SimpleMappr.net (Shorthouse 2010). |
+|Known distribution of _Pseudeuparius_ Jordan. Source: [Rheinheimer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf). Map: Samanta Orellana, generated with SimpleMappr.net (Shorthouse 2010). |
 
 ---
