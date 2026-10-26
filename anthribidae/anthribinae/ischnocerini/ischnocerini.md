@@ -23,7 +23,7 @@ Tribes names according to [Bouchard _el al._ (2011)](https://zookeys.pensoft.net
 
 ---
 
-| [<img src="https://media01.symbiota.org/media/ecdysis/ASU_ASUHIC/ASUHIC0126/ASUHIC0126601_lateral-edited_1581370911.jpg" alt="Meconemus angulatus" width="320" height="213.4">](https://ecdysis.org/collections/individual/index.php?occid=555936) | 
+| [<img src="https://media.biocollections.asu.edu/ecdysis/ASU_ASUHIC/ASUHIC0126/ASUHIC0126601_lateral-edited_1581370911.jpg" alt="Meconemus angulatus" width="320" height="213.4">](https://ecdysis.org/collections/individual/index.php?occid=555936) | 
 |:--:| 
 |**Diversity of Ischnocerini.** 1.) *Meconemus  angulatus* (Martin), lateral view. Specimens deposited at Arizona State University Biocollections (ASUCOB, ASUHIC). Images and data available at [ecdysis](https://ecdysis.org) portal and [GBIF](https://gbif.org). Images: Samanta Orellana. |
 
@@ -33,7 +33,7 @@ Tribes names according to [Bouchard _el al._ (2011)](https://zookeys.pensoft.net
 (12 species)
 
 
-|[<img src="https://media01.symbiota.org/media/ecdysis/ASU_ASUHIC/ASUHIC0126/ASUHIC0126601_lateral-edited_1581370911.jpg" alt="Meconemus angulatus" width="320" height="213.4">](https://ecdysis.org/collections/individual/index.php?occid=555936) [<img src="https://media01.symbiota.org/media/ecdysis/ASU_ASUHIC/ASUHIC0126/ASUHIC0126601_dorsal-edited_1581370966.jpg" alt="Meconemus angulatus" width="320" height="213.4">](https://ecdysis.org/collections/individual/index.php?occid=555936)  | 
+|[<img src="https://media.biocollections.asu.edu/ecdysis/ASU_ASUHIC/ASUHIC0126/ASUHIC0126601_lateral-edited_1581370911.jpg" alt="Meconemus angulatus" width="320" height="213.4">](https://ecdysis.org/collections/individual/index.php?occid=555936) [<img src="https://media.biocollections.asu.edu/ecdysis/ASU_ASUHIC/ASUHIC0126/ASUHIC0126601_dorsal-edited_1581370966.jpg" alt="Meconemus angulatus" width="320" height="213.4">](https://ecdysis.org/collections/individual/index.php?occid=555936)  | 
 |:--:| 
 |_Meconemus angulatus_ (Martin): 1.) lateral view, 2.) dorsal view. Specimen deposited at Arizona State University Biocollections (ASUCOB, ASUHIC). Images and data available at [ecdysis](https://ecdysis.org) portal and [GBIF](https://gbif.org). Images: Samanta Orellana|
 
