@@ -27,7 +27,7 @@ Tribe names according to [Bouchard _el al._ (2011)](https://zookeys.pensoft.net/
 ## [_Euparius_ Schoenherr, 1823: 1135](https://anthribidae.github.io/anthribidae/anthribinae/cratoparini/euparius/)
 (73 species)
 
-| [<img src="https://media01.symbiota.org/media/ecdysis/ASU_ASUHIC/ASUHIC0126/ASUHIC0126922_habitus_lateral-_1583285837.jpg" alt="Euparius subtesselatus Schaeffer" width="320" height="213.4">](https://ecdysis.org/collections/individual/index.php?occid=570343) [<img src="https://media01.symbiota.org/media/ecdysis/ASU_ASUHIC/ASUHIC0126/ASUHIC0126922_habitus_dorsal_1592452601.jpg" alt="Euparius subtesselatus Schaeffer" width="320" height="213.4">](https://ecdysis.org/collections/individual/index.php?occid=570343)
+| [<img src="https://media.biocollections.asu.edu/ecdysis/ASU_ASUHIC/ASUHIC0126/ASUHIC0126922_habitus_lateral-_1583285837.jpg" alt="Euparius subtesselatus Schaeffer" width="320" height="213.4">](https://ecdysis.org/collections/individual/index.php?occid=570343) [<img src="https://media.biocollections.asu.edu/ecdysis/ASU_ASUHIC/ASUHIC0126/ASUHIC0126922_habitus_dorsal_1592452601.jpg" alt="Euparius subtesselatus Schaeffer" width="320" height="213.4">](https://ecdysis.org/collections/individual/index.php?occid=570343)
 |:--:| 
 |*Euparius subtesselatus* Schaeffer, 1.) lateral view, 2.) dorsal view. Specimens deposited at Arizona State University Biocollections (ASUCOB, ASUHIC). Images and data available at [ecdysis](https://ecdysis.org) portal and [GBIF](https://gbif.org). Images: Samanta Orellana.|
 
@@ -50,7 +50,7 @@ Tribe names according to [Bouchard _el al._ (2011)](https://zookeys.pensoft.net/
 (1 species)
 
 
-| <img src="https://media01.symbiota.org/media/ecdysis/ASU_ASUCOB/ASUCOB0015/ASUCOB0015263_lateral_edited_1612974176.jpg" alt="Euxuthus homochrous" width="320" height="213.4"> <img src="https://media01.symbiota.org/media/ecdysis/ASU_ASUCOB/ASUCOB0015/ASUCOB0015263_dorsal_edited_1612974745.jpg" alt="Euxuthus homochrous" width="320" height="213.4"> |
+| <img src="https://media.biocollections.asu.edu/ecdysis/ASU_ASUCOB/ASUCOB0015/ASUCOB0015263_lateral_edited_1612974176.jpg" alt="Euxuthus homochrous" width="320" height="213.4"> <img src="https://media.biocollections.asu.edu/ecdysis/ASU_ASUCOB/ASUCOB0015/ASUCOB0015263_dorsal_edited_1612974745.jpg" alt="Euxuthus homochrous" width="320" height="213.4"> |
 |:--:| 
 |*Euxuthus homochrous* Jordan. 1. lateral view, 2. dorsal view. Specimens deposited at Arizona State University Biocollections (ASUCOB, ASUHIC). Images and data available at [ecdysis](https://ecdysis.org) portal and [GBIF](https://gbif.org). Images: Samanta Orellana.|
 
