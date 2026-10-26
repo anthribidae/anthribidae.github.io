@@ -32,13 +32,13 @@ Tribes names according to [Bouchard _el al._ (2011)](https://zookeys.pensoft.net
 ## _Anthribus_ Geoffroy, 1762: 306
 (6 species)
 
-| [<img src="https://media01.symbiota.org/media/ecdysis/ASU_ASUCOB/ASUCOB0015/ASUCOB0015351_dorsal_edited_1608612310.jpg" alt="Anthribus nebulosus" width="320" height="213.4">](https://ecdysis.org/collections/individual/index.php?occid=650093)  | 
+| [<img src="https://media.biocollections.asu.edu/ecdysis/ASU_ASUCOB/ASUCOB0015/ASUCOB0015351_dorsal_edited_1608612310.jpg" alt="Anthribus nebulosus" width="320" height="213.4">](https://ecdysis.org/collections/individual/index.php?occid=650093)  | 
 |:--:| 
 |_Anthribus nebulosus_ Forster : 1.) dorsal view. Specimen deposited at Arizona State University Biocollections (ASUCOB, ASUHIC). Images and data available at [ecdysis](https://ecdysis.org) portal and [GBIF](https://gbif.org). Images: Samanta Orellana|
 
 |<img width="2700" height="1350" alt="Anthribus" src="https://github.com/user-attachments/assets/c4172a53-057c-4186-bff0-b22e49ed771e" />| 
 |:--:| 
-|Known distribution of _Anthribus_ Geoffroy. Source: [Rheinhemer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf). Map: Samanta Orellana generated with SimpleMappr.net (Shorthouse 2010). |
+|Known distribution of _Anthribus_ Geoffroy. Source: [Rheinheimer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf). Map: Samanta Orellana generated with SimpleMappr.net (Shorthouse 2010). |
 
 ---
 
@@ -47,7 +47,7 @@ Tribes names according to [Bouchard _el al._ (2011)](https://zookeys.pensoft.net
 
 |<img width="2700" height="1350" alt="Opanthribus" src="https://github.com/user-attachments/assets/39680da7-789f-4b10-8b61-194473755b87" />| 
 |:--:| 
-|Known distribution of _Opanthribus_ Schilsky. Source: [Rheinhemer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf). Map: Samanta Orellana generated with SimpleMappr.net (Shorthouse 2010). |
+|Known distribution of _Opanthribus_ Schilsky. Source: [Rheinheimer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf). Map: Samanta Orellana generated with SimpleMappr.net (Shorthouse 2010). |
 
 ---
 
@@ -61,5 +61,5 @@ Tribes names according to [Bouchard _el al._ (2011)](https://zookeys.pensoft.net
 
 |<img width="2700" height="1350" alt="Streneoderma(1)" src="https://github.com/user-attachments/assets/102c0ab8-6980-4359-8653-12d6b9fe1c55" />| 
 |:--:| 
-|Known distribution of _Streneoderma_ Blackburn. Source: [Rheinhemer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf). Map: Samanta Orellana generated with SimpleMappr.net (Shorthouse 2010). |
+|Known distribution of _Streneoderma_ Blackburn. Source: [Rheinheimer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf). Map: Samanta Orellana generated with SimpleMappr.net (Shorthouse 2010). |
 
