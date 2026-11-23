@@ -20,7 +20,7 @@ Classification according to [Bouchard _el al._ (2011)](https://zookeys.pensoft.n
 1. TOC
 {:toc}
 
-| [<img src="https://media01.symbiota.org/media/ecdysis/ASU_ASUCOB/ASUCOB0015/ASUCOB0015348_dorsal_edited_1605579130.jpg" alt="Bruchela rufipes" width="320" height="213.4">](https://ecdysis.org/collections/individual/index.php?occid=645279) [<img src="https://media01.symbiota.org/media/ecdysis/ASU_ASUCOB/ASUCOB0015/ASUCOB0015361_dorsal_edited_1623815867.jpg" alt="Bruchela suturalis" width="320" height="213.4">](https://serv.biokic.asu.edu/ecdysis/collections/individual/index.php?occid=650188) |
+| [<img src="https://media.biocollections.asu.edu/ecdysis/ASU_ASUCOB/ASUCOB0015/ASUCOB0015348_dorsal_edited_1605579130.jpg" alt="Bruchela rufipes" width="320" height="213.4">](https://ecdysis.org/collections/individual/index.php?occid=645279) [<img src="https://media.biocollections.asu.edu/ecdysis/ASU_ASUCOB/ASUCOB0015/ASUCOB0015361_dorsal_edited_1623815867.jpg" alt="Bruchela suturalis" width="320" height="213.4">](https://serv.biokic.asu.edu/ecdysis/collections/individual/index.php?occid=650188) |
 |:--:| 
 |**Diversity of Urodontinae.** 1.) *Bruchela rufipes* (Olivier, 1790: 202), dorsal view. 2.) *Bruchela suturalis* (Fabricius, 1792: 372), dorsal view. Specimens deposited at Arizona State University Biocollections (ASUCOB, ASUHIC). Images and data available at [ecdysis](https://ecdysis.org) portal and [GBIF](gbif.org). Images by Samanta Orellana.|
 
@@ -29,13 +29,13 @@ Classification according to [Bouchard _el al._ (2011)](https://zookeys.pensoft.n
 ## _Bruchela_ Dejean, 1821: 78
 (41 species)
 
-| [<img src="https://media01.symbiota.org/media/ecdysis/ASU_ASUCOB/ASUCOB0015/ASUCOB0015361_dorsal_edited_1623815867.jpg" alt="Bruchela suturalis" width="320" height="213.4">](https://ecdysis.org/collections/individual/index.php?occid=650188) | 
+| [<img src="https://media.biocollections.asu.edu/ecdysis/ASU_ASUCOB/ASUCOB0015/ASUCOB0015361_dorsal_edited_1623815867.jpg" alt="Bruchela suturalis" width="320" height="213.4">](https://ecdysis.org/collections/individual/index.php?occid=650188) | 
 |:--:| 
 |1.) *Bruchela suturalis* (Fabricius, 1792: 372), dorsal view. Specimens deposited at Arizona State University Biocollections (ASUCOB, ASUHIC). Images and data available at [ecdysis](https://ecdysis.org) portal and [GBIF](gbif.org). Images: Samanta Orellana.|
 
 |<img width="2700" height="1350" alt="Bruchela_spp_" src="https://github.com/user-attachments/assets/9b4ef96a-e0eb-4df8-82b0-1bb84cce8958" />| 
 |:--:| 
-|Known distribution of _Bruchela_ Dejean. Source: [Rheinhemer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf). Map: Samanta Orellana generated with SimpleMappr.net (Shorthouse 2010). |
+|Known distribution of _Bruchela_ Dejean. Source: [Rheinheimer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf). Map: Samanta Orellana generated with SimpleMappr.net (Shorthouse 2010). |
 
 ---
 
@@ -44,7 +44,7 @@ Classification according to [Bouchard _el al._ (2011)](https://zookeys.pensoft.n
 
 |<img width="2700" height="1350" alt="Breviurodon_spp_" src="https://github.com/user-attachments/assets/56075f51-6695-4556-ad30-cb51a5d531dc" />| 
 |:--:| 
-|Known distribution of _Breviurodon_ Strejcek. Source: [Rheinhemer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf). Map: Samanta Orellana generated with SimpleMappr.net (Shorthouse 2010). |
+|Known distribution of _Breviurodon_ Strejcek. Source: [Rheinheimer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf). Map: Samanta Orellana generated with SimpleMappr.net (Shorthouse 2010). |
 
 ---
 
