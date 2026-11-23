@@ -24,7 +24,7 @@ Classification according to [Bouchard _el al._ (2011)](https://zookeys.pensoft.n
 
 ---
 
-| [<img src="https://media01.symbiota.org/media/ecdysis/ASU_ASUCOB/ASUCOB0028/ASUCOB0028758_lateral_edited_1677960724.jpg" alt="Valenfriesia" width="320" height="213.4">](https://ecdysis.org/collections/individual/index.php?occid=1170120) | 
+| [<img src="https://media.biocollections.asu.edu/ecdysis/ASU_ASUCOB/ASUCOB0028/ASUCOB0028758_lateral_edited_1677960724.jpg" alt="Valenfriesia" width="320" height="213.4">](https://ecdysis.org/collections/individual/index.php?occid=1170120) | 
 |:--:| 
 |**Diversity of Valenfriesiini.** 1.) *Valenfriesia nitida* Morimoto, lateral view. Specimens deposited at Arizona State University Biocollections (ASUCOB, ASUHIC). Images and data available at [ecdysis](https://ecdysis.org/index.php) portal and [GBIF](https://gbif.org). Images: Samanta Orellana.|
 
@@ -33,13 +33,13 @@ Classification according to [Bouchard _el al._ (2011)](https://zookeys.pensoft.n
 ## _Valenfriesia_ Alonso-Zarazaga & Lyal, 1999: 38
 (19 species)
 
-| [<img src="https://media01.symbiota.org/media/ecdysis/ASU_ASUCOB/ASUCOB0028/ASUCOB0028758_lateral_edited_1677960724.jpg" alt="Valenfriesia" width="320" height="213.4">](https://ecdysis.org/collections/individual/index.php?occid=1170120) [<img src="https://media01.symbiota.org/media/ecdysis/ASU_ASUCOB/ASUCOB0028/ASUHIC0028758_dorsal_edited_1677966184.jpg" alt="Valenfriesia" width="320" height="213.4">](https://ecdysis.org/collections/individual/index.php?occid=1170120)| 
+| [<img src="https://media.biocollections.asu.edu/ecdysis/ASU_ASUCOB/ASUCOB0028/ASUCOB0028758_lateral_edited_1677960724.jpg" alt="Valenfriesia" width="320" height="213.4">](https://ecdysis.org/collections/individual/index.php?occid=1170120) [<img src="https://media.biocollections.asu.edu/ecdysis/ASU_ASUCOB/ASUCOB0028/ASUHIC0028758_dorsal_edited_1677966184.jpg" alt="Valenfriesia" width="320" height="213.4">](https://ecdysis.org/collections/individual/index.php?occid=1170120)| 
 |:--:| 
 |_Valenfriesia nitida_ Morimoto: 1.) lateral view, 2.) dorsal view. Specimen deposited at Arizona State University Biocollections (ASUCOB, ASUHIC). Images and data available at [ecdysis](https://ecdysis.org/index.php) portal and [GBIF](gbif.org). Images: Samanta Orellana.|
 
 |<img width="2700" height="1350" alt="Valenfriesia_spp_" src="https://github.com/user-attachments/assets/30187b0b-1e8d-45dd-93b6-3a97a447b295" />| 
 |:--:| 
-|Known distribution of _Valenfriesia_ Alonso-Zarazaga & Lyal. Source: [Rheinhemer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf). Map: Samanta Orellana generated with SimpleMappr.net (Shorthouse 2010). |
+|Known distribution of _Valenfriesia_ Alonso-Zarazaga & Lyal. Source: [Rheinheimer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf). Map: Samanta Orellana generated with SimpleMappr.net (Shorthouse 2010). |
 
 ---
 
