@@ -53,7 +53,7 @@ Classification according to [Bouchard _el al._ (2011)](https://zookeys.pensoft.n
 
 |<img width="2700" height="1350" alt="Cercomorphus_spp_(1)" src="https://github.com/user-attachments/assets/0bc0db4f-99b2-495c-b99e-ffe5f19b2f76" />| 
 |:--:| 
-|Known distribution of _Cercomorphus_ Perris & Duval. Source: [Rheinhemer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf). Map: Samanta Orellana generated with SimpleMappr.net (Shorthouse 2010). |
+|Known distribution of _Cercomorphus_ Perris & Duval. Source: [Rheinheimer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf). Map: Samanta Orellana generated with SimpleMappr.net (Shorthouse 2010). |
 
 ---
 
@@ -62,7 +62,7 @@ Classification according to [Bouchard _el al._ (2011)](https://zookeys.pensoft.n
 
 |<img width="2700" height="1350" alt="Urodomorphus_sp_" src="https://github.com/user-attachments/assets/cc9d63ec-1fef-4c59-9f9e-1f71b08db9fe" />| 
 |:--:| 
-|Known distribution of _Urodomorphus_ Louw. Source: [Rheinhemer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf). Map: Samanta Orellana generated with SimpleMappr.net (Shorthouse 2010). |
+|Known distribution of _Urodomorphus_ Louw. Source: [Rheinheimer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf). Map: Samanta Orellana generated with SimpleMappr.net (Shorthouse 2010). |
 
 ---
 
@@ -71,7 +71,7 @@ Classification according to [Bouchard _el al._ (2011)](https://zookeys.pensoft.n
 
 |<img width="2700" height="1350" alt="Urodontellus_spp_" src="https://github.com/user-attachments/assets/e61026c8-dc84-476a-8816-0a9f49c99f27" />| 
 |:--:| 
-|Known distribution of _Urodontellus_ Louw. Source: [Rheinhemer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf). Map: Samanta Orellana generated with SimpleMappr.net (Shorthouse 2010). |
+|Known distribution of _Urodontellus_ Louw. Source: [Rheinheimer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf). Map: Samanta Orellana generated with SimpleMappr.net (Shorthouse 2010). |
 
 ---
 
@@ -80,7 +80,7 @@ Classification according to [Bouchard _el al._ (2011)](https://zookeys.pensoft.n
 
 |<img width="2700" height="1350" alt="Urodontidius_sp_" src="https://github.com/user-attachments/assets/da7a88cb-ac37-45e1-be69-45e437813f5e" />| 
 |:--:| 
-|Known distribution of _Urodontidius_ Louw. Source: [Rheinhemer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf). Map: Samanta Orellana generated with SimpleMappr.net (Shorthouse 2010). |
+|Known distribution of _Urodontidius_ Louw. Source: [Rheinheimer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf). Map: Samanta Orellana generated with SimpleMappr.net (Shorthouse 2010). |
 
 ---
 
@@ -89,7 +89,7 @@ Classification according to [Bouchard _el al._ (2011)](https://zookeys.pensoft.n
 
 |<img width="2700" height="1350" alt="Urodontus_spp_" src="https://github.com/user-attachments/assets/5242c80b-1d4e-4b4d-9512-4091ce1cc08c" />| 
 |:--:| 
-|Known distribution of _Urodontus_ Louw. Source: [Rheinhemer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf). Map: Samanta Orellana generated with SimpleMappr.net (Shorthouse 2010). |
+|Known distribution of _Urodontus_ Louw. Source: [Rheinheimer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf). Map: Samanta Orellana generated with SimpleMappr.net (Shorthouse 2010). |
 
 ---
 
@@ -98,4 +98,4 @@ Classification according to [Bouchard _el al._ (2011)](https://zookeys.pensoft.n
 
 |<img width="2700" height="1350" alt="Urodontus_spp_" src="https://github.com/user-attachments/assets/b3b1e7a6-9e47-4e7b-92de-a8769f7b1300" />| 
 |:--:| 
-|Known distribution of _Bruchela_ Dejean. Source: [Rheinhemer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf). Map: Samanta Orellana generated with SimpleMappr.net (Shorthouse 2010). |
+|Known distribution of _Bruchela_ Dejean. Source: [Rheinheimer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf). Map: Samanta Orellana generated with SimpleMappr.net (Shorthouse 2010). |
