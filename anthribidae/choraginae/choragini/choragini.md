@@ -23,22 +23,22 @@ Tribes names according to [Bouchard _el al._ (2011)](https://zookeys.pensoft.net
 
 ---
 
-| [<img src="https://ecdysis.org/imglib/ecdysis/ASU_ASUCOB/ASUCOB0015/ASUCOB0015597_lateral_edited_1698119533.jpg" alt="Choragus sayi" width="320" height="213.4">](https://ecdysis.org/collections/individual/index.php?occid=704124) [<img src="https://ecdysis.org/imglib/ecdysis/ASU_ASUCOB/ASUCOB0028/ASUCOB0028760_lateral_edited_1696042947.jpg" alt="Dysnos brevis" width="320" height="213.4">](https://ecdysis.org/collections/individual/index.php?occid=1170122) [<img src="https://serv.biokic.asu.edu/imglib/ecdysis/ASU_ASUCOB/ASUCOB0027/ASUCOB0027370_lateral_edited_1651938315.jpg" alt="Holostilpna" width="320" height="213.4">](https://serv.biokic.asu.edu/ecdysis/collections/individual/index.php?occid=740032) [<img src="https://ecdysis.org/imglib/ecdysis/ASU_ASUCOB/ASUCOB0028/ASUCOB0028500_lateral_edited_1682827472.jpg" alt="Pseudochoragus nitens" width="320" height="213.4">](https://ecdysis.org/collections/individual/index.php?occid=881535) | 
+| [<img src="https://media.biocollections.asu.edu/ecdysis/ASU_ASUCOB/ASUCOB0015/ASUCOB0015597_lateral_edited_1698119533.jpg" alt="Choragus sayi" width="320" height="213.4">](https://ecdysis.org/collections/individual/index.php?occid=704124) [<img src="https://media.biocollections.asu.edu/ecdysis/ASU_ASUCOB/ASUCOB0028/ASUCOB0028760_lateral_edited_1696042947.jpg" alt="Dysnos brevis" width="320" height="213.4">](https://ecdysis.org/collections/individual/index.php?occid=1170122) [<img src="https://media.biocollections.asu.edu/ecdysis/ASU_ASUCOB/ASUCOB0027/ASUCOB0027370_lateral_edited_1651938315.jpg" alt="Holostilpna" width="320" height="213.4">](https://ecdysis.org/collections/individual/index.php?occid=740032) [<img src="https://media.biocollections.asu.edu/ecdysis/ASU_ASUCOB/ASUCOB0028/ASUCOB0028500_lateral_edited_1682827472.jpg" alt="Pseudochoragus nitens" width="320" height="213.4">](https://ecdysis.org/collections/individual/index.php?occid=881535) | 
 |:--:| 
-|**Diversity of Choragini.** 1.) Choragus sayi LeConte, lateral view. 2.) *Holostilpna* sp. Jordan, lateral view. 3.) _Dysnos brevis_ Jordan, lateral view. 4.) _Pseudochoragus nitens_ (LeConte). Specimens deposited at Arizona State University Biocollections (ASUCOB, ASUHIC). Images and data available at [ecdysis](https://serv.biokic.asu.edu/ecdysis/index.php) portal and [GBIF](https://gbif.org). Images: Samanta Orellana.|
+|**Diversity of Choragini.** 1.) _Choragus sayi_ LeConte, lateral view. 2.) _Holostilpna_ sp. Jordan, lateral view. 3.) _Dysnos brevis_ Jordan, lateral view. 4.) _Pseudochoragus nitens_ (LeConte). Specimens deposited at Arizona State University Biocollections (ASUCOB, ASUHIC). Images and data available at [ecdysis](https://ecdysis.org/index.php) portal and [GBIF](https://gbif.org). Images: Samanta Orellana.|
 
 ---
 
 ## _Choragus_ Kirby, 1819: 447
 (52 species)
 
-| [<img src="https://ecdysis.org/imglib/ecdysis/ASU_ASUCOB/ASUCOB0015/ASUCOB0015597_lateral_edited_1698119533.jpg" alt="Choragus sayi" width="320" height="213.4">](https://ecdysis.org/collections/individual/index.php?occid=704124) [<img src="https://ecdysis.org/imglib/ecdysis/ASU_ASUCOB/ASUCOB0015/ASUCOB0015597_dorsal_edited_1698122927.jpg" alt="Choragus sayi" width="320" height="213.4">](https://ecdysis.org/collections/individual/index.php?occid=704124) [<img src="https://ecdysis.org/imglib/ecdysis/ASU_ASUCOB/ASUCOB0015/ASUCOB0015597_frontal_edited_1698123018.jpg" alt="Choragus sayi" width="320" height="213.4">](https://ecdysis.org/collections/individual/index.php?occid=704124)| 
+| [<img src="https://media.biocollections.asu.edu/ecdysis/ASU_ASUCOB/ASUCOB0015/ASUCOB0015597_lateral_edited_1698119533.jpg" alt="Choragus sayi" width="320" height="213.4">](https://ecdysis.org/collections/individual/index.php?occid=704124) [<img src="https://media.biocollections.asu.edu/ecdysis/ASU_ASUCOB/ASUCOB0015/ASUCOB0015597_dorsal_edited_1698122927.jpg" alt="Choragus sayi" width="320" height="213.4">](https://ecdysis.org/collections/individual/index.php?occid=704124) [<img src="https://media.biocollections.asu.edu/ecdysis/ASU_ASUCOB/ASUCOB0015/ASUCOB0015597_frontal_edited_1698123018.jpg" alt="Choragus sayi" width="320" height="213.4">](https://ecdysis.org/collections/individual/index.php?occid=704124)| 
 |:--:| 
 |_Choragus sayi_ LeConte: 1.) lateral view, 2.) dorsal view, 3.) frontal view. Specimen deposited at Arizona State University Biocollections (ASUCOB, ASUHIC). Images and data available at [ecdysis](https://ecdysis.org/index.php) portal and [GBIF](https://gbif.org). Images: Samanta Orellana.|
 
 |<img width="2700" height="1350" alt="Choragus_spp_" src="https://github.com/user-attachments/assets/11ed8c34-4e71-4ee0-b8ef-0b907be6c809" />| 
 |:--:| 
-|Known distribution of _Choragus_ Kirby. Source: [Rheinhemer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf). Map: Samanta Orellana generated with SimpleMappr.net (Shorthouse 2010). |
+|Known distribution of _Choragus_ Kirby. Source: [Rheinheimer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf). Map: Samanta Orellana generated with SimpleMappr.net (Shorthouse 2010). |
 
 ---
 
@@ -47,20 +47,20 @@ Tribes names according to [Bouchard _el al._ (2011)](https://zookeys.pensoft.net
 
 |<img width="2700" height="1350" alt="Apteroxenus_sp_" src="https://github.com/user-attachments/assets/c3c51193-ba2f-42d5-8bbf-2f7c9f02fd69" />| 
 |:--:| 
-|Known distribution of _Apteroxenus_ Valentine. Source: [Rheinhemer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf). Map: Samanta Orellana generated with SimpleMappr.net (Shorthouse 2010). |
+|Known distribution of _Apteroxenus_ Valentine. Source: [Rheinheimer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf). Map: Samanta Orellana generated with SimpleMappr.net (Shorthouse 2010). |
 
 ---
 
 ## _Dysnos_ Pascoe, 1859: 438
 (9 species)
 
-| [<img src="https://ecdysis.org/imglib/ecdysis/ASU_ASUCOB/ASUCOB0028/ASUCOB0028760_lateral_edited_1696042947.jpg" alt="Dysnos brevis" width="320" height="213.4">](https://ecdysis.org/collections/individual/index.php?occid=1170122) [<img src="https://ecdysis.org/imglib/ecdysis/ASU_ASUCOB/ASUCOB0028/ASUCOB0028760_dorsal_edited_1696043779.jpg" alt="Choragus sayi" width="320" height="213.4">](https://ecdysis.org/collections/individual/index.php?occid=1170122)| 
+| [<img src="https://media.biocollections.asu.edu/ecdysis/ASU_ASUCOB/ASUCOB0028/ASUCOB0028760_lateral_edited_1696042947.jpg" alt="Dysnos brevis" width="320" height="213.4">](https://ecdysis.org/collections/individual/index.php?occid=1170122) [<img src="https://media.biocollections.asu.edu/ecdysis/ASU_ASUCOB/ASUCOB0028/ASUCOB0028760_dorsal_edited_1696043779.jpg" alt="Choragus sayi" width="320" height="213.4">](https://ecdysis.org/collections/individual/index.php?occid=1170122)| 
 |:--:| 
 |_Dysnos brevis_ Jordan: 1.) lateral view, 2.) dorsal view. Specimen deposited at Arizona State University Biocollections (ASUCOB, ASUHIC). Images and data available at [ecdysis](https://serv.biokic.asu.edu/ecdysis/index.php) portal and [GBIF](https://gbif.org). Images: Samanta Orellana.|
 
 |<img width="2700" height="1350" alt="Dysnos_spp_" src="https://github.com/user-attachments/assets/0f41f9c2-b47e-43fd-8174-18aa8f8a4f05" />| 
 |:--:| 
-|Known distribution of _Dysnos_ Pascoe. Source: [Rheinhemer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf). Map: Samanta Orellana generated with SimpleMappr.net (Shorthouse 2010). |
+|Known distribution of _Dysnos_ Pascoe. Source: [Rheinheimer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf). Map: Samanta Orellana generated with SimpleMappr.net (Shorthouse 2010). |
 
 ---
 
@@ -69,32 +69,32 @@ Tribes names according to [Bouchard _el al._ (2011)](https://zookeys.pensoft.net
 
 |<img width="2700" height="1350" alt="Euxenulus_sp_" src="https://github.com/user-attachments/assets/ca3237fc-c4b1-4b05-95f0-ee341c2eaf25" />| 
 |:--:| 
-|Known distribution of _Euxenulus_ Valentine. Source: [Rheinhemer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf). Map: Samanta Orellana generated with SimpleMappr.net (Shorthouse 2010). |
+|Known distribution of _Euxenulus_ Valentine. Source: [Rheinheimer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf). Map: Samanta Orellana generated with SimpleMappr.net (Shorthouse 2010). |
 
 ---
 
 ## _Holostilpna_ Jordan, 1907: 382
 (7 species)
 
-| [<img src="https://media01.symbiota.org/media/ecdysis/ASU_ASUCOB/ASUCOB0027/ASUCOB0027370_lateral_edited_1651938315.jpg" alt="Holostilpna" width="320" height="213.4">](https://serv.biokic.asu.edu/ecdysis/collections/individual/index.php?occid=740032)| 
+| [<img src="https://media.biocollections.asu.edu/ecdysis/ASU_ASUCOB/ASUCOB0027/ASUCOB0027370_lateral_edited_1651938315.jpg" alt="Holostilpna" width="320" height="213.4">](https://serv.biokic.asu.edu/ecdysis/collections/individual/index.php?occid=740032)| 
 |:--:| 
-|_Holostilpna_ sp.: 1.) lateral view. Specimen deposited at Arizona State University Biocollections (ASUCOB, ASUHIC). Images and data available at [ecdysis](https://serv.biokic.asu.edu/ecdysis/index.php) portal and [GBIF](https://gbif.org). Images: Samanta Orellana |
+|_Holostilpna_ sp.: 1.) lateral view. Specimen deposited at Arizona State University Biocollections (ASUCOB, ASUHIC). Images and data available at [ecdysis](https://ecdysis.org/index.php) portal and [GBIF](https://gbif.org). Images: Samanta Orellana |
 
 |<img width="2700" height="1350" alt="Holostilpna_spp_" src="https://github.com/user-attachments/assets/863e3546-e7f4-4f19-9ab0-6aef3f07b5bc" />| 
 |:--:| 
-|Known distribution of _Holostilpna_ Jordan. Source: [Rheinhemer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf), [Jordan (1907)](https://www.biodiversitylibrary.org/item/14611#page/393/mode/1up). Map: Samanta Orellana generated with SimpleMappr.net (Shorthouse 2010). |
+|Known distribution of _Holostilpna_ Jordan. Source: [Rheinheimer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf), [Jordan (1907)](https://www.biodiversitylibrary.org/item/14611#page/393/mode/1up). Map: Samanta Orellana generated with SimpleMappr.net (Shorthouse 2010). |
 
 ---
 
 ## _Pseudochoragus_ Petri, 1912: 289
 (2 species)
 
-| [<img src="https://ecdysis.org/imglib/ecdysis/ASU_ASUCOB/ASUCOB0028/ASUCOB0028500_lateral_edited_1682827472.jpg" alt="Pseudochoragus nitens" width="320" height="213.4">](https://ecdysis.org/collections/individual/index.php?occid=881535)| 
+| [<img src="https://media.biocollections.asu.edu/ecdysis/ASU_ASUCOB/ASUCOB0028/ASUCOB0028500_lateral_edited_1682827472.jpg" alt="Pseudochoragus nitens" width="320" height="213.4">](https://ecdysis.org/collections/individual/index.php?occid=881535)| 
 |:--:| 
-|_Pseudochoragus nitens_ (LeConte): 1.) lateral view. Specimen deposited at Arizona State University Biocollections (ASUCOB, ASUHIC). Images and data available at [ecdysis](https://serv.biokic.asu.edu/ecdysis/index.php) portal and [GBIF](https://gbif.org). Images: Samanta Orellana.|
+|_Pseudochoragus nitens_ (LeConte): 1.) lateral view. Specimen deposited at Arizona State University Biocollections (ASUCOB, ASUHIC). Images and data available at [ecdysis](https://ecdysis.org/index.php) portal and [GBIF](https://gbif.org). Images: Samanta Orellana.|
 
 |<img width="2700" height="1350" alt="Pseudochoragus_spp_" src="https://github.com/user-attachments/assets/df917396-8665-4b78-accc-94a41dc0e4e9" />| 
 |:--:| 
-|Known distribution of _Pseudochoragus_ Petri. Source: [Rheinhemer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf). Map: Samanta Orellana generated with SimpleMappr.net (Shorthouse 2010). |
+|Known distribution of _Pseudochoragus_ Petri. Source: [Rheinheimer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf). Map: Samanta Orellana generated with SimpleMappr.net (Shorthouse 2010). |
 
 
